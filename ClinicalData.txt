@@ -1,0 +1,1014 @@
+CASE_ID	AGE	CANCER_TYPE	CANCER_TYPE_DETAILED	COPY_NUMBER	DATA_SOURCE	FUSION	GLEASON_SCORE_1	METASTATIC_SITE	MUTATION_BURDEN	MUTATION_COUNT	ONCOTREE_CODE	PLOIDY	PURITY	REVIEWED_GLEASON_CATEGORY	SAMPLE_TYPE
+TP_2069	66	Prostate Cancer	Prostate Adenocarcinoma	0.25	PCF_SU2C			Lymph node	6.27	188	PRAD	3.486044955	0.44		Metastasis
+TCGA-EJ-5502-01	50	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA	ERG FUSION	7		0.4	12	PRAD	2	0.2	3+4	Primary
+TCGA-YJ-A8SW-01		Prostate Cancer	Prostate Adenocarcinoma	0.38	TCGA		>=8		1.5	45	PRAD	2.452502362	0.8	4+4	Primary
+AAPC-IP_LG-019-Tumor-SM-3NC61	55	Prostate Cancer	Prostate Adenocarcinoma		AAPC		>=8				PRAD	2.19116135	0.3	4+4	Primary
+TCGA-EJ-A8FP-01	59	Prostate Cancer	Prostate Adenocarcinoma	0	TCGA		>=8		0.37	11	PRAD	2	0.2	5+4	Primary
+TCGA-EJ-7328-01	70	Prostate Cancer	Prostate Adenocarcinoma	0.05	TCGA	ERG FUSION	7		0.87	26	PRAD	2.041543301	0.4	4+3	Primary
+MO_1054	56	Prostate Cancer	Prostate Adenocarcinoma	0.15	PCF_SU2C	ETV4 FUSION		Prostate	1.37	41	PRAD	2.194097315	0.32		Metastasis
+TCGA-MG-AAMC-01	59	Prostate Cancer	Prostate Adenocarcinoma	0.08	TCGA	ERG FUSION	>=8		0.63	19	PRAD	1.928779605	0.79	4+5	Primary
+PROS01448-6115219-SM-67ERS	68	Prostate Cancer	Prostate Adenocarcinoma	0.74	PCF_SU2C				2.23	67	PRAD	3.491861637	0.64		Metastasis
+PROS12319B-SU2C-06115122-SM-4W2NH	55	Prostate Cancer	Prostate Adenocarcinoma	0.56	PCF_SU2C	ERG FUSION			1.77	53	PRAD	3.391019299	0.88		Metastasis
+TCGA-YL-A8HM-01	66	Prostate Cancer	Prostate Adenocarcinoma	0.31	TCGA		>=8		0.97	29	PRAD	1.907186672	0.82	4+4	Primary
+PR-09-5245	72	Prostate Cancer	Prostate Adenocarcinoma	0.12	Broad/Cornell_2012		>=8		1.6	48	PRAD	1.970952696	0.49	4+4	Primary
+TP_2054	70	Prostate Cancer	Prostate Adenocarcinoma	0.36	PCF_SU2C	ERG FUSION		Lymph node	4.9	147	PRAD	4.036240848	0.38		Metastasis
+P06-3939	71	Prostate Cancer	Prostate Adenocarcinoma	0.25	Broad/Cornell_2012		>=8		1.13	34	PRAD	2.035461693	0.3	4+5	Primary
+00-029N9_LN		Prostate Cancer	Prostate Adenocarcinoma	0	Nelson			Lymph Node	1.9	57	PRAD	3.078991415	0.75		Metastasis
+TCGA-ZG-A9LN-01	57	Prostate Cancer	Prostate Adenocarcinoma	0.09	TCGA		>=8		0.87	26	PRAD	2.195310141	0.35	5+5	Primary
+TCGA-EJ-A46B-01	66	Prostate Cancer	Prostate Adenocarcinoma	0.02	TCGA		>=8		0.03	1	PRAD	2	0.2	4+4	Primary
+TCGA-KK-A8IK-01		Prostate Cancer	Prostate Adenocarcinoma	0.47	TCGA		>=8		0.73	22	PRAD	1.985463226	0.91	4+4	Primary
+TCGA-HC-A76X-01		Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA	ERG FUSION	6		0.93	28	PRAD	2.011156089	0.82	3+3	Primary
+TCGA-QU-A6IN-01	61	Prostate Cancer	Prostate Adenocarcinoma	0.04	TCGA	ERG FUSION	7		0.57	17	PRAD	1.992551	0.81	3+4	Primary
+TCGA-KK-A6E4-01	69	Prostate Cancer	Prostate Adenocarcinoma	0.15	TCGA	ERG FUSION	7		1	30	PRAD	1.930851	0.74	3+4	Primary
+MO_1040	68	Prostate Cancer	Prostate Adenocarcinoma	0.12	PCF_SU2C	ERG FUSION		Lymph node	1.67	50	PRAD	1.991186138	0.69		Metastasis
+PROS01448-6115247-SM-67ES2	61	Prostate Cancer	Prostate Adenocarcinoma	0.16	PCF_SU2C	ERG FUSION			1.03	31	PRAD	1.948182726	0.8		Metastasis
+TCGA-EJ-A65F-01	59	Prostate Cancer	Prostate Adenocarcinoma	0.16	TCGA	ERG FUSION	7		2.03	61	PRAD	2.109991	0.66	4+3	Primary
+TP_2060	72	Prostate Cancer	Prostate Adenocarcinoma	0.09	PCF_SU2C			Lymph node	3.83	115	PRAD	1.894523807	0.23		Metastasis
+TP_2061	65	Prostate Cancer	Prostate Adenocarcinoma	0.59	PCF_SU2C			Pelvic mass	2.5	75	PRAD	3.037301758	0.69		Metastasis
+TCGA-HI-7169-01	55	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA	ERG FUSION	7		1	30	PRAD	2	0.2	3+4	Primary
+TP_2064	71	Prostate Cancer	Prostate Adenocarcinoma	0.61	PCF_SU2C			Lymph node	3.5	105	PRAD	2.91988115	0.67		Metastasis
+PRAD-01115343-SM-6VZ7N	73	Prostate Cancer	Prostate Adenocarcinoma	0.26	PCF_SU2C			Bone	1.5	45	PRAD	1.845255323	0.4		Metastasis
+PROS01448-6115235-SM-67ERY	80	Prostate Cancer	Prostate Adenocarcinoma	0.35	PCF_SU2C				4.6	138	PRAD	1.992843098	0.83		Metastasis
+TCGA-G9-6498-01	53	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA		7		0.6	18	PRAD	2.032143	0.49	3+4	Primary
+TCGA-V1-A8MU-01		Prostate Cancer	Prostate Adenocarcinoma	0.06	TCGA		7		0.73	22	PRAD	1.97509724	0.47	4+3	Primary
+TCGA-YL-A8SR-01	64	Prostate Cancer	Prostate Adenocarcinoma	0.25	TCGA		7		0.8	24	PRAD	1.984702017	0.64	4+3	Primary
+TCGA-CH-5763-01	66	Prostate Cancer	Prostate Adenocarcinoma	0.02	TCGA	ETV4 FUSION	7		0.57	17	PRAD	2	0.2	3+4	Primary
+TCGA-EJ-5514-01	66	Prostate Cancer	Prostate Adenocarcinoma	0.33	TCGA		7		1.17	35	PRAD	1.969969	0.59	4+3	Primary
+TCGA-G9-6362-01	57	Prostate Cancer	Prostate Adenocarcinoma	0.1	TCGA	ERG FUSION	7		0.73	22	PRAD	2.016811409	0.82	4+3	Primary
+05-214BB2_BONE		Prostate Cancer	Prostate Adenocarcinoma	0.03	Nelson			Bone	2.2	66	PRAD	3.559065253	0.66		Metastasis
+TCGA-VP-A872-01	60	Prostate Cancer	Prostate Adenocarcinoma	0.14	TCGA	ERG FUSION	7		0.77	23	PRAD	2.028419	0.58	3+4	Primary
+TCGA-EJ-8472-01	63	Prostate Cancer	Prostate Adenocarcinoma	0.29	TCGA	ERG FUSION	>=8		1.33	40	PRAD	1.960760012	0.76	4+4	Primary
+MO_1277	54	Prostate Cancer	Prostate Adenocarcinoma	0.33	PCF_SU2C	ERG FUSION		Bone	1.9	57	PRAD	1.894399607	0.88		Metastasis
+08-037F1_LIVER		Prostate Cancer	Prostate Adenocarcinoma	0.01	Nelson			Liver	0.93	28	PRAD	3.323261873	0.7		Metastasis
+MO_1015	75	Prostate Cancer	Prostate Adenocarcinoma	0.69	PCF_SU2C	ERG FUSION		Lymph node	1.67	50	PRAD	1.712333332	0.79		Metastasis
+TCGA-KK-A7AQ-01	62	Prostate Cancer	Prostate Adenocarcinoma	0.11	TCGA		7		0.8	24	PRAD	1.962899	0.73	4+3	Primary
+TCGA-KK-A7B2-01	68	Prostate Cancer	Prostate Adenocarcinoma	0	TCGA	ERG FUSION	>=8		0.5	15	PRAD	2.111862	0.16	4+5	Primary
+TCGA-V1-A8MJ-01		Prostate Cancer	Prostate Adenocarcinoma	0	TCGA	ETV1 FUSION	6		0.57	17	PRAD	2.045800952	0.22	3+3	Primary
+TP_2032	74	Prostate Cancer	Prostate Adenocarcinoma	0.24	PCF_SU2C			Lymph node	1.73	52	PRAD	1.950930541	0.57		Metastasis
+TP_2034		Prostate Cancer	Prostate Adenocarcinoma	0.24	PCF_SU2C	ERG FUSION		Bone	1.6	48	PRAD	1.962958512	0.51		Metastasis
+TCGA-VN-A88O-01	49	Prostate Cancer	Prostate Adenocarcinoma	0.06	TCGA		6		1.07	32	PRAD	1.972844	0.33	3+3	Primary
+TCGA-HC-8256-01	53	Prostate Cancer	Prostate Adenocarcinoma	0.07	TCGA		7		0.7	21	PRAD	2.150222908	0.53	4+3	Primary
+TCGA-ZG-A9LY-01	60	Prostate Cancer	Prostate Adenocarcinoma	0.19	TCGA	ETV1 FUSION	>=8		0.9	27	PRAD	2.142975902	0.39	5+4	Primary
+TCGA-HI-7170-01	58	Prostate Cancer	Prostate Adenocarcinoma	0.05	TCGA		6		0.77	23	PRAD	2.012939	0.49	3+3	Primary
+TCGA-HC-A6AP-01	61	Prostate Cancer	Prostate Adenocarcinoma	0.06	TCGA		7		1.07	32	PRAD	2.012695	0.38	3+4	Primary
+AAPC-STID0000021577-Tumor-SM-3RVWH	66	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	1.997387626	0.51	3+4	Primary
+TCGA-J4-A83I-01	63	Prostate Cancer	Prostate Adenocarcinoma	0.08	TCGA	ERG FUSION	7		0.67	20	PRAD	1.930731678	0.75	4+3	Primary
+MO_1020	63	Prostate Cancer	Prostate Adenocarcinoma	0.33	PCF_SU2C			Liver	1.6	48	PRAD	2.000572062	0.36		Metastasis
+MO_1262	53	Prostate Cancer	Prostate Adenocarcinoma	0.09	PCF_SU2C	ETV4 FUSION		Lymph node	2.33	70	PRAD	1.93226017	0.84		Metastasis
+MO_1021	59	Prostate Cancer	Prostate Adenocarcinoma	0	PCF_SU2C			Prostate	0.07	2	PRAD	2	0.2		Metastasis
+PR-0099	70	Prostate Cancer	Prostate Adenocarcinoma	0.01	Broad/Cornell_2012	ERG FUSION	7		0.83	25	PRAD	1.985952642	0.3	3+4	Primary
+PRAD-6115394.0-SM-7LGUG	66	Prostate Cancer	Prostate Adenocarcinoma	0.51	PCF_SU2C				2.17	65	PRAD	3.175076531	0.51		Metastasis
+TCGA-CH-5741-01	56	Prostate Cancer	Prostate Adenocarcinoma	0.07	TCGA	ERG FUSION	>=8		1.03	31	PRAD	1.985419594	0.77	5+4	Primary
+PR-3127	55	Prostate Cancer	Prostate Adenocarcinoma	0.04	Broad/Cornell_2012		7		0.77	23	PRAD	1.925751705	0.6	3+4	Primary
+TCGA-EJ-A7NM-01	64	Prostate Cancer	Prostate Adenocarcinoma	0.1	TCGA	ETV4 FUSION	7		1.4	42	PRAD	2.003246	0.62	4+3	Primary
+AAPC-STID0000020209-Tumor-SM-2XU21	66	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	2.407304473	0.21	3+4	Primary
+TCGA-EJ-7318-01	51	Prostate Cancer	Prostate Adenocarcinoma	0.03	TCGA	ETV1 FUSION	6		1	30	PRAD	2.017164277	0.59	3+3	Primary
+AAPC-IP_LG-047-Tumor-SM-3NC6J	70	Prostate Cancer	Prostate Adenocarcinoma		AAPC		>=8				PRAD	1.989290491	0.47	4+5	Primary
+AAPC-STID0000003057-Tumor-SM-2XTZT	52	Prostate Cancer	Prostate Adenocarcinoma		AAPC		6				PRAD	2	0.2	3+3	Primary
+TCGA-J4-A67K-01	68	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA	ERG FUSION	7		0.9	27	PRAD	2.000657	0.33	4+3	Primary
+TCGA-EJ-5512-01	46	Prostate Cancer	Prostate Adenocarcinoma	0.04	TCGA	ERG FUSION	6		0.83	25	PRAD	1.983701	0.34	3+3	Primary
+TCGA-G9-6339-01	58	Prostate Cancer	Prostate Adenocarcinoma	0.04	TCGA	ETV1 FUSION	7		1.2	36	PRAD	1.961243	0.45	3+4	Primary
+MO_1094	67	Prostate Cancer	Prostate Adenocarcinoma	0.29	PCF_SU2C			Bone	1.4	42	PRAD	1.812120197	0.85		Metastasis
+TCGA-KC-A4BN-01	55	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA	ERG FUSION	6		0.7	21	PRAD	2	0.2	3+3	Primary
+MO_1095	72	Prostate Cancer	Prostate Adenocarcinoma	0.43	PCF_SU2C	ERG FUSION		Thoracic epidural mass	1.57	47	PRAD	2.743946013	0.37		Metastasis
+TCGA-HC-A631-01	67	Prostate Cancer	Prostate Adenocarcinoma	0.19	TCGA	ETV1 FUSION	7		1.07	32	PRAD	2.071634	0.85	3+4	Primary
+AAPC-STID0000021556-Tumor-SM-3RVW9	59	Prostate Cancer	Prostate Adenocarcinoma		AAPC		6				PRAD	2.054094386	0.27	3+3	Primary
+MO_1096	66	Prostate Cancer	Prostate Adenocarcinoma	0.32	PCF_SU2C			Bone	1.77	53	PRAD	1.884837197	0.7		Metastasis
+PROS11496-6115288-SM-6CNQ1		Prostate Cancer	Prostate Adenocarcinoma	0.51	PCF_SU2C				2.47	74	PRAD	1.775183797	0.93		Metastasis
+TCGA-CH-5765-01	55	Prostate Cancer	Prostate Adenocarcinoma	0.06	TCGA	ERG FUSION	7		1.37	41	PRAD	1.950068438	0.72	3+4	Primary
+P03-2345	56	Prostate Cancer	Prostate Adenocarcinoma	0.04	Broad/Cornell_2012	ERG FUSION	7		0.7	21	PRAD	1.941755844	0.54	3+4	Primary
+P00-000450	59	Prostate Cancer	Prostate Adenocarcinoma	0.12	Broad/Cornell_2012	ERG FUSION	7		1	30	PRAD	1.937563154	0.57	4+3	Primary
+21510		Prostate Cancer	Prostate Adenocarcinoma	0.08	NEPC				1.5	45	PRAD	2.013692383	0.31		Primary
+TCGA-EJ-5524-01	57	Prostate Cancer	Prostate Adenocarcinoma	0.12	TCGA	ERG FUSION	7		1.17	35	PRAD	1.921853	0.57	4+3	Primary
+TCGA-V1-A8ML-01		Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA		7		0.4	12	PRAD	2.040582747	0.3	3+4	Primary
+10-013F1_LN		Prostate Cancer	Prostate Adenocarcinoma	0	Nelson			Lymph Node	1.6	48	PRAD	3.458554385	0.59		Metastasis
+P04-2599	68	Prostate Cancer	Prostate Adenocarcinoma	0.17	Broad/Cornell_2012		7		0.77	23	PRAD	2.082121961	0.53	4+3	Primary
+PROS01448-6115242-SM-67ES1	65	Prostate Cancer	Prostate Adenocarcinoma	0.49	PCF_SU2C				1.57	47	PRAD	3.354204062	0.44		Metastasis
+TCGA-Y6-A8TL-01	65	Prostate Cancer	Prostate Adenocarcinoma	0.05	TCGA		6		0.9	27	PRAD	2.001451986	0.57	3+3	Primary
+PR-01-2382	50	Prostate Cancer	Prostate Adenocarcinoma	0.08	Broad/Cornell_2012	ERG FUSION	7		0.6	18	PRAD	1.945616068	0.4	3+4	Primary
+TCGA-HC-7821-01	54	Prostate Cancer	Prostate Adenocarcinoma	0.15	TCGA	ERG FUSION	>=8		0.77	23	PRAD	1.929196	0.8	4+5	Primary
+AAPC-IP_LG-077-Tumor-SM-3NC78	71	Prostate Cancer	Prostate Adenocarcinoma		AAPC		>=8				PRAD	2.017001065	0.21	4+4	Primary
+PROS10448-SUTC.01115090-SM-4JC6W		Prostate Cancer	Prostate Adenocarcinoma	0.5	PCF_SU2C				1.43	43	PRAD	2.194242023	0.52		Metastasis
+MO_1084	77	Prostate Cancer	Prostate Adenocarcinoma	0.54	PCF_SU2C	ERG FUSION		Lymph node	1.83	55	PRAD	1.895510076	0.8		Metastasis
+PR-03-870	52	Prostate Cancer	Prostate Adenocarcinoma	0.02	Broad/Cornell_2012		7		1.13	34	PRAD	1.960312834	0.23	4+3	Primary
+PROS11496-6115317-SM-6CNQ2		Prostate Cancer	Prostate Adenocarcinoma	0.47	PCF_SU2C				3.33	100	PRAD	3.882810453	0.57		Metastasis
+20630		Prostate Cancer	Prostate Adenocarcinoma	0.04	NEPC				3.23	97	PRAD	1.716933332	0.3		Primary
+TCGA-HC-7745-01	65	Prostate Cancer	Prostate Adenocarcinoma	0.16	TCGA	ERG FUSION	7		1	30	PRAD	2.049863418	0.34	4+3	Primary
+20870		Prostate Cancer	Prostate Adenocarcinoma	0.24	NEPC			Lymph Node	4.47	134	PRAD	1.876823499	0.81		Metastasis
+PRAD-01115264-SM-6WZFA	70	Prostate Cancer	Prostate Adenocarcinoma	0.43	PCF_SU2C			Bone	1.5	45	PRAD	4.472054617	0.54		Metastasis
+AAPC-STID0000015908-Tumor-SM-2XU1U	51	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	2.048174514	0.27	3+4	Primary
+AAPC-STID0000021562-Tumor-SM-2XTYT	57	Prostate Cancer	Prostate Adenocarcinoma		AAPC		6				PRAD	2.064388063	0.4	3+3	Primary
+TCGA-CH-5753-01	70	Prostate Cancer	Prostate Adenocarcinoma	0.2	TCGA	ETV1 FUSION	>=8		1.37	41	PRAD	1.900045036	0.78	4+5	Primary
+TCGA-HC-7080-01	66	Prostate Cancer	Prostate Adenocarcinoma	0.12	TCGA		>=8		0.9	27	PRAD	1.950857	0.86	4+5	Primary
+TCGA-J9-A52E-01	65	Prostate Cancer	Prostate Adenocarcinoma	0.28	TCGA	ERG FUSION	>=8		0.6	18	PRAD	1.985278298	0.59	4+5	Primary
+TCGA-EJ-A8FN-01	58	Prostate Cancer	Prostate Adenocarcinoma	0.09	TCGA		6		1.07	32	PRAD	2.033288	0.63	3+3	Primary
+P07-837	69	Prostate Cancer	Prostate Adenocarcinoma	0.35	Broad/Cornell_2012		7		0.57	17	PRAD	2.4403773	0.44	4+3	Primary
+TCGA-HC-7079-01	51	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA	FLI1 FUSION	>=8		0.07	2	PRAD	2	0.2	5+4	Primary
+MO_1071	54	Prostate Cancer	Prostate Adenocarcinoma	0.14	PCF_SU2C	ERG FUSION		Prostate	1.5	45	PRAD	2.168294566	0.34		Metastasis
+TCGA-ZG-A9KY-01	73	Prostate Cancer	Prostate Adenocarcinoma	0.29	TCGA		>=8		1.73	52	PRAD	1.896373779	0.32	5+5	Primary
+MO_1074	69	Prostate Cancer	Prostate Adenocarcinoma	0.22	PCF_SU2C			Bone	2.9	87	PRAD	1.876596546	0.42		Metastasis
+PROS01448-DFCI.10-448.P42-SM-5CQ55	77	Prostate Cancer	Prostate Adenocarcinoma	0.52	PCF_SU2C				1.83	55	PRAD	3.821613003	0.7		Metastasis
+TCGA-KK-A7B0-01	67	Prostate Cancer	Prostate Adenocarcinoma	0.06	TCGA		>=8		0.8	24	PRAD	2.002699	0.3	4+5	Primary
+TP_2077	68	Prostate Cancer	Prostate Adenocarcinoma	0.12	PCF_SU2C			Lymph node	2.6	78	PRAD	2.008380947	0.83		Metastasis
+TP_2079	66	Prostate Cancer	Prostate Adenocarcinoma	0.37	PCF_SU2C			Bone	2.53	76	PRAD	2.062019005	0.94		Metastasis
+TP_2078	86	Prostate Cancer	Prostate Adenocarcinoma	0.67	PCF_SU2C			Lymph node	4.07	122	PRAD	3.868832886	0.8		Metastasis
+TCGA-YL-A8HO-01	67	Prostate Cancer	Prostate Adenocarcinoma	0.15	TCGA		7		1.13	34	PRAD	3.041649189	0.3	3+4	Primary
+TCGA-EJ-A46D-01	53	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA	ERG FUSION	6		0.37	11	PRAD	2	0.2	3+3	Primary
+TCGA-KK-A8IM-01	55	Prostate Cancer	Prostate Adenocarcinoma	0.07	TCGA	ERG FUSION	7		0.7	21	PRAD	1.998294728	0.41	4+3	Primary
+PROS01448-6115251-SM-67ES6	71	Prostate Cancer	Prostate Adenocarcinoma	0.35	PCF_SU2C				1.37	41	PRAD	1.97888171	0.75		Metastasis
+TCGA-QU-A6IL-01	64	Prostate Cancer	Prostate Adenocarcinoma	0.11	TCGA		7		0.7	21	PRAD	1.98347	0.78	3+4	Primary
+P04-1243	63	Prostate Cancer	Prostate Adenocarcinoma	0.59	Broad/Cornell_2012	ERG FUSION	7		1.23	37	PRAD	3.490039208	0.74	3+4	Primary
+TCGA-HC-8266-01	55	Prostate Cancer	Prostate Adenocarcinoma	0.1	TCGA		>=8		0.63	19	PRAD	2.150381282	0.29	4+5	Primary
+TCGA-EJ-7788-01	53	Prostate Cancer	Prostate Adenocarcinoma	0.12	TCGA	ETV1 FUSION	>=8		1	30	PRAD	1.979591	0.68	4+5	Primary
+TCGA-KK-A7AZ-01	56	Prostate Cancer	Prostate Adenocarcinoma	0.12	TCGA		7		1.03	31	PRAD	2.034815	0.81	4+3	Primary
+AAPC-STID0000002520-Tumor-SM-2XTZB	51	Prostate Cancer	Prostate Adenocarcinoma		AAPC		6				PRAD	2.003002815	0.3	3+3	Primary
+AAPC-STID0000010880-Tumor-SM-2XU1C	65	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	1.93386341	0.37	3+4	Primary
+TCGA-G9-A9S4-01	62	Prostate Cancer	Prostate Adenocarcinoma	0.2	TCGA	ERG FUSION	>=8		0.9	27	PRAD	1.557928293	0.22	4+4	Primary
+MO_1202	70	Prostate Cancer	Prostate Adenocarcinoma	0.57	PCF_SU2C	ERG FUSION		Liver	1.87	56	PRAD	4.52012924	0.61		Metastasis
+PROS11496-6115285-SM-6CNPX		Prostate Cancer	Prostate Adenocarcinoma	0.08	PCF_SU2C				1.43	43	PRAD	2.018541521	0.3		Metastasis
+TCGA-EJ-8474-01	69	Prostate Cancer	Prostate Adenocarcinoma	0.04	TCGA	ETV1 FUSION	7		1.57	47	PRAD	1.974215836	0.3	3+4	Primary
+MO_1447	58	Prostate Cancer	Prostate Adenocarcinoma	0.5	PCF_SU2C			Lymph Node	4.57	137	PRAD	3.749032438	0.8		Metastasis
+TCGA-EJ-7314-01	62	Prostate Cancer	Prostate Adenocarcinoma	0.08	TCGA	ERG FUSION	7		1.03	31	PRAD	1.993127542	0.59	4+3	Primary
+PRAD-6115400.0-SM-7LGUM	73	Prostate Cancer	Prostate Adenocarcinoma	0.27	PCF_SU2C				1.17	35	PRAD	3.796864094	0.25		Metastasis
+TCGA-KC-A4BR-01		Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA	ERG FUSION	7		0.3	9	PRAD	1.694596233	0.3	3+4	Primary
+TCGA-J4-A67R-01	65	Prostate Cancer	Prostate Adenocarcinoma	0	TCGA	ERG FUSION	7		0.73	22	PRAD	2	0.2	4+3	Primary
+TCGA-G9-6364-01	72	Prostate Cancer	Prostate Adenocarcinoma	0.04	TCGA	ERG FUSION	7		0.63	19	PRAD	1.971586712	0.56	3+4	Primary
+PR-03-022	70	Prostate Cancer	Prostate Adenocarcinoma	0.06	Broad/Cornell_2012	ERG FUSION	7		1.13	34	PRAD	1.951029626	0.61	3+4	Primary
+PRAD-6115387.0-SM-7LGU9	83	Prostate Cancer	Prostate Adenocarcinoma	0.27	PCF_SU2C				2.53	76	PRAD	3.577274545	0.22		Metastasis
+PR-09-5094	77	Prostate Cancer	Prostate Adenocarcinoma	0.1	Broad/Cornell_2012		>=8		1.43	43	PRAD	1.893469264	0.64	4+4	Primary
+TCGA-EJ-5516-01	49	Prostate Cancer	Prostate Adenocarcinoma	0.06	TCGA	ERG FUSION	7		1.27	38	PRAD	2.044144	0.29	4+3	Primary
+TCGA-CH-5761-01	61	Prostate Cancer	Prostate Adenocarcinoma	0.33	TCGA		>=8		1.9	57	PRAD	1.985113011	0.66	5+5	Primary
+AAPC-STID0000013409-Tumor-SM-2XU1R	51	Prostate Cancer	Prostate Adenocarcinoma		AAPC		>=8				PRAD	2.048422166	0.39	4+5	Primary
+PRAD-6115391.0-SM-7LGUD	69	Prostate Cancer	Prostate Adenocarcinoma	0.28	PCF_SU2C				4.27	128	PRAD	1.721956214	0.67		Metastasis
+TCGA-V1-A9OT-01	61	Prostate Cancer	Prostate Adenocarcinoma	0.05	TCGA	ERG FUSION	6		0.7	21	PRAD	1.970862284	0.74	3+3	Primary
+TCGA-G9-6329-01	67	Prostate Cancer	Prostate Adenocarcinoma	0.02	TCGA	ERG FUSION	7		0.63	19	PRAD	1.960662	0.28	3+4	Primary
+AAPC-STID0000021606-Tumor-SM-2XTZX		Prostate Cancer	Prostate Adenocarcinoma		AAPC						PRAD	1.896950145	0.26		Primary
+AAPC-STID0000008820-Tumor-SM-2XU16	60	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	2.0542934	0.21	3+4	Primary
+AAPC-IP_LG-033-Tumor-SM-3NC6B	54	Prostate Cancer	Prostate Adenocarcinoma		AAPC		>=8				PRAD	2.000263142	0.34	4+5	Primary
+TCGA-FC-A66V-01	74	Prostate Cancer	Prostate Adenocarcinoma	0	TCGA		7		0.03	1	PRAD	2	0.2	4+3	Primary
+TCGA-FC-A8O0-01	68	Prostate Cancer	Prostate Adenocarcinoma	0	TCGA		6		0.5	15	PRAD	2	0.2	3+3	Primary
+TCGA-HC-8264-01	60	Prostate Cancer	Prostate Adenocarcinoma	0.07	TCGA		7		1.07	32	PRAD	2.010438251	0.85	3+4	Primary
+12688		Prostate Cancer	Prostate Adenocarcinoma	0.6	NEPC				3.93	118	PRAD	2.069299357	0.86		Primary
+TCGA-YL-A8SK-01	67	Prostate Cancer	Prostate Adenocarcinoma	0.19	TCGA		7		1	30	PRAD	2.069375243	0.42	3+4	Primary
+TCGA-ZG-A9L6-01	64	Prostate Cancer	Prostate Adenocarcinoma	0.08	TCGA		>=8		0.9	27	PRAD	2.017476262	0.33	5+5	Primary
+P06-1125	66	Prostate Cancer	Prostate Adenocarcinoma	0.06	Broad/Cornell_2012	ERG FUSION	7		1.13	34	PRAD	1.971114348	0.44	3+4	Primary
+PROS10448-SUTC.01115086-SM-4JC6K	79	Prostate Cancer	Prostate Adenocarcinoma	0.1	PCF_SU2C				1.77	53	PRAD	1.702923839	0.37		Metastasis
+TCGA-CH-5738-01	72	Prostate Cancer	Prostate Adenocarcinoma	0.02	TCGA	FLI1 FUSION	6		0.97	29	PRAD	2.042550392	0.3	3+3	Primary
+TCGA-KK-A6E6-01	69	Prostate Cancer	Prostate Adenocarcinoma	0.05	TCGA	ERG FUSION	7		1.07	32	PRAD	1.819795	0.57	4+3	Primary
+AAPC-STID0000021610-Tumor-SM-2XU13	48	Prostate Cancer	Prostate Adenocarcinoma		AAPC		6				PRAD	2.091553242	0.3	3+3	Primary
+TCGA-KK-A8IG-01		Prostate Cancer	Prostate Adenocarcinoma	0.2	TCGA		>=8		0.93	28	PRAD	1.932656761	0.66	4+4	Primary
+PROS01448-DFCI.10-448.P29-SM-5CQ4S		Prostate Cancer	Prostate Adenocarcinoma	0.33	PCF_SU2C				2.5	75	PRAD	2.946017985	0.22		Metastasis
+TCGA-HC-A6HX-01	55	Prostate Cancer	Prostate Adenocarcinoma	0.03	TCGA		7		0.7	21	PRAD	2.056269	0.22	4+3	Primary
+AAPC-STID0000021605-Tumor-SM-3RVWN	58	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	2.051614017	0.24	3+4	Primary
+PR-05-3595	64	Prostate Cancer	Prostate Adenocarcinoma	0.03	Broad/Cornell_2012		7		0.67	20	PRAD	2.015690625	0.57	3+4	Primary
+TCGA-V1-A9Z8-01	59	Prostate Cancer	Prostate Adenocarcinoma	0.1	TCGA		>=8		0.9	27	PRAD	2.051980282	0.43	5+4	Primary
+TCGA-HC-7075-01	63	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA		7		1.07	32	PRAD	2.012809	0.67	3+4	Primary
+PROS01448-6115233-SM-67ERW	84	Prostate Cancer	Prostate Adenocarcinoma	0.49	PCF_SU2C				2.23	67	PRAD	3.718471619	0.75		Metastasis
+TCGA-QU-A6IP-01	66	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA	ERG FUSION	6		0.53	16	PRAD	2.043885	0.35	3+3	Primary
+TCGA-KK-A59Y-01	56	Prostate Cancer	Prostate Adenocarcinoma	0.11	TCGA	ERG FUSION	>=8		0.53	16	PRAD	2.00742	0.72	4+5	Primary
+MO_1421	56	Prostate Cancer	Prostate Adenocarcinoma	0.28	PCF_SU2C			Bone	3.27	98	PRAD	2.613014468	0.31		Metastasis
+SC_9118	58	Prostate Cancer	Prostate Adenocarcinoma	0.43	PCF_SU2C			Lymph node	5.03	151	PRAD	3.424297505	0.4		Metastasis
+TCGA-ZG-A9MC-01	69	Prostate Cancer	Prostate Adenocarcinoma	0.02	TCGA	ERG FUSION	>=8		0.9	27	PRAD	2.09258883	0.22	5+4	Primary
+MO_1249	70	Prostate Cancer	Prostate Adenocarcinoma	0.36	PCF_SU2C	ERG FUSION		Lymph node	2.97	89	PRAD	3.33098117	0.47		Metastasis
+MO_1008	47	Prostate Cancer	Prostate Adenocarcinoma	0.43	PCF_SU2C			Dura	2.03	61	PRAD	4.804333894	0.68		Metastasis
+TCGA-HC-A9TH-01	58	Prostate Cancer	Prostate Adenocarcinoma	0.09	TCGA	ETV1 FUSION	>=8		1.2	36	PRAD	1.979779808	0.66	5+4	Primary
+SC_9114	68	Prostate Cancer	Prostate Adenocarcinoma	0.04	PCF_SU2C			Bone	4.37	131	PRAD	2.090371829	0.37		Metastasis
+TCGA-ZG-A8QY-01	67	Prostate Cancer	Prostate Adenocarcinoma	0.12	TCGA		>=8		1.5	45	PRAD	1.956740812	0.53	4+4	Primary
+PROS11496-6115236-SM-6CNPW		Prostate Cancer	Prostate Adenocarcinoma	0.3	PCF_SU2C				1.43	43	PRAD	2.100470588	0.62		Metastasis
+24852		Prostate Cancer	Prostate Adenocarcinoma	0.35	NEPC				1.4	42	PRAD	1.853692833	0.62		Metastasis
+TCGA-KK-A6E8-01	68	Prostate Cancer	Prostate Adenocarcinoma	0.24	TCGA		>=8		1.23	37	PRAD	2.148614	0.81	4+5	Primary
+24854		Prostate Cancer	Prostate Adenocarcinoma	0.3	NEPC				1.2	36	PRAD	1.989843591	0.54		Metastasis
+TCGA-CH-5751-01	68	Prostate Cancer	Prostate Adenocarcinoma	0.26	TCGA		>=8		0.73	22	PRAD	3.431609423	0.37	4+4	Primary
+PROS10448-SUTC.01115081-SM-4JC6A		Prostate Cancer	Prostate Adenocarcinoma	0.22	PCF_SU2C				0.6	18	PRAD	2.121252219	0.29		Metastasis
+TCGA-HC-7077-01	64	Prostate Cancer	Prostate Adenocarcinoma	0.07	TCGA	ERG FUSION	7		1.6	48	PRAD	1.967737	0.87	3+4	Primary
+TCGA-KC-A7FD-01		Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA	ETV4 FUSION	6		1.27	38	PRAD	1.983455	0.7	3+3	Primary
+TCGA-HC-A8D0-01		Prostate Cancer	Prostate Adenocarcinoma	0.04	TCGA	ERG FUSION	>=8		0.83	25	PRAD	1.998543911	0.32	4+4	Primary
+P06-4428	47	Prostate Cancer	Prostate Adenocarcinoma	0.04	Broad/Cornell_2012	ERG FUSION	7		0.6	18	PRAD	1.97080158	0.56	3+4	Primary
+AAPC-STID0000021561-Tumor-SM-3RVWB	45	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	1.969338229	0.3	3+4	Primary
+MO_1012	71	Prostate Cancer	Prostate Adenocarcinoma	0.46	PCF_SU2C			Subcutaneous nodule	47.17	1415	PRAD	3.582576102	0.78		Metastasis
+MO_1013	55	Prostate Cancer	Prostate Adenocarcinoma	0.51	PCF_SU2C			Lymph node	7.67	230	PRAD	3.383822115	0.42		Metastasis
+MO_1014	65	Prostate Cancer	Prostate Adenocarcinoma	0.52	PCF_SU2C			Lymph node	4.13	124	PRAD	3.298606489	0.63		Metastasis
+SC_9129	67	Prostate Cancer	Prostate Adenocarcinoma	0.02	PCF_SU2C			Lymph node	4.53	136	PRAD	2.160600306	0.3		Metastasis
+TP_2010	64	Prostate Cancer	Prostate Adenocarcinoma	0.29	PCF_SU2C			Lymph node	1.87	56	PRAD	1.831197432	0.76		Metastasis
+SC_9128	62	Prostate Cancer	Prostate Adenocarcinoma	0.01	PCF_SU2C			Bone	1.67	50	PRAD	2	0.2		Metastasis
+SC_9127	70	Prostate Cancer	Prostate Adenocarcinoma	0.01	PCF_SU2C			Bone	2.67	80	PRAD	2	0.2		Metastasis
+TCGA-TK-A8OK-01		Prostate Cancer	Prostate Adenocarcinoma	0.11	TCGA		>=8		1.07	32	PRAD	1.983076764	0.51	5+4	Primary
+SC_9126	51	Prostate Cancer	Prostate Adenocarcinoma	0.38	PCF_SU2C			Lymph node	3.93	118	PRAD	3.532057363	0.67		Metastasis
+TCGA-EJ-A46F-01	57	Prostate Cancer	Prostate Adenocarcinoma	0.14	TCGA	ERG FUSION	>=8		0.9	27	PRAD	2.087894	0.88	4+4	Primary
+SC_9124	69	Prostate Cancer	Prostate Adenocarcinoma	0.52	PCF_SU2C			Lymph node	3.33	100	PRAD	3.622911421	0.37		Metastasis
+P05-620	59	Prostate Cancer	Prostate Adenocarcinoma	0.27	Broad/Cornell_2012		7		1.23	37	PRAD	2.181685995	0.75	4+3	Primary
+SC_9123	68	Prostate Cancer	Prostate Adenocarcinoma	0.22	PCF_SU2C			Lymph node	5	150	PRAD	2.304519056	0.69		Metastasis
+SC_9121	57	Prostate Cancer	Prostate Adenocarcinoma	0.4	PCF_SU2C			Bone	3.97	119	PRAD	3.225851173	0.62		Metastasis
+TCGA-J4-8198-01	49	Prostate Cancer	Prostate Adenocarcinoma	0.08	TCGA	ERG FUSION	7		0.8	24	PRAD	2.183136	0.61	3+4	Primary
+AAPC-STID0000017668-Tumor-SM-2XU1W	63	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	2.053051727	0.45	3+4	Primary
+PR-02-1736	58	Prostate Cancer	Prostate Adenocarcinoma	0.08	Broad/Cornell_2012		7		0.6	18	PRAD	2.068756782	0.3	3+4	Primary
+TCGA-YL-A9WH-01	67	Prostate Cancer	Prostate Adenocarcinoma	0.65	TCGA	ETV1 FUSION	7		1.57	47	PRAD	3.14512482	0.52	4+3	Primary
+TCGA-HC-A6AN-01	67	Prostate Cancer	Prostate Adenocarcinoma	0.09	TCGA	ERG FUSION	7		1.03	31	PRAD	1.950222	0.65	4+3	Primary
+TCGA-G9-6342-01	61	Prostate Cancer	Prostate Adenocarcinoma	0.06	TCGA	ERG FUSION	7		0.6	18	PRAD	1.953424838	0.46	4+3	Primary
+MO_1241	75	Prostate Cancer	Prostate Adenocarcinoma	0.56	PCF_SU2C	ERG FUSION		Liver	1.83	55	PRAD	2.812623411	0.81		Metastasis
+MO_1244	58	Prostate Cancer	Prostate Adenocarcinoma	0.45	PCF_SU2C	ERG FUSION		Liver	1.5	45	PRAD	1.879088043	0.93		Metastasis
+TP_2020	55	Prostate Cancer	Prostate Adenocarcinoma	0.21	PCF_SU2C	ETV4 FUSION		Bone	1.7	51	PRAD	1.991215825	0.43		Metastasis
+P03-1426	69	Prostate Cancer	Prostate Adenocarcinoma	0.07	Broad/Cornell_2012	ERG FUSION	7		0.8	24	PRAD	1.970482039	0.74	4+3	Primary
+AAPC-STID0000021590-Tumor-SM-2XTZF	66	Prostate Cancer	Prostate Adenocarcinoma		AAPC		6				PRAD	2.146031514	0.3	3+3	Primary
+TP_2001	70	Prostate Cancer	Prostate Adenocarcinoma	0.47	PCF_SU2C	ERG FUSION		Lymph node	1	30	PRAD	3.507333083	0.76		Metastasis
+99-064O_LN		Prostate Cancer	Prostate Adenocarcinoma	0.01	Nelson			Lymph Node	0.9	27	PRAD	3.863610266	0.69		Metastasis
+TCGA-J4-A67T-01	63	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA	ERG FUSION	7		0.4	12	PRAD	2.073566	0.18	3+4	Primary
+TCGA-EJ-5504-01	65	Prostate Cancer	Prostate Adenocarcinoma	0.1	TCGA	ETV1 FUSION	7		1.57	47	PRAD	1.975483	0.65	3+4	Primary
+TCGA-Y6-A9XI-01	72	Prostate Cancer	Prostate Adenocarcinoma	0.09	TCGA		>=8		1.23	37	PRAD	1.953614954	0.8	4+4	Primary
+TCGA-V1-A9O5-01	64	Prostate Cancer	Prostate Adenocarcinoma	0.38	TCGA		>=8		1.03	31	PRAD	2.188278662	0.53	5+4	Primary
+AAPC-IP_LG-079-Tumor-SM-3NC7A		Prostate Cancer	Prostate Adenocarcinoma		AAPC						PRAD	2	0.2		Primary
+TCGA-J4-AAU2-01	59	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA		6		0.8	24	PRAD	2.000571371	0.21	3+3	Primary
+AAPC-STID0000019028-Tumor-SM-2XU1X	61	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	2.044756594	0.15	4+3	Primary
+MO_1473	76	Prostate Cancer	Prostate Adenocarcinoma	0.51	PCF_SU2C			Bone	2.87	86	PRAD	4.020458136	0.56		Metastasis
+MO_1232	65	Prostate Cancer	Prostate Adenocarcinoma	0.61	PCF_SU2C			Chest Wall	6.93	208	PRAD	3.249399397	0.57		Metastasis
+SC_9107	65	Prostate Cancer	Prostate Adenocarcinoma	0.68	PCF_SU2C	ERG FUSION		Liver	4.37	131	PRAD	3.16	0.58		Metastasis
+MO_1215	65	Prostate Cancer	Prostate Adenocarcinoma	0.64	PCF_SU2C	ERG FUSION		Perirectal	4.73	142	PRAD	3.329312932	0.83		Metastasis
+P04-1084	65	Prostate Cancer	Prostate Adenocarcinoma	0.06	Broad/Cornell_2012		7		0.97	29	PRAD	1.966912044	0.72	3+4	Primary
+AAPC-IP_LG-049-Tumor-SM-3NC6L	70	Prostate Cancer	Prostate Adenocarcinoma		AAPC		>=8				PRAD	1.989416166	0.5	4+4	Primary
+SC_9105	73	Prostate Cancer	Prostate Adenocarcinoma	0.06	PCF_SU2C			Soft Tissue	1.97	59	PRAD	3.128519153	0.68		Metastasis
+SC_9104	70	Prostate Cancer	Prostate Adenocarcinoma	0.26	PCF_SU2C	ERG FUSION		Lymph node	3.2	96	PRAD	1.97	0.66		Metastasis
+SC_9103	68	Prostate Cancer	Prostate Adenocarcinoma	0.44	PCF_SU2C			Bone	3.73	112	PRAD	2.42	0.77		Metastasis
+10680		Prostate Cancer	Prostate Adenocarcinoma	0.33	NEPC				1.47	44	PRAD	3.692771583	0.33		Primary
+MO_1219	68	Prostate Cancer	Prostate Adenocarcinoma	0.14	PCF_SU2C	ERG FUSION		Bone	1.13	34	PRAD	2.56946952	0.19		Metastasis
+PR-2916	65	Prostate Cancer	Prostate Adenocarcinoma	0.02	Broad/Cornell_2012		7		2.07	62	PRAD	2.020811444	0.32	3+4	Primary
+PR-2915	66	Prostate Cancer	Prostate Adenocarcinoma	0.08	Broad/Cornell_2012		7		1.13	34	PRAD	1.94318001	0.53	3+4	Primary
+SC_9100	74	Prostate Cancer	Prostate Adenocarcinoma	0.04	PCF_SU2C			Bone	5.73	172	PRAD	1.98	0.2		Metastasis
+TCGA-EJ-5526-01	56	Prostate Cancer	Prostate Adenocarcinoma	0.15	TCGA	ERG FUSION	>=8		0.83	25	PRAD	2.041851	0.55	4+5	Primary
+TCGA-HC-7230-01	50	Prostate Cancer	Prostate Adenocarcinoma	0.06	TCGA	ERG FUSION	6		0.93	28	PRAD	1.937183	0.81	3+3	Primary
+PROS11496-6115295-SM-6CNQ7		Prostate Cancer	Prostate Adenocarcinoma	0.53	PCF_SU2C				2.03	61	PRAD	3.980408947	0.71		Metastasis
+TCGA-EJ-A7NF-01	56	Prostate Cancer	Prostate Adenocarcinoma	0.02	TCGA	ERG FUSION	7		0.63	19	PRAD	1.987902	0.72	3+4	Primary
+TCGA-EJ-7791-01	67	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA		7		0.47	14	PRAD	2.145250313	0.18	4+3	Primary
+02-083E1_LN		Prostate Cancer	Prostate Adenocarcinoma	0.03	Nelson			Lymph Node	1.1	33	PRAD	2.53804551	0.79		Metastasis
+MO_1460	64	Prostate Cancer	Prostate Adenocarcinoma	0.42	PCF_SU2C			Liver	1.37	41	PRAD	1.930527389	0.83		Metastasis
+TCGA-XJ-A9DQ-01	48	Prostate Cancer	Prostate Adenocarcinoma	0.02	TCGA	ERG FUSION	6		0.23	7	PRAD	2	0.2	3+3	Primary
+TCGA-EJ-A65D-01	66	Prostate Cancer	Prostate Adenocarcinoma	0.06	TCGA	ERG FUSION	>=8		1	30	PRAD	1.971154	0.93	4+4	Primary
+TCGA-YL-A8SI-01	69	Prostate Cancer	Prostate Adenocarcinoma	0.02	TCGA		6		0.63	19	PRAD	2.154003216	0.19	3+3	Primary
+AAPC-STID0000012568-Tumor-SM-2XU1M	72	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	2.022159316	0.67	3+4	Primary
+PROS10448-1115150-SM-5EEBK		Prostate Cancer	Prostate Adenocarcinoma	0.01	PCF_SU2C			Bone	0.1	3	PRAD	2	0.2		Metastasis
+SC_9109	55	Prostate Cancer	Prostate Adenocarcinoma	0.38	PCF_SU2C	ERG FUSION		Lymph node	3.53	106	PRAD	3.42	0.51		Metastasis
+TCGA-HC-7233-01	73	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA		>=8		1.07	32	PRAD	1.996184	0.15	3+5	Primary
+TCGA-G9-6378-01	54	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA		7		0.73	22	PRAD	1.98796743	0.25	3+4	Primary
+TCGA-EJ-5519-01	64	Prostate Cancer	Prostate Adenocarcinoma	0.15	TCGA	ETV1 FUSION	>=8		2.7	81	PRAD	1.915077	0.64	4+4	Primary
+SC_9039	64	Prostate Cancer	Prostate Adenocarcinoma	0.62	PCF_SU2C			Lymph node	1.2	36	PRAD	3.200678142	0.7		Metastasis
+SC_9038	70	Prostate Cancer	Prostate Adenocarcinoma	0.35	PCF_SU2C			Lymph node	3.13	94	PRAD	2.598123408	0.62		Metastasis
+SC_9036	72	Prostate Cancer	Prostate Adenocarcinoma	0.31	PCF_SU2C			Lymph node	1.97	59	PRAD	3.647359028	0.43		Metastasis
+TCGA-G9-6332-01	55	Prostate Cancer	Prostate Adenocarcinoma	0.07	TCGA	ERG FUSION	7		0.8	24	PRAD	1.890066766	0.78	4+3	Primary
+SC_9035	70	Prostate Cancer	Prostate Adenocarcinoma	0.49	PCF_SU2C	ERG FUSION		Lymph node	2.1	63	PRAD	3.491717311	0.64		Metastasis
+PR-04-903	68	Prostate Cancer	Prostate Adenocarcinoma	0.11	Broad/Cornell_2012	ERG FUSION	7		1.13	34	PRAD	1.899896347	0.68	3+4	Primary
+SC_9034	65	Prostate Cancer	Prostate Adenocarcinoma	0.05	PCF_SU2C	ERG FUSION		Bone	4.5	135	PRAD	1.864880773	0.26		Metastasis
+SC_9032	80	Prostate Cancer	Prostate Adenocarcinoma	0.57	PCF_SU2C			Lymph node	5.23	157	PRAD	3.95488154	0.73		Metastasis
+SC_9031	40	Prostate Cancer	Prostate Adenocarcinoma	0.32	PCF_SU2C			Liver	1.23	37	PRAD	1.8	0.69		Metastasis
+SC_9030	66	Prostate Cancer	Prostate Adenocarcinoma	0.78	PCF_SU2C			Muscle	2.43	73	PRAD	3.998579191	0.92		Metastasis
+TCGA-ZG-A9LS-01	64	Prostate Cancer	Prostate Adenocarcinoma	0.26	TCGA		>=8		0.67	20	PRAD	2.079450188	0.43	5+4	Primary
+TCGA-ZG-A9M4-01	65	Prostate Cancer	Prostate Adenocarcinoma	0.32	TCGA	ETV1 FUSION	>=8		0.97	29	PRAD	3.504475461	0.44	5+5	Primary
+AAPC-STID0000006860-Tumor-SM-2XU12	66	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	2.172944886	0.31	3+4	Primary
+TCGA-CH-5769-01	48	Prostate Cancer	Prostate Adenocarcinoma	0.03	TCGA	ERG FUSION	>=8		2.87	86	PRAD	2	0.2	4+5	Primary
+TCGA-EJ-A6RA-01	70	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA		7		0.47	14	PRAD	2	0.2	4+3	Primary
+TCGA-YL-A8S8-01	68	Prostate Cancer	Prostate Adenocarcinoma	0.38	TCGA		>=8		1.13	34	PRAD	2.297154806	0.57	4+4	Primary
+TCGA-HC-7817-01	52	Prostate Cancer	Prostate Adenocarcinoma	0.02	TCGA	ETV1 FUSION	7		0.63	19	PRAD	1.943428	0.24	4+3	Primary
+03-130L_RETROPERITONEAL		Prostate Cancer	Prostate Adenocarcinoma	0.11	Nelson			Retroperitoneal	14.23	427	PRAD	1.952094725	0.87		Metastasis
+TCGA-YL-A8SC-01	66	Prostate Cancer	Prostate Adenocarcinoma	0.15	TCGA	ETV1 FUSION	>=8		1.2	36	PRAD	1.971851175	0.61	4+4	Primary
+AAPC-STID0000021537-Tumor-SM-3RVW7	48	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	1.855555164	0.3	3+4	Primary
+AAPC-STID0000021602-Tumor-SM-2XTZR	65	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	2.053887636	0.64	3+4	Primary
+SC_9049	70	Prostate Cancer	Prostate Adenocarcinoma	0.19	PCF_SU2C	ERG FUSION		Bone	1.93	58	PRAD	3.343702947	0.29		Metastasis
+PR-2858	52	Prostate Cancer	Prostate Adenocarcinoma	0.01	Broad/Cornell_2012	ERG FUSION	7		1.53	46	PRAD	1.837329732	0.23	3+4	Primary
+SC_9048	73	Prostate Cancer	Prostate Adenocarcinoma	0.2	PCF_SU2C			Bone	1.73	52	PRAD	1.91	0.35		Metastasis
+SC_9047	73	Prostate Cancer	Prostate Adenocarcinoma	0.07	PCF_SU2C			Bone	32.43	973	PRAD	2	0.2		Metastasis
+TCGA-J4-AATZ-01	66	Prostate Cancer	Prostate Adenocarcinoma	0.16	TCGA		>=8		1	30	PRAD	2.040723236	0.68	4+5	Primary
+P03-871	59	Prostate Cancer	Prostate Adenocarcinoma	0.14	Broad/Cornell_2012	ERG FUSION	7		1.17	35	PRAD	1.980688181	0.25	4+3	Primary
+SC_9046	72	Prostate Cancer	Prostate Adenocarcinoma	0.18	PCF_SU2C	ERG FUSION		Liver	2.27	68	PRAD	4.12	0.24		Metastasis
+SC_9043	68	Prostate Cancer	Prostate Adenocarcinoma	0.28	PCF_SU2C	ERG FUSION		Bone	1.3	39	PRAD	1.913389276	0.72		Metastasis
+PRAD-6115403.0-SM-7LGUQ	66	Prostate Cancer	Prostate Adenocarcinoma	0.67	PCF_SU2C				3.4	102	PRAD	2.793519365	0.55		Metastasis
+SC_9040	82	Prostate Cancer	Prostate Adenocarcinoma	0.02	PCF_SU2C			Bone	0.1	3	PRAD	2	0.2		Metastasis
+AAPC-STID0000021573-Tumor-SM-2XTYZ	68	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	2.510376994	0.3	3+4	Primary
+TCGA-YL-A9WL-01	59	Prostate Cancer	Prostate Adenocarcinoma	0.14	TCGA	ERG FUSION	>=8		0.73	22	PRAD	1.895437739	0.89	5+4	Primary
+AAPC-STID0000021598-Tumor-SM-2XTZN	55	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	2.031465444	0.45	3+4	Primary
+TCGA-EJ-5507-01	54	Prostate Cancer	Prostate Adenocarcinoma	0.24	TCGA	ERG FUSION	>=8		1.03	31	PRAD	1.809602376	0.62	4+5	Primary
+TCGA-EJ-7793-01	49	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA	ERG FUSION	7		0.47	14	PRAD	2.601483	0.14	3+4	Primary
+AAPC-STID0000021536-Tumor-SM-3RVW6		Prostate Cancer	Prostate Adenocarcinoma		AAPC						PRAD	1.923379323	0.26		Primary
+TCGA-XJ-A9DK-01	63	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA	ERG FUSION	7		0.27	8	PRAD	2	0.2	4+3	Primary
+SC_9019	85	Prostate Cancer	Prostate Adenocarcinoma	0.13	PCF_SU2C	ETV1 FUSION		Bone	1.93	58	PRAD	2.04416349	0.2		Metastasis
+99-091J_LN		Prostate Cancer	Prostate Adenocarcinoma	0.06	Nelson			Lymph Node	1.3	39	PRAD	3.258182075	0.68		Metastasis
+SC_9018	73	Prostate Cancer	Prostate Adenocarcinoma	0.03	PCF_SU2C	ERG FUSION		Bone	1.53	46	PRAD	2.732350798	0.71		Metastasis
+SC_9017	66	Prostate Cancer	Prostate Adenocarcinoma	0.85	PCF_SU2C	ERG FUSION		Liver	1	30	PRAD	3.439544906	0.36		Metastasis
+PR-0427	69	Prostate Cancer	Prostate Adenocarcinoma	0.05	Broad/Cornell_2012		7		0.6	18	PRAD	1.976685425	0.47	4+3	Primary
+SC_9016	69	Prostate Cancer	Prostate Adenocarcinoma	0.33	PCF_SU2C	ERG FUSION		Lymph node	2.07	62	PRAD	3.439544906	0.36		Metastasis
+TCGA-EJ-7781-01	65	Prostate Cancer	Prostate Adenocarcinoma	0.07	TCGA		7		1.77	53	PRAD	1.725689351	0.23	3+4	Primary
+11040		Prostate Cancer	Prostate Adenocarcinoma	0.42	NEPC			Lymph Node	2.67	80	PRAD	4.500042672	0.76		Metastasis
+06-134H1_LN		Prostate Cancer	Prostate Adenocarcinoma	0.03	Nelson			Lymph Node	14.57	437	PRAD	1.971562122	0.68		Metastasis
+SC_9012	74	Prostate Cancer	Prostate Adenocarcinoma	0.17	PCF_SU2C			Liver	1.67	50	PRAD	1.8	0.4		Metastasis
+SC_9011	71	Prostate Cancer	Prostate Adenocarcinoma	0.13	PCF_SU2C			Lymph node	1.23	37	PRAD	3.400542377	0.59		Metastasis
+AAPC-STID0000003820-Tumor-SM-2XTZW	70	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	2.028479348	0.58	4+3	Primary
+SC_9010		Prostate Cancer	Prostate Adenocarcinoma	0.66	PCF_SU2C			Lymph node	3.23	97	PRAD	3.821457662	0.77		Metastasis
+PR-09-2767	58	Prostate Cancer	Prostate Adenocarcinoma	0.2	Broad/Cornell_2012	ERG FUSION	>=8		1.4	42	PRAD	1.874812037	0.74	4+4	Primary
+TCGA-EJ-5542-01	60	Prostate Cancer	Prostate Adenocarcinoma	0.12	TCGA	ERG FUSION	7		1.13	34	PRAD	2.04425	0.32	3+4	Primary
+PRAD-6115383.0-SM-7LGU6	67	Prostate Cancer	Prostate Adenocarcinoma	0.63	PCF_SU2C				1.73	52	PRAD	3.584025756	0.51		Metastasis
+22171		Prostate Cancer	Prostate Adenocarcinoma	0.01	NEPC				1.27	38	PRAD	2.035333881	0.3		Primary
+TCGA-CH-5792-01	57	Prostate Cancer	Prostate Adenocarcinoma	0.09	TCGA		7		1.13	34	PRAD	1.955088	0.63	3+4	Primary
+PR-09-2517	64	Prostate Cancer	Prostate Adenocarcinoma	0.07	Broad/Cornell_2012	ERG FUSION	7		1.23	37	PRAD	1.681528692	0.18	3+4	Primary
+TCGA-EJ-A65M-01	65	Prostate Cancer	Prostate Adenocarcinoma	0.08	TCGA		7		1.23	37	PRAD	2.074905	0.44	3+4	Primary
+AAPC-IP_LG-043-Tumor-SM-3NC6F	66	Prostate Cancer	Prostate Adenocarcinoma		AAPC		>=8				PRAD	1.869008134	0.46	4+4	Primary
+PRAD-STID18248-Tumor-SM-1RCU7		Prostate Cancer	Prostate Adenocarcinoma	0.61	NEPC				3	90	PRAD	3.362253464	0.59		Metastasis
+TCGA-G9-6354-01	55	Prostate Cancer	Prostate Adenocarcinoma	0.06	TCGA	ERG FUSION	7		0.77	23	PRAD	1.990579	0.59	3+4	Primary
+SC_9029	75	Prostate Cancer	Prostate Adenocarcinoma	0.3	PCF_SU2C			Muscle	4.27	128	PRAD	1.876806254	0.96		Metastasis
+PR-0415	71	Prostate Cancer	Prostate Adenocarcinoma	0.19	Broad/Cornell_2012	ERG FUSION	>=8		1.3	39	PRAD	1.807491701	0.87	4+4	Primary
+SC_9028	71	Prostate Cancer	Prostate Adenocarcinoma	0.19	PCF_SU2C	ETV1 FUSION		Prostate	3.53	106	PRAD	3.400836715	0.57		Metastasis
+SC_9027	69	Prostate Cancer	Prostate Adenocarcinoma	0.45	PCF_SU2C	ETV1 FUSION		Bone	4.9	147	PRAD	3.621801054	0.6		Metastasis
+TCGA-G9-7521-01	52	Prostate Cancer	Prostate Adenocarcinoma	0.2	TCGA		7		0.93	28	PRAD	1.952098	0.56	3+4	Primary
+SC_9026	65	Prostate Cancer	Prostate Adenocarcinoma	0.38	PCF_SU2C	ERG FUSION		Bone	1.77	53	PRAD	3.101254978	0.1		Metastasis
+SC_9025	64	Prostate Cancer	Prostate Adenocarcinoma	0	PCF_SU2C			Bone	0.63	19	PRAD	1.865458291	0.24		Metastasis
+AAPC-IP_LG-037-Tumor-SM-3NC6D	61	Prostate Cancer	Prostate Adenocarcinoma		AAPC		>=8				PRAD	1.994317961	0.68	4+4	Primary
+SC_9024	73	Prostate Cancer	Prostate Adenocarcinoma	0.18	PCF_SU2C			Lymph node	1.97	59	PRAD	3.508486215	0.55		Metastasis
+TCGA-ZG-A8QX-01	56	Prostate Cancer	Prostate Adenocarcinoma	0.05	TCGA		6		0.63	19	PRAD	2.330270517	0.3	3+3	Primary
+SC_9023	78	Prostate Cancer	Prostate Adenocarcinoma	0.58	PCF_SU2C			Bone	2.43	73	PRAD	3.648302628	0.5		Metastasis
+SC_9022	66	Prostate Cancer	Prostate Adenocarcinoma	0.35	PCF_SU2C	ERG FUSION		Penile	4.2	126	PRAD	4.066950286	0.61		Metastasis
+SC_9021	60	Prostate Cancer	Prostate Adenocarcinoma	0.62	PCF_SU2C			Lymph node	4.73	142	PRAD	3.932784254	0.67		Metastasis
+TCGA-KK-A8ID-01		Prostate Cancer	Prostate Adenocarcinoma	0.23	TCGA		>=8		1.63	49	PRAD	2.381444363	0.7	4+4	Primary
+P05-3436	62	Prostate Cancer	Prostate Adenocarcinoma	0.04	Broad/Cornell_2012	ERG FUSION	7		1.03	31	PRAD	1.967143652	0.62	4+3	Primary
+PROS01448-DFCI.10-448.P15-SM-5CQ5D	67	Prostate Cancer	Prostate Adenocarcinoma	0.14	PCF_SU2C				1.33	40	PRAD	1.923980082	0.87		Metastasis
+TCGA-HC-7738-01	58	Prostate Cancer	Prostate Adenocarcinoma	0.04	TCGA		7		1.23	37	PRAD	2.84771463	0.47	3+4	Primary
+PM119	66	Prostate Cancer	Prostate Adenocarcinoma	0.63	PCF_SU2C				1.03	31	PRAD	3.737814048	0.56		Metastasis
+TCGA-XQ-A8TA-01		Prostate Cancer	Prostate Adenocarcinoma	0.32	TCGA	ETV4 FUSION	>=8		2.9	87	PRAD	1.975657355	0.9	4+4	Primary
+TCGA-EJ-A8FU-01	64	Prostate Cancer	Prostate Adenocarcinoma	0	TCGA	ETV1 FUSION	>=8		0.37	11	PRAD	2	0.2	4+4	Primary
+PRAD-6115385.0-SM-7LGU7	62	Prostate Cancer	Prostate Adenocarcinoma	0.54	PCF_SU2C				4.13	124	PRAD	3.974213418	0.77		Metastasis
+TCGA-HC-8262-01	57	Prostate Cancer	Prostate Adenocarcinoma	0.05	TCGA	ERG FUSION	7		0.97	29	PRAD	2.043472136	0.51	3+4	Primary
+AAPC-STID0000021599-Tumor-SM-2XTZO	67	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	2.003531747	0.38	4+3	Primary
+TCGA-ZG-A9L4-01	61	Prostate Cancer	Prostate Adenocarcinoma	0.06	TCGA	ERG FUSION	>=8		0.77	23	PRAD	1.979919331	0.35	5+3	Primary
+SC_9079	56	Prostate Cancer	Prostate Adenocarcinoma	0.02	PCF_SU2C			Bone	0.13	4	PRAD	2.445515067	0.23		Metastasis
+TCGA-KK-A8I9-01		Prostate Cancer	Prostate Adenocarcinoma	0.08	TCGA		7		1.2	36	PRAD	1.983988424	0.42	4+3	Primary
+PR-02-254	74	Prostate Cancer	Prostate Adenocarcinoma	0.42	Broad/Cornell_2012	ERG FUSION	7		2.27	68	PRAD	1.688991016	0.6	4+3	Primary
+TCGA-HC-8259-01	50	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA	ERG FUSION	6		1.63	49	PRAD	1.999705259	0.82	3+3	Primary
+SC_9076	71	Prostate Cancer	Prostate Adenocarcinoma	0.43	PCF_SU2C			Lymph node	7.97	239	PRAD	3.315077536	0.35		Metastasis
+TCGA-V1-A8WV-01		Prostate Cancer	Prostate Adenocarcinoma	0.62	TCGA	ETV4 FUSION	>=8		1.17	35	PRAD	2.951631319	0.42	4+5	Primary
+SC_9075	67	Prostate Cancer	Prostate Adenocarcinoma	0.01	PCF_SU2C			Bone	0.33	10	PRAD	1.82817291	0.36		Metastasis
+SC_9073	65	Prostate Cancer	Prostate Adenocarcinoma	0.39	PCF_SU2C			Lymph node	1	30	PRAD	3.582054674	0.57		Metastasis
+SC_9072	74	Prostate Cancer	Prostate Adenocarcinoma	0.53	PCF_SU2C	ETV1 FUSION		Bone	5.2	156	PRAD	4.048808177	0.57		Metastasis
+SC_9071	67	Prostate Cancer	Prostate Adenocarcinoma	0.35	PCF_SU2C	ERG FUSION		Bone	2.63	79	PRAD	1.82817291	0.36		Metastasis
+SC_9081	69	Prostate Cancer	Prostate Adenocarcinoma	0.05	PCF_SU2C			Lymph node	23.5	705	PRAD	1.787373949	0.77		Metastasis
+SC_9080	76	Prostate Cancer	Prostate Adenocarcinoma	0.37	PCF_SU2C			Lymph node	2.33	70	PRAD	2.445515067	0.23		Metastasis
+TCGA-CH-5794-01	65	Prostate Cancer	Prostate Adenocarcinoma	0.06	TCGA	ERG FUSION	7		0.9	27	PRAD	1.888028	0.37	4+3	Primary
+PR-00-1823	60	Prostate Cancer	Prostate Adenocarcinoma	0.16	Broad/Cornell_2012	ERG FUSION	7		1.13	34	PRAD	1.958182622	0.67	3+4	Primary
+TCGA-V1-A9O7-01	60	Prostate Cancer	Prostate Adenocarcinoma	0.18	TCGA		>=8		0.8	24	PRAD	2.077287303	0.26	5+5	Primary
+TCGA-EJ-7783-01	70	Prostate Cancer	Prostate Adenocarcinoma	0.06	TCGA	ERG FUSION	>=8		1.03	31	PRAD	1.88431126	0.22	4+4	Primary
+TCGA-V1-A9OX-01	56	Prostate Cancer	Prostate Adenocarcinoma	0.13	TCGA		>=8		0.67	20	PRAD	2.035892881	0.43	3+5	Primary
+TCGA-XK-AAJP-01	66	Prostate Cancer	Prostate Adenocarcinoma	0.1	TCGA		>=8		0.83	25	PRAD	1.930604065	0.78	4+4	Primary
+TCGA-XK-AAK1-01	62	Prostate Cancer	Prostate Adenocarcinoma	0.08	TCGA		>=8		1	30	PRAD	1.930423362	0.75	4+4	Primary
+PR-2661	59	Prostate Cancer	Prostate Adenocarcinoma	0.01	Broad/Cornell_2012	ERG FUSION	6		1.47	44	PRAD	2	0.2	3+3	Primary
+TCGA-YL-A8SL-01	74	Prostate Cancer	Prostate Adenocarcinoma	0.43	TCGA	ERG FUSION	>=8		1.27	38	PRAD	1.666375898	0.42	4+4	Primary
+TCGA-G9-6356-01	60	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA	ERG FUSION	7		0.87	26	PRAD	2.052861186	0.22	3+4	Primary
+SC_9088	76	Prostate Cancer	Prostate Adenocarcinoma	0.01	PCF_SU2C			Bone	1.2	36	PRAD	2.085934072	0.24		Metastasis
+SC_9087	69	Prostate Cancer	Prostate Adenocarcinoma	0.01	PCF_SU2C			Bone	0.37	11	PRAD	2.017413946	0.42		Metastasis
+SC_9086	72	Prostate Cancer	Prostate Adenocarcinoma	0.38	PCF_SU2C	ERG FUSION		Bone	1.87	56	PRAD	2.017413946	0.42		Metastasis
+PR-09-3421	65	Prostate Cancer	Prostate Adenocarcinoma	0.05	Broad/Cornell_2012	ERG FUSION	7		1.07	32	PRAD	2.005344612	0.57	3+4	Primary
+SC_9085	64	Prostate Cancer	Prostate Adenocarcinoma	0.01	PCF_SU2C			Bone	0.37	11	PRAD	2.150958066	0.4		Metastasis
+SC_9084	62	Prostate Cancer	Prostate Adenocarcinoma	0.59	PCF_SU2C			Lymph node	1.47	44	PRAD	3.513733566	0.69		Metastasis
+TCGA-HC-7211-01	62	Prostate Cancer	Prostate Adenocarcinoma	0.06	TCGA	ERG FUSION	>=8		0.53	16	PRAD	1.932505875	0.65	4+5	Primary
+SC_9083	62	Prostate Cancer	Prostate Adenocarcinoma	0.62	PCF_SU2C			Bone	7.77	233	PRAD	3.543981918	0.59		Metastasis
+SC_9082	67	Prostate Cancer	Prostate Adenocarcinoma	0.17	PCF_SU2C			Bone	2.57	77	PRAD	1.97027246	0.85		Metastasis
+SC_9092	76	Prostate Cancer	Prostate Adenocarcinoma	0.31	PCF_SU2C	ERG FUSION		Bone	4.5	135	PRAD	1.944268663	0.73		Metastasis
+SC_9091	60	Prostate Cancer	Prostate Adenocarcinoma	0.08	PCF_SU2C			Bone	1.47	44	PRAD	2.070835458	0.27		Metastasis
+SC_9090	73	Prostate Cancer	Prostate Adenocarcinoma	0.26	PCF_SU2C			Bone	4	120	PRAD	2.296472958	0.8		Metastasis
+TCGA-EJ-A65B-01	55	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA		>=8		1.1	33	PRAD	1.974821922	0.24	4+5	Primary
+TCGA-EJ-5530-01	61	Prostate Cancer	Prostate Adenocarcinoma	0.03	TCGA	ERG FUSION	7		1.9	57	PRAD	1.960919	0.5	3+4	Primary
+P05-3852	62	Prostate Cancer	Prostate Adenocarcinoma	0.09	Broad/Cornell_2012		7		0.7	21	PRAD	1.892314112	0.68	4+3	Primary
+TCGA-KC-A7FA-01		Prostate Cancer	Prostate Adenocarcinoma	0.1	TCGA		7		1.03	31	PRAD	1.85653	0.72	3+4	Primary
+TCGA-KK-A6E0-01	59	Prostate Cancer	Prostate Adenocarcinoma	0.15	TCGA		>=8		0.6	18	PRAD	1.890777	0.62	4+4	Primary
+TCGA-HC-8260-01	43	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA	ERG FUSION	6		0.37	11	PRAD	1.999579049	0.23	3+3	Primary
+TCGA-4L-AA1F-01	64	Prostate Cancer	Prostate Adenocarcinoma	0.19	TCGA	ERG FUSION	>=8		1	30	PRAD	3.44016835	0.23	4+4	Primary
+TCGA-EJ-5517-01	55	Prostate Cancer	Prostate Adenocarcinoma	0.05	TCGA		7		0.9	27	PRAD	1.95463	0.69	3+4	Primary
+AAPC-STID0000021604-Tumor-SM-2XTZU	60	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	1.80971067	0.21	3+4	Primary
+TCGA-KC-A7F6-01		Prostate Cancer	Prostate Adenocarcinoma	0.08	TCGA	ERG FUSION	7		0.67	20	PRAD	1.986422	0.68	3+4	Primary
+SC_9059	61	Prostate Cancer	Prostate Adenocarcinoma	0.63	PCF_SU2C	ERG FUSION		Lymph node	1.63	49	PRAD	3.25	0.82		Metastasis
+SC_9058	70	Prostate Cancer	Prostate Adenocarcinoma	0.64	PCF_SU2C			Lymph node	7.1	213	PRAD	2.68	0.74		Metastasis
+PR-01-1934	59	Prostate Cancer	Prostate Adenocarcinoma	0.13	Broad/Cornell_2012		7		1.07	32	PRAD	1.965348028	0.71	3+4	Primary
+TCGA-HC-A6AL-01	64	Prostate Cancer	Prostate Adenocarcinoma	0.07	TCGA	ETV1 FUSION	7		1.17	35	PRAD	2.028161908	0.63	3+4	Primary
+TCGA-J9-A8CL-01		Prostate Cancer	Prostate Adenocarcinoma	0.28	TCGA		7		1.17	35	PRAD	3.140485	0.41	3+4	Primary
+26731		Prostate Cancer	Prostate Adenocarcinoma	0.14	NEPC				2.07	62	PRAD	1.992798896	0.61		Primary
+SC_9056	60	Prostate Cancer	Prostate Adenocarcinoma	0.12	PCF_SU2C	ERG FUSION		Bone	1.13	34	PRAD	2.077354905	0.49		Metastasis
+SC_9055	59	Prostate Cancer	Prostate Adenocarcinoma	0.4	PCF_SU2C	ETV1 FUSION		Lymph node	2.2	66	PRAD	3.489429787	0.51		Metastasis
+SC_9054	72	Prostate Cancer	Prostate Adenocarcinoma	0.64	PCF_SU2C			Lymph node	4.4	132	PRAD	4.58696957	0.76		Metastasis
+P05-3859	68	Prostate Cancer	Prostate Adenocarcinoma	0.05	Broad/Cornell_2012		7		0.83	25	PRAD	2.008794732	0.34	4+3	Primary
+AAPC-STID0000021597-Tumor-SM-3RVWK	67	Prostate Cancer	Prostate Adenocarcinoma		AAPC		>=8				PRAD	1.982884424	0.54	4+5	Primary
+TCGA-EJ-A6RC-01		Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA		7		0.8	24	PRAD	2	0.2	3+4	Primary
+TCGA-G9-6366-01	61	Prostate Cancer	Prostate Adenocarcinoma	0.12	TCGA		7		0.87	26	PRAD	2.0737	0.59	3+4	Primary
+TCGA-G9-6494-01	66	Prostate Cancer	Prostate Adenocarcinoma	0.11	TCGA	ETV1 FUSION	7		1.07	32	PRAD	2.027234872	0.54	4+3	Primary
+TCGA-YL-A8SA-01	69	Prostate Cancer	Prostate Adenocarcinoma	0.08	TCGA	ERG FUSION	7		0.83	25	PRAD	1.941112051	0.77	4+3	Primary
+SC_9068	74	Prostate Cancer	Prostate Adenocarcinoma	0.52	PCF_SU2C	ERG FUSION		Lymph node	4.7	141	PRAD	3.414684259	0.57		Metastasis
+TCGA-2A-A8VL-01	51	Prostate Cancer	Prostate Adenocarcinoma	0.04	TCGA	ERG FUSION	6		0.67	20	PRAD	1.999797362	0.47	3+3	Primary
+TCGA-FC-7708-01	52	Prostate Cancer	Prostate Adenocarcinoma	0.04	TCGA	ERG FUSION	6		0.8	24	PRAD	1.997625	0.34	3+3	Primary
+SC_9065		Prostate Cancer	Prostate Adenocarcinoma	0.11	PCF_SU2C	ETV4 FUSION		Bone	1.57	47	PRAD	1.96886471	0.63		Metastasis
+TCGA-M7-A71Y-01	55	Prostate Cancer	Prostate Adenocarcinoma	0.03	TCGA	ETV1 FUSION	6		0.57	17	PRAD	2.013473	0.2	3+3	Primary
+SC_9063	66	Prostate Cancer	Prostate Adenocarcinoma	0.23	PCF_SU2C	ERG FUSION		Lymph node	1.57	47	PRAD	3.556187957	0.62		Metastasis
+SC_9061	71	Prostate Cancer	Prostate Adenocarcinoma	0.56	PCF_SU2C	ERG FUSION		Bone	6.67	200	PRAD	3.48	0.65		Metastasis
+TCGA-YL-A9WJ-01	47	Prostate Cancer	Prostate Adenocarcinoma	0.09	TCGA		6		0.6	18	PRAD	1.997642794	0.39	3+3	Primary
+SC_9060	65	Prostate Cancer	Prostate Adenocarcinoma	0.33	PCF_SU2C	ERG FUSION		Liver	3.83	115	PRAD	4.35946115	0.29		Metastasis
+PROS01448-1115244-SM-5SGU6	70	Prostate Cancer	Prostate Adenocarcinoma	0.25	PCF_SU2C	ERG FUSION		Bone	2.07	62	PRAD	2.081223104	0.51		Metastasis
+TCGA-V1-A8X3-01		Prostate Cancer	Prostate Adenocarcinoma	0.07	TCGA	ETV4 FUSION	7		0.87	26	PRAD	1.9607915	0.6	3+4	Primary
+TCGA-ZG-A9LU-01	67	Prostate Cancer	Prostate Adenocarcinoma	0.07	TCGA		>=8		0.6	18	PRAD	2.229354084	0.3	5+5	Primary
+TCGA-XJ-A83F-01	67	Prostate Cancer	Prostate Adenocarcinoma	0.08	TCGA	ERG FUSION	6		0.97	29	PRAD	1.949719	0.72	3+3	Primary
+TCGA-HC-A9TE-01	64	Prostate Cancer	Prostate Adenocarcinoma	0.58	TCGA	ERG FUSION	>=8		1.43	43	PRAD	3.059986625	0.52	5+4	Primary
+AAPC-STID0000017088-Tumor-SM-2XU1V	53	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	2.428962584	0.14	3+4	Primary
+TCGA-V1-A8MF-01		Prostate Cancer	Prostate Adenocarcinoma	0.09	TCGA		>=8		0.87	26	PRAD	2.041619111	0.6	4+4	Primary
+PR-2872	62	Prostate Cancer	Prostate Adenocarcinoma	0.01	Broad/Cornell_2012	ERG FUSION	7		0.53	16	PRAD	2.023140184	0.56	3+4	Primary
+AAPC-STID0000008920-Tumor-SM-2XU17	53	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	2.123560227	0.26	3+4	Primary
+TCGA-XJ-A9DI-01	62	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA	ERG FUSION	>=8		0.67	20	PRAD	2	0.2	5+5	Primary
+TCGA-V1-A9ZI-01	68	Prostate Cancer	Prostate Adenocarcinoma	0.21	TCGA		>=8		0.87	26	PRAD	2.083088281	0.76	5+4	Primary
+TCGA-XK-AAJA-01	62	Prostate Cancer	Prostate Adenocarcinoma	0.11	TCGA		>=8		1.2	36	PRAD	1.931396893	0.72	4+4	Primary
+TCGA-G9-A9S0-01	53	Prostate Cancer	Prostate Adenocarcinoma	0.2	TCGA		>=8		0.63	19	PRAD	1.948963787	0.54	4+4	Primary
+PM161	65	Prostate Cancer	Prostate Adenocarcinoma	0.62	PCF_SU2C	ERG FUSION			1.7	51	PRAD	3.735460467	0.65		Metastasis
+TCGA-ZG-A9L0-01	71	Prostate Cancer	Prostate Adenocarcinoma	0.67	TCGA		>=8		1.03	31	PRAD	3.074978056	0.58	5+4	Primary
+TCGA-EJ-8468-01	63	Prostate Cancer	Prostate Adenocarcinoma	0.08	TCGA		7		0.63	19	PRAD	2.059917185	0.52	4+3	Primary
+TCGA-CH-5790-01	64	Prostate Cancer	Prostate Adenocarcinoma	0.05	TCGA	ERG FUSION	7		0.87	26	PRAD	2	0.2	3+4	Primary
+P04-2666	58	Prostate Cancer	Prostate Adenocarcinoma	0.01	Broad/Cornell_2012		>=8		0.43	13	PRAD	2	0.2	4+5	Primary
+PRAD-6115397.0-SM-7LGUJ	84	Prostate Cancer	Prostate Adenocarcinoma	0.44	PCF_SU2C				2.2	66	PRAD	4.065216237	0.52		Metastasis
+TCGA-J9-A52C-01	57	Prostate Cancer	Prostate Adenocarcinoma	0.02	TCGA		>=8		13.73	412	PRAD	2.030918	0.37	4+5	Primary
+05-116F_LUNG		Prostate Cancer	Prostate Adenocarcinoma	0.01	Nelson			Lung	1.47	44	PRAD	1.843825615	0.63		Metastasis
+PROS01448-DFCI.10-448.P22-SM-5CQ5H		Prostate Cancer	Prostate Adenocarcinoma	0.99	PCF_SU2C				1.57	47	PRAD	3.689074627	0.3		Metastasis
+TCGA-HC-7820-01	72	Prostate Cancer	Prostate Adenocarcinoma	0.05	TCGA	ERG FUSION	6		1.1	33	PRAD	1.98257799	0.46	3+3	Primary
+TCGA-G9-6496-01	61	Prostate Cancer	Prostate Adenocarcinoma	0.09	TCGA		7		0.9	27	PRAD	2.043066824	0.78	4+3	Primary
+PROS12319B-SU2C-06115118-SM-4W2ND	69	Prostate Cancer	Prostate Adenocarcinoma	0.42	PCF_SU2C	ETV1 FUSION			1.67	50	PRAD	3.68539608	0.46		Metastasis
+PM163	67	Prostate Cancer	Prostate Adenocarcinoma	0.57	PCF_SU2C				1.2	36	PRAD	3.229625793	0.87		Metastasis
+TCGA-YL-A8SP-01	58	Prostate Cancer	Prostate Adenocarcinoma	0.1	TCGA	ERG FUSION	>=8		0.7	21	PRAD	1.953945611	0.85	4+5	Primary
+PM172	68	Prostate Cancer	Prostate Adenocarcinoma	0.62	PCF_SU2C				1.17	35	PRAD	3.700872239	0.33		Metastasis
+PM170	70	Prostate Cancer	Prostate Adenocarcinoma	0.33	PCF_SU2C				1.17	35	PRAD	2.23438197	0.38		Metastasis
+TCGA-G9-7523-01	44	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA		7		1.07	32	PRAD	1.999447	0.23	3+4	Primary
+TCGA-KK-A8IB-01	65	Prostate Cancer	Prostate Adenocarcinoma	0.28	TCGA		>=8		1.2	36	PRAD	2.055066483	0.43	4+4	Primary
+TCGA-EJ-7331-01	64	Prostate Cancer	Prostate Adenocarcinoma	0.03	TCGA		7		0.7	21	PRAD	2.062052843	0.44	4+3	Primary
+TCGA-J4-A67L-01	54	Prostate Cancer	Prostate Adenocarcinoma	0.07	TCGA	ERG FUSION	7		0.87	26	PRAD	2.019163	0.44	3+4	Primary
+TCGA-CH-5789-01	61	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA	ERG FUSION	7		0.4	12	PRAD	2.013363	0.88	4+3	Primary
+99-090A2_LIVER		Prostate Cancer	Prostate Adenocarcinoma	0	Nelson			Liver	1.23	37	PRAD	3.778597998	0.46		Metastasis
+TCGA-KK-A8I7-01	55	Prostate Cancer	Prostate Adenocarcinoma	0.03	TCGA		>=8		0.43	13	PRAD	2.031441274	0.3	4+5	Primary
+AAPC-IP_LG-045-Tumor-SM-3NC6H		Prostate Cancer	Prostate Adenocarcinoma		AAPC						PRAD	1.956834928	0.8		Primary
+TCGA-CH-5743-01	66	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA	ERG FUSION	7		0.07	2	PRAD	2	0.2	4+3	Primary
+P04-1790	56	Prostate Cancer	Prostate Adenocarcinoma	0.14	Broad/Cornell_2012	ERG FUSION	7		0.73	22	PRAD	1.986132904	0.4	4+3	Primary
+TCGA-XJ-A9DX-01	51	Prostate Cancer	Prostate Adenocarcinoma	0.31	TCGA		>=8		1.73	52	PRAD	2.429369532	0.61	5+4	Primary
+PR-09-5630	64	Prostate Cancer	Prostate Adenocarcinoma	0.05	Broad/Cornell_2012	ERG FUSION	7		0.9	27	PRAD	1.93278034	0.56	4+3	Primary
+PRAD-6115401.0-SM-7LGUO	85	Prostate Cancer	Prostate Adenocarcinoma	0.07	PCF_SU2C				17.97	539	PRAD	1.929941224	0.3		Metastasis
+PR-06-1651	60	Prostate Cancer	Prostate Adenocarcinoma	0.05	Broad/Cornell_2012	ERG FUSION	>=8		0.77	23	PRAD	2.000619837	0.6	4+5	Primary
+SC_9099	79	Prostate Cancer	Prostate Adenocarcinoma	0.59	PCF_SU2C	ERG FUSION		Lymph node	4.37	131	PRAD	3.439222282	0.82		Metastasis
+SC_9097	70	Prostate Cancer	Prostate Adenocarcinoma	0.64	PCF_SU2C	ERG FUSION		Lymph node	4.9	147	PRAD	3.569378511	0.85		Metastasis
+P04-2641	56	Prostate Cancer	Prostate Adenocarcinoma	0.06	Broad/Cornell_2012		7		0.8	24	PRAD	1.981233261	0.3	3+4	Primary
+SC_9096	82	Prostate Cancer	Prostate Adenocarcinoma	0.57	PCF_SU2C			Bone	4.8	144	PRAD	3.394126169	0.59		Metastasis
+SC_9094	61	Prostate Cancer	Prostate Adenocarcinoma	0.49	PCF_SU2C			Bone	4.17	125	PRAD	2.110695437	0.57		Metastasis
+SC_9093	56	Prostate Cancer	Prostate Adenocarcinoma	0.69	PCF_SU2C			Soft Tissue	4.33	130	PRAD	2.029892776	0.74		Metastasis
+TCGA-HC-A6AS-01	70	Prostate Cancer	Prostate Adenocarcinoma	0.03	TCGA	ETV1 FUSION	7		0.83	25	PRAD	2.09049	0.35	3+4	Primary
+PR-2682	71	Prostate Cancer	Prostate Adenocarcinoma	0.18	Broad/Cornell_2012		7		0.77	23	PRAD	2.045068362	0.73	4+3	Primary
+TCGA-2A-AAYO-01	57	Prostate Cancer	Prostate Adenocarcinoma	0.03	TCGA		6		0.5	15	PRAD	2.042018225	0.68	3+3	Primary
+PRAD-01115257-SM-6WZF8	63	Prostate Cancer	Prostate Adenocarcinoma	0.56	PCF_SU2C			Bone	2.67	80	PRAD	4.252423025	0.62		Metastasis
+PM189	85	Prostate Cancer	Prostate Adenocarcinoma	0.44	PCF_SU2C				1.57	47	PRAD	3.72581347	0.46		Metastasis
+TCGA-2A-A8W1-01	54	Prostate Cancer	Prostate Adenocarcinoma	0.11	TCGA	ETV1 FUSION	>=8		0.87	26	PRAD	1.988763111	0.91	4+4	Primary
+TCGA-EJ-5522-01	51	Prostate Cancer	Prostate Adenocarcinoma	0.04	TCGA	ERG FUSION	7		0.67	20	PRAD	1.943305	0.46	3+4	Primary
+TCGA-YL-A8HK-01	59	Prostate Cancer	Prostate Adenocarcinoma	0.13	TCGA	ERG FUSION	>=8		0.47	14	PRAD	1.922359523	0.37	4+4	Primary
+TCGA-V1-A9O9-01	56	Prostate Cancer	Prostate Adenocarcinoma	0.08	TCGA	ERG FUSION	>=8		0.83	25	PRAD	1.947334467	0.53	3+5	Primary
+PR-09-3687	73	Prostate Cancer	Prostate Adenocarcinoma	0.1	Broad/Cornell_2012	ERG FUSION	7		0.83	25	PRAD	1.955981747	0.51	3+4	Primary
+TCGA-KK-A8II-01		Prostate Cancer	Prostate Adenocarcinoma	0.05	TCGA	ERG FUSION	7		0.83	25	PRAD	1.970225733	0.88	3+4	Primary
+TCGA-HC-7081-01	62	Prostate Cancer	Prostate Adenocarcinoma	0.03	TCGA	ERG FUSION	7		0.9	27	PRAD	1.973924	0.53	4+3	Primary
+PROS01448-1115202-SM-5SGU5	70	Prostate Cancer	Prostate Adenocarcinoma	0.56	PCF_SU2C			Lymph node	2.33	70	PRAD	3.997908244	0.81		Metastasis
+PROS10448-SUTC.01115092-SM-4JC74		Prostate Cancer	Prostate Adenocarcinoma	0.29	PCF_SU2C				1.37	41	PRAD	2.115973029	0.22		Metastasis
+TCGA-YL-A9WY-01	57	Prostate Cancer	Prostate Adenocarcinoma	0.18	TCGA	ETV1 FUSION	>=8		0.83	25	PRAD	1.816894462	0.44	5+4	Primary
+TCGA-FC-A4JI-01	71	Prostate Cancer	Prostate Adenocarcinoma	0.64	TCGA		>=8		0.77	23	PRAD	3.32217	0.6	4+5	Primary
+AAPC-STID0000010200-Tumor-SM-2XU1A	60	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	2.019791604	0.35	3+4	Primary
+AAPC-STID0000021594-Tumor-SM-3RVWJ	57	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	2.221720357	0.3	3+4	Primary
+AAPC-STID0000021563-Tumor-SM-2XTYU	63	Prostate Cancer	Prostate Adenocarcinoma		AAPC		6				PRAD	2.023883453	0.55	3+3	Primary
+PROS10448-1115126-SM-5EEBI		Prostate Cancer	Prostate Adenocarcinoma	0	PCF_SU2C			Bone	0.13	4	PRAD	2	0.2		Metastasis
+TCGA-2A-AAYF-01	57	Prostate Cancer	Prostate Adenocarcinoma	0.03	TCGA		6		0.43	13	PRAD	2.021467057	0.81	3+3	Primary
+TCGA-J9-A8CN-01		Prostate Cancer	Prostate Adenocarcinoma	0.06	TCGA		6		0.57	17	PRAD	2.016478	0.86	3+3	Primary
+12-021H4_LIVER		Prostate Cancer	Prostate Adenocarcinoma	0.01	Nelson				1.83	55	PRAD	2.604439108	0.87		Metastasis
+TCGA-G9-6336-01	57	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA	ERG FUSION	6		0.67	20	PRAD	2	0.2	3+3	Primary
+PROS12319B-SU2C-06115115-SM-4W2NA	79	Prostate Cancer	Prostate Adenocarcinoma	0.56	PCF_SU2C	ETV4 FUSION			3.2	96	PRAD	2.046178061	0.93		Metastasis
+TCGA-HC-8213-01	48	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA	ERG FUSION	6		0.5	15	PRAD	2.004886118	0.81	3+3	Primary
+PROS10448-SUTC.01115088-SM-4JC6Q		Prostate Cancer	Prostate Adenocarcinoma	0.24	PCF_SU2C				2	60	PRAD	3.964292074	0.19		Metastasis
+AAPC-IP_LG-061-Tumor-SM-3NC6X	56	Prostate Cancer	Prostate Adenocarcinoma		AAPC		>=8				PRAD	2.531527642	0.3	3+5	Primary
+P03-3391	62	Prostate Cancer	Prostate Adenocarcinoma	0.01	Broad/Cornell_2012	ERG FUSION	6		0.4	12	PRAD	2.084286009	0.29	3+3	Primary
+AAPC-STID0000021601-Tumor-SM-2XTZQ	62	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	2.102209864	0.31	3+4	Primary
+PM121	68	Prostate Cancer	Prostate Adenocarcinoma	0.52	PCF_SU2C				1.17	35	PRAD	3.65966659	0.41		Metastasis
+AAPC-STID0000011580-Tumor-SM-2XU1G	58	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	2.26893885	0.27	3+4	Primary
+TCGA-KC-A4BV-01	66	Prostate Cancer	Prostate Adenocarcinoma	0.15	TCGA	ERG FUSION	7		0.8	24	PRAD	1.944147	0.66	4+3	Primary
+PM124	95	Prostate Cancer	Prostate Adenocarcinoma	0.5	PCF_SU2C				1.47	44	PRAD	2.029809162	0.58		Metastasis
+TCGA-J4-AATV-01	71	Prostate Cancer	Prostate Adenocarcinoma	0	TCGA	ERG FUSION	6		0.17	5	PRAD	2.022596548	0.3	3+3	Primary
+TCGA-EJ-7321-01	57	Prostate Cancer	Prostate Adenocarcinoma	0.04	TCGA	ERG FUSION	6		1.33	40	PRAD	2.075265013	0.42	3+3	Primary
+PRAD-6115388.0-SM-7LGUA	77	Prostate Cancer	Prostate Adenocarcinoma	0.51	PCF_SU2C				2.37	71	PRAD	3.909570157	0.9		Metastasis
+PROS10448-SUTC.01115082-SM-4JC6B	72	Prostate Cancer	Prostate Adenocarcinoma	0.25	PCF_SU2C				2.4	72	PRAD	1.954330403	0.6		Metastasis
+TCGA-EJ-7797-01	53	Prostate Cancer	Prostate Adenocarcinoma	0.02	TCGA	ERG FUSION	7		0.97	29	PRAD	2.089975	0.37	3+4	Primary
+PR-09-5446	67	Prostate Cancer	Prostate Adenocarcinoma	0.88	Broad/Cornell_2012	ERG FUSION	6		0.73	22	PRAD	2.020455707	0.24	3+3	Primary
+PR-04-3347	59	Prostate Cancer	Prostate Adenocarcinoma	0.1	Broad/Cornell_2012		6		1.1	33	PRAD	1.860936058	0.52	3+3	Primary
+PM139	77	Prostate Cancer	Prostate Adenocarcinoma	0.38	PCF_SU2C				1.6	48	PRAD	2.475292011	0.73		Metastasis
+09-006F1_RENAL		Prostate Cancer	Prostate Adenocarcinoma	0	Nelson			Renal	5.7	171	PRAD	4.720740045	0.61		Metastasis
+PR-04-3113	66	Prostate Cancer	Prostate Adenocarcinoma	0.02	Broad/Cornell_2012	ERG FUSION	6		2.13	64	PRAD	2.005997811	0.49	3+3	Primary
+TCGA-HC-7736-01	59	Prostate Cancer	Prostate Adenocarcinoma	0.13	TCGA		6		0.67	20	PRAD	2.183101774	0.48	3+3	Primary
+TCGA-KK-A7B3-01		Prostate Cancer	Prostate Adenocarcinoma	0.14	TCGA	ETV1 FUSION	7		0.93	28	PRAD	1.940455249	0.31	4+3	Primary
+TCGA-EJ-A7NK-01	58	Prostate Cancer	Prostate Adenocarcinoma	0	TCGA	ERG FUSION	6		0.1	3	PRAD	2	0.2	3+3	Primary
+TCGA-FC-A6HD-01	77	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA		7		0.8	24	PRAD	1.994854	0.73	4+3	Primary
+TCGA-V1-A9ZG-01	64	Prostate Cancer	Prostate Adenocarcinoma	0.04	TCGA	ERG FUSION	>=8		0.67	20	PRAD	1.997861071	0.39	5+4	Primary
+TCGA-ZG-A9L2-01	70	Prostate Cancer	Prostate Adenocarcinoma	0.07	TCGA	ERG FUSION	>=8		0.73	22	PRAD	2.028138243	0.37	5+3	Primary
+98-362B1_LN		Prostate Cancer	Prostate Adenocarcinoma	0.19	Nelson			Lymph Node	1.3	39	PRAD	2.235253034	0.68		Metastasis
+TCGA-HC-8257-01	70	Prostate Cancer	Prostate Adenocarcinoma	0.08	TCGA	ERG FUSION	7		1.27	38	PRAD	2.041644465	0.71	3+4	Primary
+TCGA-EJ-AB20-01	61	Prostate Cancer	Prostate Adenocarcinoma	0.06	TCGA	ETV4 FUSION	6		0.5	15	PRAD	2.065460961	0.56	3+3	Primary
+TCGA-CH-5767-01	66	Prostate Cancer	Prostate Adenocarcinoma	0.09	TCGA		6		1.17	35	PRAD	2.000191941	0.78	3+3	Primary
+AAPC-IP_LG-053-Tumor-SM-3NC6P	63	Prostate Cancer	Prostate Adenocarcinoma		AAPC		>=8				PRAD	2.05242454	0.57	4+4	Primary
+AAPC-STID0000013788-Tumor-SM-2XU1T	58	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	2.031679259	0.17	3+4	Primary
+TCGA-EJ-5495-01	68	Prostate Cancer	Prostate Adenocarcinoma	0.18	TCGA	ERG FUSION	>=8		2.33	70	PRAD	2.051213087	0.32	4+5	Primary
+PRAD-STID7520-Tumor-SM-2RXM6		Prostate Cancer	Prostate Adenocarcinoma	0.31	NEPC				2.9	87	PRAD	2.112815472	0.54		Primary
+TCGA-EJ-5510-01	48	Prostate Cancer	Prostate Adenocarcinoma	0.1	TCGA	ETV1 FUSION	7		0.63	19	PRAD	2.145656	0.37	4+3	Primary
+TCGA-XK-AAIW-01	78	Prostate Cancer	Prostate Adenocarcinoma	0.03	TCGA	ETV4 FUSION	>=8		168.2	5046	PRAD	1.985935812	0.8	5+5	Primary
+PROS01448-DFCI.10-448.P38-SM-5CQ52		Prostate Cancer	Prostate Adenocarcinoma	0.19	PCF_SU2C				1.57	47	PRAD	2.024793823	0.63		Metastasis
+TCGA-EJ-7785-01	54	Prostate Cancer	Prostate Adenocarcinoma	0.04	TCGA	ERG FUSION	6		0.57	17	PRAD	2.0591477	0.4	3+3	Primary
+TCGA-VN-A943-01	71	Prostate Cancer	Prostate Adenocarcinoma	0.05	TCGA		>=8		0.6	18	PRAD	2.007468881	0.89	4+4	Primary
+TCGA-HC-7819-01	53	Prostate Cancer	Prostate Adenocarcinoma	0.08	TCGA	ERG FUSION	>=8		0.73	22	PRAD	2.001303994	0.76	4+4	Primary
+TCGA-HC-7748-01	60	Prostate Cancer	Prostate Adenocarcinoma	0.05	TCGA	ERG FUSION	7		0.73	22	PRAD	2.105874406	0.48	3+4	Primary
+TCGA-J4-A67N-01	61	Prostate Cancer	Prostate Adenocarcinoma	0.1	TCGA	ERG FUSION	7		0.87	26	PRAD	1.933103	0.67	3+4	Primary
+TCGA-WW-A8ZI-01	70	Prostate Cancer	Prostate Adenocarcinoma	0.09	TCGA		7		1	30	PRAD	1.932333288	0.89	3+4	Primary
+PROS11496-6115321-SM-6CNQ5		Prostate Cancer	Prostate Adenocarcinoma	0.14	PCF_SU2C				38.73	1162	PRAD	1.831436603	0.88		Metastasis
+TCGA-HC-7213-01	53	Prostate Cancer	Prostate Adenocarcinoma	0.21	TCGA	ERG FUSION	>=8		1	30	PRAD	3.58559266	0.59	4+5	Primary
+TCGA-V1-A9ZR-01	68	Prostate Cancer	Prostate Adenocarcinoma	0.08	TCGA	ETV4 FUSION	>=8		0.9	27	PRAD	1.936972046	0.51	5+4	Primary
+PROS10448-SUTC.01115085-SM-4JC6J		Prostate Cancer	Prostate Adenocarcinoma	0.02	PCF_SU2C				0.53	16	PRAD	2.009015267	0.3		Metastasis
+TCGA-KK-A6E2-01	54	Prostate Cancer	Prostate Adenocarcinoma	0.02	TCGA	ERG FUSION	7		1.03	31	PRAD	1.980474	0.81	3+4	Primary
+TCGA-CH-5745-01	68	Prostate Cancer	Prostate Adenocarcinoma	0.06	TCGA	ETV1 FUSION	7		1.33	40	PRAD	1.947626089	0.54	4+3	Primary
+TCGA-EJ-5532-01	57	Prostate Cancer	Prostate Adenocarcinoma	0.09	TCGA		7		0.83	25	PRAD	1.984375	0.64	3+4	Primary
+PM159	64	Prostate Cancer	Prostate Adenocarcinoma	0.42	PCF_SU2C				0.8	24	PRAD	2.228606005	0.58		Metastasis
+TCGA-EJ-5509-01	63	Prostate Cancer	Prostate Adenocarcinoma	0.14	TCGA		6		0.83	25	PRAD	2.039231	0.53	3+3	Primary
+TCGA-KK-A8I5-01		Prostate Cancer	Prostate Adenocarcinoma	0.1	TCGA	ERG FUSION	6		0.93	28	PRAD	1.92667959	0.43	3+3	Primary
+PM154	79	Prostate Cancer	Prostate Adenocarcinoma	0.71	PCF_SU2C				1.2	36	PRAD	3.970647145	0.72		Metastasis
+PR-02-1082	61	Prostate Cancer	Prostate Adenocarcinoma	0.05	Broad/Cornell_2012	ERG FUSION	7		0.77	23	PRAD	2.053617796	0.3	3+4	Primary
+PM158	65	Prostate Cancer	Prostate Adenocarcinoma	0.41	PCF_SU2C				1.4	42	PRAD	3.593604724	0.28		Metastasis
+PM156	63	Prostate Cancer	Prostate Adenocarcinoma	0.27	PCF_SU2C				2.57	77	PRAD	2.156354489	0.46		Metastasis
+PM155	87	Prostate Cancer	Prostate Adenocarcinoma	0.6	PCF_SU2C				1.33	40	PRAD	3.749363021	0.71		Metastasis
+12-011I7_LN		Prostate Cancer	Prostate Adenocarcinoma	0.44	Nelson			Lymph Node	1.9	57	PRAD	3.597720675	0.65		Metastasis
+TCGA-V1-A9OQ-01	67	Prostate Cancer	Prostate Adenocarcinoma	0.06	TCGA		6		1.33	40	PRAD	1.985906894	0.74	3+3	Primary
+TCGA-V1-A8MK-01	41	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA	ERG FUSION	6		0.3	9	PRAD	2	0.2	3+3	Primary
+TCGA-XK-AAJT-01	75	Prostate Cancer	Prostate Adenocarcinoma	0.21	TCGA		>=8		0.93	28	PRAD	1.913160628	0.64	4+4	Primary
+TCGA-EJ-5525-01	67	Prostate Cancer	Prostate Adenocarcinoma	0.24	TCGA	ERG FUSION	>=8		1.9	57	PRAD	2.049005	0.81	4+5	Primary
+07-062F2_LUNG		Prostate Cancer	Prostate Adenocarcinoma	0.16	Nelson			Lung	2.6	78	PRAD	2.942416478	0.64		Metastasis
+TCGA-V1-A9OF-01	49	Prostate Cancer	Prostate Adenocarcinoma	0.03	TCGA		6		0.43	13	PRAD	2.00107473	0.79	3+3	Primary
+P08-590	65	Prostate Cancer	Prostate Adenocarcinoma	0	Broad/Cornell_2012	ERG FUSION	7		0.6	18	PRAD	2	0.2	3+4	Primary
+PR-3034	70	Prostate Cancer	Prostate Adenocarcinoma	0.01	Broad/Cornell_2012		>=8		0.7	21	PRAD	2	0.2	4+4	Primary
+TCGA-VN-A88N-01	62	Prostate Cancer	Prostate Adenocarcinoma	0.02	TCGA		7		0.77	23	PRAD	1.996085065	0.74	4+3	Primary
+TCGA-YL-A8SH-01	69	Prostate Cancer	Prostate Adenocarcinoma	0.06	TCGA		7		0.73	22	PRAD	1.976474979	0.65	3+4	Primary
+PR-3036	47	Prostate Cancer	Prostate Adenocarcinoma	0.09	Broad/Cornell_2012		7		0.63	19	PRAD	1.86405272	0.3	3+4	Primary
+TCGA-2A-A8VT-01		Prostate Cancer	Prostate Adenocarcinoma	0.19	TCGA	ERG FUSION	7		1.07	32	PRAD	1.863273747	0.67	4+3	Primary
+MO_1176	56	Prostate Cancer	Prostate Adenocarcinoma	0.24	PCF_SU2C	ERG FUSION		Lymph node	2.8	84	PRAD	1.987967454	0.85		Metastasis
+P03-1334	69	Prostate Cancer	Prostate Adenocarcinoma	0.1	Broad/Cornell_2012		7		1.27	38	PRAD	1.995093536	0.4	3+4	Primary
+AAPC-STID0000021530-Tumor-SM-3RVW4	57	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	2.056530679	0.28	4+3	Primary
+MO_1179	75	Prostate Cancer	Prostate Adenocarcinoma	0.2	PCF_SU2C	ERG FUSION		Bone	2.17	65	PRAD	3.02855794	0.28		Metastasis
+PRAD-01115263-SM-6WZF9	75	Prostate Cancer	Prostate Adenocarcinoma	0.3	PCF_SU2C			Bone	1.2	36	PRAD	1.787427054	0.57		Metastasis
+TCGA-G9-6373-01	68	Prostate Cancer	Prostate Adenocarcinoma	0.15	TCGA	ERG FUSION	7		0.77	23	PRAD	2.074358165	0.68	4+3	Primary
+11-028L1_LUNG		Prostate Cancer	Prostate Adenocarcinoma	0.01	Nelson			Lung	4.43	133	PRAD	1.90130951	0.68		Metastasis
+TCGA-KC-A4BO-01	55	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA		7		0.1	3	PRAD	2	0.2	4+3	Primary
+12728		Prostate Cancer	Prostate Adenocarcinoma	0.15	NEPC				3.23	97	PRAD	2.189877359	0.54		Metastasis
+12729		Prostate Cancer	Prostate Adenocarcinoma	0.26	NEPC				42.8	1284	PRAD	3.982649937	0.47		Primary
+MO_1161	65	Prostate Cancer	Prostate Adenocarcinoma	0.48	PCF_SU2C	ERG FUSION		Liver	1.5	45	PRAD	1.931588655	0.88		Metastasis
+PR-3023	67	Prostate Cancer	Prostate Adenocarcinoma	0.05	Broad/Cornell_2012		7		0.57	17	PRAD	1.939002313	0.31	4+3	Primary
+TCGA-CH-5764-01	66	Prostate Cancer	Prostate Adenocarcinoma	0.07	TCGA	ERG FUSION	7		1.47	44	PRAD	1.910964832	0.52	3+4	Primary
+MO_1162	50	Prostate Cancer	Prostate Adenocarcinoma	0.36	PCF_SU2C			Peritoneal nodule	2.5	75	PRAD	2.454778982	0.66		Metastasis
+PR-3026	56	Prostate Cancer	Prostate Adenocarcinoma	0.02	Broad/Cornell_2012		7		1.67	50	PRAD	2.04376077	0.3	3+4	Primary
+TCGA-HC-A8CY-01		Prostate Cancer	Prostate Adenocarcinoma	0.15	TCGA	ETV1 FUSION	>=8		0.67	20	PRAD	2.089597336	0.78	4+5	Primary
+PROS10448P28-SU2C.01115016-SM-42W9D		Prostate Cancer	Prostate Adenocarcinoma	0.72	PCF_SU2C				2.37	71	PRAD	3.797967524	0.26		Metastasis
+TCGA-HC-A76W-01		Prostate Cancer	Prostate Adenocarcinoma	0.06	TCGA	ETV4 FUSION	7		1	30	PRAD	1.948465	0.6	4+3	Primary
+TCGA-KK-A59V-01	64	Prostate Cancer	Prostate Adenocarcinoma	0.07	TCGA		>=8		26.37	791	PRAD	2.014516	0.55	4+5	Primary
+TCGA-KK-A8I4-01		Prostate Cancer	Prostate Adenocarcinoma	0.19	TCGA	ERG FUSION	7		0.6	18	PRAD	2.370295978	0.44	4+3	Primary
+TCGA-G9-6385-01	66	Prostate Cancer	Prostate Adenocarcinoma	0	TCGA	ERG FUSION	7		0.6	18	PRAD	2	0.2	3+4	Primary
+AAPC-STID0000021583-Tumor-SM-3RVWI	73	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	2.186638918	0.26	4+3	Primary
+MO_1139	61	Prostate Cancer	Prostate Adenocarcinoma	0.06	PCF_SU2C			Bone	1.7	51	PRAD	1.859410551	0.27		Metastasis
+TCGA-CH-5752-01	66	Prostate Cancer	Prostate Adenocarcinoma	0.04	TCGA	ERG FUSION	>=8		1.63	49	PRAD	1.986475391	0.74	5+4	Primary
+PROS01448-6115227-SM-67ERU	81	Prostate Cancer	Prostate Adenocarcinoma	0.16	PCF_SU2C				2.03	61	PRAD	1.977037647	0.9		Metastasis
+TCGA-EJ-7317-01	71	Prostate Cancer	Prostate Adenocarcinoma	0.04	TCGA		7		0.87	26	PRAD	1.96561104	0.65	4+3	Primary
+AAPC-STID0000011381-Tumor-SM-2XU1F	62	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	1.995283201	0.31	3+4	Primary
+PROS12319B-SU2C-06115119-SM-4W2NE	87	Prostate Cancer	Prostate Adenocarcinoma	0.01	PCF_SU2C				4.23	127	PRAD	3.148228958	0.56		Metastasis
+TCGA-V1-A8WN-01		Prostate Cancer	Prostate Adenocarcinoma	0.03	TCGA	FLI1 FUSION	6		0.4	12	PRAD	2.023522	0.37	3+3	Primary
+TCGA-HC-7078-01	69	Prostate Cancer	Prostate Adenocarcinoma	0.23	TCGA		>=8		1	30	PRAD	1.973188	0.68	4+4	Primary
+98-372L_LN		Prostate Cancer	Prostate Adenocarcinoma	0.01	Nelson			Lymph Node	1.63	49	PRAD	2.201909165	0.49		Metastasis
+PROS12319B-SU2C-06115114-SM-4W2N9	80	Prostate Cancer	Prostate Adenocarcinoma	0.27	PCF_SU2C	ETV1 FUSION			5.63	169	PRAD	2.046178061	0.93		Metastasis
+PROS01448-6115250-SM-67ES4	70	Prostate Cancer	Prostate Adenocarcinoma	0.25	PCF_SU2C				1.97	59	PRAD	1.977787649	0.92		Metastasis
+TCGA-G9-6348-01	68	Prostate Cancer	Prostate Adenocarcinoma	0.09	TCGA	ETV1 FUSION	7		1.03	31	PRAD	1.951047485	0.34	4+3	Primary
+TCGA-ZG-A9L9-01	60	Prostate Cancer	Prostate Adenocarcinoma	0.31	TCGA	ERG FUSION	>=8		0.97	29	PRAD	1.893628798	0.71	5+4	Primary
+03-082H1_LIVER		Prostate Cancer	Prostate Adenocarcinoma	0.05	Nelson			Liver	2.4	72	PRAD	3.272776561	0.54		Metastasis
+P01-28	61	Prostate Cancer	Prostate Adenocarcinoma	0.08	Broad/Cornell_2012		>=8		1.57	47	PRAD	1.693501848	0.35	4+4	Primary
+TCGA-G9-6351-01	51	Prostate Cancer	Prostate Adenocarcinoma	0.04	TCGA	ERG FUSION	6		0.63	19	PRAD	1.993722001	0.31	3+3	Primary
+TCGA-KK-A8IL-01	65	Prostate Cancer	Prostate Adenocarcinoma	0.03	TCGA		7		0.77	23	PRAD	2.011271874	0.63	3+4	Primary
+TCGA-QU-A6IM-01	59	Prostate Cancer	Prostate Adenocarcinoma	0.08	TCGA		6		1.83	55	PRAD	2.038427	0.55	3+3	Primary
+SI_9157	78	Prostate Cancer	Prostate Adenocarcinoma	0.14	PCF_SU2C			Bone	2.9	87	PRAD	2.913321495	0.24		Metastasis
+TCGA-ZG-A9LZ-01	66	Prostate Cancer	Prostate Adenocarcinoma	0.32	TCGA	ERG FUSION	>=8		0.77	23	PRAD	2.025578802	0.77	3+5	Primary
+98-328K_PERITONEUM		Prostate Cancer	Prostate Adenocarcinoma	0.02	Nelson			Peritoneum	0.93	28	PRAD	2.094925548	0.85		Metastasis
+TCGA-HC-8265-01	66	Prostate Cancer	Prostate Adenocarcinoma	0.12	TCGA		7		1.8	54	PRAD	2.232166302	0.61	3+4	Primary
+PR-01-2492	67	Prostate Cancer	Prostate Adenocarcinoma	0.32	Broad/Cornell_2012		7		1.17	35	PRAD	2.087988052	0.35	3+4	Primary
+PR-06-1749	60	Prostate Cancer	Prostate Adenocarcinoma	0.25	Broad/Cornell_2012		7		1.5	45	PRAD	1.843766299	0.61	4+3	Primary
+TCGA-HC-A6AQ-01	60	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA	ETV1 FUSION	7		0.57	17	PRAD	2.00392	0.35	3+4	Primary
+TCGA-G9-6371-01	58	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA	ETV4 FUSION	6		0.93	28	PRAD	2.016989984	0.22	3+3	Primary
+TCGA-KK-A6E5-01	63	Prostate Cancer	Prostate Adenocarcinoma	0.09	TCGA		6		0.67	20	PRAD	1.946685	0.62	3+3	Primary
+TCGA-CH-5788-01	69	Prostate Cancer	Prostate Adenocarcinoma	0.27	TCGA		>=8		1.47	44	PRAD	2.058707971	0.79	4+5	Primary
+TCGA-HC-7744-01	46	Prostate Cancer	Prostate Adenocarcinoma	0.03	TCGA	ERG FUSION	>=8		1.1	33	PRAD	2.239198	0.29	4+5	Primary
+TCGA-2A-A8W3-01	69	Prostate Cancer	Prostate Adenocarcinoma	0.07	TCGA	ETV1 FUSION	>=8		0.9	27	PRAD	2.000055923	0.45	5+4	Primary
+TCGA-H9-A6BY-01	63	Prostate Cancer	Prostate Adenocarcinoma	0.03	TCGA	ERG FUSION	7		0.9	27	PRAD	1.979317	0.68	3+4	Primary
+TCGA-VP-AA1N-01	70	Prostate Cancer	Prostate Adenocarcinoma	0.18	TCGA		>=8		0.73	22	PRAD	3.681958457	0.49	5+4	Primary
+TCGA-HC-A6HY-01	51	Prostate Cancer	Prostate Adenocarcinoma	0.04	TCGA	ERG FUSION	7		0.8	24	PRAD	1.976844	0.66	3+4	Primary
+TCGA-CH-5754-01	65	Prostate Cancer	Prostate Adenocarcinoma	0.22	TCGA	ERG FUSION	>=8		2.57	77	PRAD	1.956181708	0.62	4+4	Primary
+TCGA-M7-A724-01	64	Prostate Cancer	Prostate Adenocarcinoma	0.13	TCGA		>=8		0.73	22	PRAD	2.019966	0.92	4+4	Primary
+PR-06-1999	56	Prostate Cancer	Prostate Adenocarcinoma	0.01	Broad/Cornell_2012	ERG FUSION	7		1.17	35	PRAD	1.954788366	0.3	3+4	Primary
+TCGA-EJ-A8FO-01	51	Prostate Cancer	Prostate Adenocarcinoma	0.02	TCGA	ERG FUSION	7		0.43	13	PRAD	2.008061833	0.3	4+3	Primary
+PRAD-6115389.0-SM-7LGUB	81	Prostate Cancer	Prostate Adenocarcinoma	0.56	PCF_SU2C				2.27	68	PRAD	3.896807982	0.73		Metastasis
+AAPC-STID0000021584-Tumor-SM-2XTZ6		Prostate Cancer	Prostate Adenocarcinoma		AAPC						PRAD	2	0.2		Primary
+AAPC-STID0000012848-Tumor-SM-2XU1N	76	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	2.004043299	0.32	3+4	Primary
+PROS01448-1115200-SM-5SGU4		Prostate Cancer	Prostate Adenocarcinoma	0.02	PCF_SU2C			Bone	0.3	9	PRAD	2.504354895	0.14		Metastasis
+04-149E2_LN		Prostate Cancer	Prostate Adenocarcinoma	0.01	Nelson			Lymph Node	4.9	147	PRAD	2.057535491	0.86		Metastasis
+TCGA-KK-A7AP-01		Prostate Cancer	Prostate Adenocarcinoma	0.18	TCGA	ETV1 FUSION	7		0.87	26	PRAD	1.966219	0.83	3+4	Primary
+TCGA-KK-A7B1-01	65	Prostate Cancer	Prostate Adenocarcinoma	0.04	TCGA	ERG FUSION	7		0.7	21	PRAD	1.976608	0.52	4+3	Primary
+PRAD-6115402.0-SM-7LGUP	72	Prostate Cancer	Prostate Adenocarcinoma	0.21	PCF_SU2C				1.43	43	PRAD	2.109143423	0.86		Metastasis
+TCGA-H9-7775-01	68	Prostate Cancer	Prostate Adenocarcinoma	0.04	TCGA	FLI1 FUSION	6		0.9	27	PRAD	2.014102	0.72	3+3	Primary
+PM15	74	Prostate Cancer	Prostate Adenocarcinoma	0.45	PCF_SU2C				2.7	81	PRAD	1.879584213	0.9		Metastasis
+PROS12319B-SU2C-06115123-SM-4W2NI	62	Prostate Cancer	Prostate Adenocarcinoma	0.3	PCF_SU2C				1.53	46	PRAD	3.176188142	0.5		Metastasis
+20990		Prostate Cancer	Prostate Adenocarcinoma	0.18	NEPC				0.87	26	PRAD	1.995051557	0.54		Primary
+PM14	64	Prostate Cancer	Prostate Adenocarcinoma	0.42	PCF_SU2C	ETV1 FUSION			1.6	48	PRAD	3.903986227	0.41		Metastasis
+AAPC-STID0000021555-Tumor-SM-3RVW8	67	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	2.071642116	0.3	4+3	Primary
+TCGA-V1-A9OH-01	63	Prostate Cancer	Prostate Adenocarcinoma	0.1	TCGA	ETV1 FUSION	>=8		1.57	47	PRAD	2.049767568	0.47	5+3	Primary
+PR-3051	60	Prostate Cancer	Prostate Adenocarcinoma	0.11	Broad/Cornell_2012		7		0.67	20	PRAD	1.917410811	0.53	3+4	Primary
+MO_1192	62	Prostate Cancer	Prostate Adenocarcinoma	0.3	PCF_SU2C	ERG FUSION		Lymph node	1.2	36	PRAD	1.794982617	0.7		Metastasis
+TCGA-G9-7525-01	64	Prostate Cancer	Prostate Adenocarcinoma	0.06	TCGA	ERG FUSION	7		1.3	39	PRAD	2.210493	0.37	4+3	Primary
+TCGA-J4-A83J-01	68	Prostate Cancer	Prostate Adenocarcinoma	0.12	TCGA	ERG FUSION	7		1.33	40	PRAD	1.949685903	0.55	3+4	Primary
+TCGA-YL-A8SF-01	62	Prostate Cancer	Prostate Adenocarcinoma	0.14	TCGA	ERG FUSION	7		0.27	8	PRAD	1.98926751	0.66	4+3	Primary
+TCGA-EJ-A65G-01	57	Prostate Cancer	Prostate Adenocarcinoma	0.02	TCGA		6		0.67	20	PRAD	2.041739	0.21	3+3	Primary
+TCGA-HI-7168-01	62	Prostate Cancer	Prostate Adenocarcinoma	0.42	TCGA	ETV4 FUSION	>=8		1.2	36	PRAD	1.634567	0.68	4+4	Primary
+P07-718	57	Prostate Cancer	Prostate Adenocarcinoma	0	Broad/Cornell_2012		7		0.63	19	PRAD	2.00635012	0.19	3+4	Primary
+AAPC-IP_LG-085-Tumor-SM-3NC7E	67	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	2.054484386	0.21	4+3	Primary
+TCGA-EJ-A7NN-01	61	Prostate Cancer	Prostate Adenocarcinoma	0.17	TCGA		7		1.03	31	PRAD	1.879149	0.71	4+3	Primary
+7951		Prostate Cancer	Prostate Adenocarcinoma	0.22	NEPC				3.07	92	PRAD	2.242100253	0.71		Metastasis
+TCGA-EJ-5501-01	55	Prostate Cancer	Prostate Adenocarcinoma	0.09	TCGA	ETV1 FUSION	7		0.6	18	PRAD	1.927595	0.37	3+4	Primary
+PROS01448-1115183-SM-5SGU3	63	Prostate Cancer	Prostate Adenocarcinoma	0.39	PCF_SU2C	ERG FUSION		Bone	1.2	36	PRAD	2.267628148	0.63		Metastasis
+PROS01448-DFCI.10-448.P20-SM-5CQ5F	72	Prostate Cancer	Prostate Adenocarcinoma	0.22	PCF_SU2C				1.67	50	PRAD	2.340522328	0.33		Metastasis
+AAPC-STID0000021608-Tumor-SM-3RVWO		Prostate Cancer	Prostate Adenocarcinoma		AAPC						PRAD	2	0.2		Primary
+TCGA-KK-A8IH-01		Prostate Cancer	Prostate Adenocarcinoma	0.08	TCGA	ERG FUSION	7		0.6	18	PRAD	1.936884561	0.76	4+3	Primary
+TCGA-G9-6499-01	66	Prostate Cancer	Prostate Adenocarcinoma	0.37	TCGA		7		0.97	29	PRAD	3.518106858	0.28	3+4	Primary
+TCGA-G9-6338-01	61	Prostate Cancer	Prostate Adenocarcinoma	0.12	TCGA		7		0.93	28	PRAD	1.998286	0.76	4+3	Primary
+TCGA-G9-6361-01	61	Prostate Cancer	Prostate Adenocarcinoma	0.06	TCGA	ERG FUSION	7		1.13	34	PRAD	1.908239	0.7	3+4	Primary
+MO_1184	71	Prostate Cancer	Prostate Adenocarcinoma	0.32	PCF_SU2C			Liver	3.93	118	PRAD	2.082447068	0.55		Metastasis
+PM10	85	Prostate Cancer	Prostate Adenocarcinoma	0.04	PCF_SU2C				31.8	954	PRAD	1.940083849	0.63		Metastasis
+TCGA-YL-A8SQ-01	61	Prostate Cancer	Prostate Adenocarcinoma	0.47	TCGA		7		0.97	29	PRAD	3.363649732	0.59	4+3	Primary
+PR-3048	64	Prostate Cancer	Prostate Adenocarcinoma	0.02	Broad/Cornell_2012		7		1.33	40	PRAD	2	0.2	3+4	Primary
+07-042H2_LN		Prostate Cancer	Prostate Adenocarcinoma	0.01	Nelson			Lymph Node	2.03	61	PRAD	4.025260049	0.73		Metastasis
+PROS11496-6115322-SM-6CNQ6		Prostate Cancer	Prostate Adenocarcinoma	0.31	PCF_SU2C				1.5	45	PRAD	1.936526951	0.8		Metastasis
+97-159H2_LIVER		Prostate Cancer	Prostate Adenocarcinoma	0	Nelson			Liver	0.63	19	PRAD	3.072573081	0.64		Metastasis
+TCGA-J4-A6M7-01	53	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA	ERG FUSION	6		0.43	13	PRAD	2	0.2	3+3	Primary
+TCGA-EJ-A46E-01	57	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA		>=8		0.2	6	PRAD	2.028869	0.94	4+4	Primary
+P07-144	65	Prostate Cancer	Prostate Adenocarcinoma	0.29	Broad/Cornell_2012		7		1.3	39	PRAD	3.773329302	0.53	3+4	Primary
+TCGA-YL-A9WI-01	63	Prostate Cancer	Prostate Adenocarcinoma	0.37	TCGA		>=8		1	30	PRAD	2.228278491	0.84	4+4	Primary
+TCGA-2A-AAYU-01	56	Prostate Cancer	Prostate Adenocarcinoma	0.04	TCGA	ERG FUSION	6		0.73	22	PRAD	1.973536988	0.76	3+3	Primary
+TCGA-KK-A59X-01	55	Prostate Cancer	Prostate Adenocarcinoma	0.14	TCGA		>=8		1.43	43	PRAD	1.854292	0.79	4+4	Primary
+AAPC-IP_LG-021-Tumor-SM-3NC63	59	Prostate Cancer	Prostate Adenocarcinoma		AAPC		>=8				PRAD	1.895604668	0.28	4+5	Primary
+21020		Prostate Cancer	Prostate Adenocarcinoma	0.01	NEPC				0.53	16	PRAD	2.29051457	0.3		Primary
+PROS10448-SUTC.01115084-SM-4JC6H		Prostate Cancer	Prostate Adenocarcinoma	0.03	PCF_SU2C				1.17	35	PRAD	2.297504451	0.22		Metastasis
+AAPC-STID0000012110-Tumor-SM-2XU1J	49	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	2	0.2	3+4	Primary
+AAPC-IP_LG-057-Tumor-SM-3NC6T	70	Prostate Cancer	Prostate Adenocarcinoma		AAPC		>=8				PRAD	2.00866455	0.59	4+4	Primary
+TCGA-HC-7740-01	59	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA		7		0.57	17	PRAD	2.034519024	0.24	3+4	Primary
+MO_1316	70	Prostate Cancer	Prostate Adenocarcinoma	0.25	PCF_SU2C	ERG FUSION		Lymph node	2.03	61	PRAD	3.680915534	0.74		Metastasis
+05-221MM1_BONE		Prostate Cancer	Prostate Adenocarcinoma	0.01	Nelson			Bone	0.53	16	PRAD	1.868909743	0.84		Metastasis
+PR-02-1899	66	Prostate Cancer	Prostate Adenocarcinoma	0.08	Broad/Cornell_2012	ERG FUSION	6		1.33	40	PRAD	1.980396729	0.57	3+3	Primary
+TCGA-ZG-A8QZ-01	65	Prostate Cancer	Prostate Adenocarcinoma	0.08	TCGA	ERG FUSION	7		0.73	22	PRAD	2.03665724	0.36	3+4	Primary
+AAPC-STID0000020508-Tumor-SM-2XU22	56	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	1.949340403	0.69	3+4	Primary
+TCGA-KK-A6E7-01	46	Prostate Cancer	Prostate Adenocarcinoma	0.14	TCGA		>=8		0.83	25	PRAD	1.893694	0.72	5+4	Primary
+TCGA-CH-5737-01	73	Prostate Cancer	Prostate Adenocarcinoma	0.07	TCGA		7		2.7	81	PRAD	1.963464431	0.73	3+4	Primary
+TCGA-CH-5750-01	72	Prostate Cancer	Prostate Adenocarcinoma	0.02	TCGA	ETV1 FUSION	7		1.27	38	PRAD	2.031020923	0.71	3+4	Primary
+AAPC-IP_LG-051-Tumor-SM-3NC6N	61	Prostate Cancer	Prostate Adenocarcinoma		AAPC		>=8				PRAD	1.849939298	0.52	4+4	Primary
+TCGA-HC-A8D1-01		Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA	ERG FUSION	7		0.67	20	PRAD	1.984762977	0.35	3+4	Primary
+TCGA-KC-A7FE-01		Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA		6		0.3	9	PRAD	2	0.2	3+3	Primary
+05-148E3_LIVER		Prostate Cancer	Prostate Adenocarcinoma	0	Nelson			Liver	0.77	23	PRAD	2.129341726	0.86		Metastasis
+PR-04-194	65	Prostate Cancer	Prostate Adenocarcinoma	0.02	Broad/Cornell_2012	ERG FUSION	7		0.97	29	PRAD	1.976453859	0.31	3+4	Primary
+AAPC-STID0000009880-Tumor-SM-2XU19	53	Prostate Cancer	Prostate Adenocarcinoma		AAPC		>=8				PRAD	2.0542934	0.21	4+5	Primary
+PR-05-3440	63	Prostate Cancer	Prostate Adenocarcinoma	0.02	Broad/Cornell_2012	ERG FUSION	7		1.23	37	PRAD	1.978394955	0.22	4+3	Primary
+TCGA-V1-A9Z9-01	63	Prostate Cancer	Prostate Adenocarcinoma	0.06	TCGA		>=8		0.87	26	PRAD	1.974011357	0.62	5+4	Primary
+P07-360	57	Prostate Cancer	Prostate Adenocarcinoma	0.11	Broad/Cornell_2012		>=8		0.8	24	PRAD	1.983829146	0.64	4+4	Primary
+TCGA-HC-7231-01	66	Prostate Cancer	Prostate Adenocarcinoma	0.05	TCGA	ERG FUSION	7		1.27	38	PRAD	2.013967	0.68	3+4	Primary
+TCGA-V1-A8MM-01	60	Prostate Cancer	Prostate Adenocarcinoma	0.12	TCGA		7		0.33	10	PRAD	1.992831022	0.76	4+3	Primary
+TCGA-EJ-5527-01	69	Prostate Cancer	Prostate Adenocarcinoma	0.08	TCGA	ERG FUSION	7		1.4	42	PRAD	2.04403	0.46	4+3	Primary
+PRAD-6115386.0-SM-7LGU8	65	Prostate Cancer	Prostate Adenocarcinoma	0.71	PCF_SU2C				2.37	71	PRAD	3.651360528	0.78		Metastasis
+03-163S4_LIVER		Prostate Cancer	Prostate Adenocarcinoma	0	Nelson			Liver	1.5	45	PRAD	3.246111178	0.8		Metastasis
+TCGA-EJ-7789-01	66	Prostate Cancer	Prostate Adenocarcinoma	0.34	TCGA		>=8		0.83	25	PRAD	2.104050901	0.9	4+5	Primary
+PR-03-1026	56	Prostate Cancer	Prostate Adenocarcinoma	0.05	Broad/Cornell_2012	ERG FUSION	7		0.6	18	PRAD	1.987587416	0.26	4+3	Primary
+TCGA-KK-A7AY-01	60	Prostate Cancer	Prostate Adenocarcinoma	0.06	TCGA	ERG FUSION	7		1.3	39	PRAD	2.007691	0.72	4+3	Primary
+TCGA-EJ-5499-01	61	Prostate Cancer	Prostate Adenocarcinoma	0.06	TCGA	ERG FUSION	7		1.17	35	PRAD	1.948363	0.45	3+4	Primary
+PRAD-6115396.0-SM-7LGUI	64	Prostate Cancer	Prostate Adenocarcinoma	0.3	PCF_SU2C				2.27	68	PRAD	2.256726428	0.72		Metastasis
+TCGA-2A-A8VV-01	52	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA	ERG FUSION	6		0.53	16	PRAD	2.018419134	0.49	3+3	Primary
+TCGA-XK-AAJR-01	61	Prostate Cancer	Prostate Adenocarcinoma	0.1	TCGA		>=8		0.67	20	PRAD	1.939289929	0.44	4+4	Primary
+01-095N1_LN		Prostate Cancer	Prostate Adenocarcinoma	0	Nelson			Lymph Node	5.97	179	PRAD	3.521216365	0.77		Metastasis
+P06-1696	64	Prostate Cancer	Prostate Adenocarcinoma	0.01	Broad/Cornell_2012		7		0.5	15	PRAD	2	0.2	4+3	Primary
+TCGA-YL-A8SJ-01	60	Prostate Cancer	Prostate Adenocarcinoma	0.07	TCGA	ETV1 FUSION	7		0.67	20	PRAD	1.751281125	0.3	4+3	Primary
+21017		Prostate Cancer	Prostate Adenocarcinoma	0.2	NEPC				6.47	194	PRAD	1.933315942	0.85		Primary
+AAPC-STID0000021532-Tumor-SM-3RVW5		Prostate Cancer	Prostate Adenocarcinoma		AAPC						PRAD	1.970494727	0.15		Primary
+21016		Prostate Cancer	Prostate Adenocarcinoma	0.32	NEPC				2.6	78	PRAD	2.055377635	0.58		Primary
+TCGA-EJ-AB27-01	51	Prostate Cancer	Prostate Adenocarcinoma	0	TCGA		6		0.63	19	PRAD	2	0.2	3+3	Primary
+10361		Prostate Cancer	Prostate Adenocarcinoma	0.48	NEPC				8.37	251	PRAD	2.135899508	0.74		Primary
+21011		Prostate Cancer	Prostate Adenocarcinoma	0.23	NEPC				0.87	26	PRAD	2.010027026	0.69		Primary
+TCGA-J9-A8CK-01		Prostate Cancer	Prostate Adenocarcinoma	0.05	TCGA	ERG FUSION	7		0.7	21	PRAD	1.970334	0.53	4+3	Primary
+21010		Prostate Cancer	Prostate Adenocarcinoma	0.06	NEPC				11.13	334	PRAD	2.059319999	0.81		Primary
+P05-3829	59	Prostate Cancer	Prostate Adenocarcinoma	0.01	Broad/Cornell_2012		6		0.37	11	PRAD	2	0.2	3+3	Primary
+PROS10448-1115156-SM-5EEBN	78	Prostate Cancer	Prostate Adenocarcinoma	0.42	PCF_SU2C	ERG FUSION		Lymph node	1.5	45	PRAD	3.367676791	0.6		Metastasis
+TCGA-HC-7752-01	61	Prostate Cancer	Prostate Adenocarcinoma	0.03	TCGA		7		1.17	35	PRAD	1.989677974	0.87	3+4	Primary
+PRAD-06115124-SM-7LGU1	72	Prostate Cancer	Prostate Adenocarcinoma	0.01	PCF_SU2C				0.97	29	PRAD	2	0.2		Metastasis
+TCGA-CH-5772-01	63	Prostate Cancer	Prostate Adenocarcinoma	0.04	TCGA		7		2.03	61	PRAD	2.01532311	0.3	3+4	Primary
+TCGA-G9-6365-01	71	Prostate Cancer	Prostate Adenocarcinoma	0.02	TCGA	ERG FUSION	7		1.03	31	PRAD	2.063826899	0.52	3+4	Primary
+PROS11496-6115320-SM-6CNQ4		Prostate Cancer	Prostate Adenocarcinoma	0.43	PCF_SU2C				1.73	52	PRAD	3.155715237	0.57		Metastasis
+TCGA-EJ-5505-01	57	Prostate Cancer	Prostate Adenocarcinoma	0.05	TCGA		7		0.87	26	PRAD	2.047508	0.44	3+4	Primary
+10363		Prostate Cancer	Prostate Adenocarcinoma	0.4	NEPC				5.47	164	PRAD	1.712272437	0.44		Primary
+10362		Prostate Cancer	Prostate Adenocarcinoma	0.31	NEPC				7.23	217	PRAD	1.933251743	0.51		Primary
+TCGA-HC-A632-01	68	Prostate Cancer	Prostate Adenocarcinoma	0.23	TCGA	ERG FUSION	>=8		0.93	28	PRAD	1.847981	0.68	4+5	Primary
+MO_1128	71	Prostate Cancer	Prostate Adenocarcinoma	0.32	PCF_SU2C			Lymph node	1.77	53	PRAD	2.048595962	0.77		Metastasis
+PR-09-2744	48	Prostate Cancer	Prostate Adenocarcinoma	0.04	Broad/Cornell_2012	ERG FUSION	6		0.57	17	PRAD	1.995023278	0.52	3+3	Primary
+PROS01448-DFCI.10-448.P34-SM-5CQ4Y	71	Prostate Cancer	Prostate Adenocarcinoma	0.09	PCF_SU2C				0.2	6	PRAD	2	0.2		Metastasis
+TCGA-HI-7171-01	56	Prostate Cancer	Prostate Adenocarcinoma	0.18	TCGA	ERG FUSION	>=8		0.77	23	PRAD	1.873849	0.84	4+4	Primary
+PRAD-6115392.0-SM-7LGUE	64	Prostate Cancer	Prostate Adenocarcinoma	0.26	PCF_SU2C				1.6	48	PRAD	3.461841796	0.47		Metastasis
+TCGA-EJ-7792-01	53	Prostate Cancer	Prostate Adenocarcinoma	0.03	TCGA		6		0.53	16	PRAD	2.050180565	0.77	3+3	Primary
+TCGA-EJ-A65E-01	67	Prostate Cancer	Prostate Adenocarcinoma	0.04	TCGA		6		0.87	26	PRAD	1.953227848	0.58	3+3	Primary
+PRAD-01115284-SM-6WZF6	73	Prostate Cancer	Prostate Adenocarcinoma	0.28	PCF_SU2C			Bone	1.6	48	PRAD	2.001612392	0.41		Metastasis
+MO_1130	56	Prostate Cancer	Prostate Adenocarcinoma	0.1	PCF_SU2C			Bone	0.73	22	PRAD	1.968956621	0.36		Metastasis
+MO_1132	61	Prostate Cancer	Prostate Adenocarcinoma	0.03	PCF_SU2C			Bone	2.87	86	PRAD	1.98286471	0.41		Metastasis
+PROS10448-SUTC.01115091-SM-4JC6Y		Prostate Cancer	Prostate Adenocarcinoma	0.33	PCF_SU2C				0.7	21	PRAD	2.352829816	0.37		Metastasis
+P03-2620	68	Prostate Cancer	Prostate Adenocarcinoma	0.03	Broad/Cornell_2012		7		0.8	24	PRAD	2.028738241	0.34	3+4	Primary
+TCGA-G9-A9S7-01	55	Prostate Cancer	Prostate Adenocarcinoma	0.07	TCGA	ERG FUSION	>=8		0.77	23	PRAD	1.985278298	0.59	4+4	Primary
+MO_1114	62	Prostate Cancer	Prostate Adenocarcinoma	0.69	PCF_SU2C	ERG FUSION		Lymph node	1.93	58	PRAD	3.482638498	0.82		Metastasis
+SC_9008		Prostate Cancer	Prostate Adenocarcinoma	0.21	PCF_SU2C			Liver	41.87	1256	PRAD	2.077142793	0.82		Metastasis
+AAPC-STID0000021611-Tumor-SM-2XU18	67	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	2.090186778	0.3	3+4	Primary
+SC_9007	65	Prostate Cancer	Prostate Adenocarcinoma	0.01	PCF_SU2C	FLI1 FUSION		Lymph node	1.23	37	PRAD	1.214986117	0.3		Metastasis
+SC_9006	79	Prostate Cancer	Prostate Adenocarcinoma	0.03	PCF_SU2C			Lung	1.17	35	PRAD	1.214986117	0.3		Metastasis
+MO_1118	73	Prostate Cancer	Prostate Adenocarcinoma	0.23	PCF_SU2C	ERG FUSION		Liver	1.5	45	PRAD	1.916020551	0.91		Metastasis
+SC_9004	60	Prostate Cancer	Prostate Adenocarcinoma	0.44	PCF_SU2C			Bone	6.17	185	PRAD	2.01474084	0.18		Metastasis
+SC_9002	82	Prostate Cancer	Prostate Adenocarcinoma	0	PCF_SU2C			Bone	0.73	22	PRAD	2.603482883	0.54		Metastasis
+P09-120	61	Prostate Cancer	Prostate Adenocarcinoma	0	Broad/Cornell_2012	ERG FUSION	7		0.63	19	PRAD	2	0.2	3+4	Primary
+SC_9001		Prostate Cancer	Prostate Adenocarcinoma	0.31	PCF_SU2C			Liver	1.47	44	PRAD	3.721777613	0.79		Metastasis
+TCGA-EJ-5503-01	50	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA	ERG FUSION	>=8		0.5	15	PRAD	2	0.2	4+5	Primary
+TCGA-EJ-7315-01	68	Prostate Cancer	Prostate Adenocarcinoma	0.1	TCGA	ERG FUSION	7		0.8	24	PRAD	1.958079655	0.61	4+3	Primary
+TCGA-KK-A8IF-01	57	Prostate Cancer	Prostate Adenocarcinoma	0.28	TCGA		>=8		0.6	18	PRAD	2.184084906	0.9	4+4	Primary
+TCGA-J4-A67S-01	63	Prostate Cancer	Prostate Adenocarcinoma	0.07	TCGA	ERG FUSION	7		0.57	17	PRAD	2.021611	0.43	3+4	Primary
+TCGA-ZG-A9ND-01	55	Prostate Cancer	Prostate Adenocarcinoma	0.17	TCGA		>=8		0.63	19	PRAD	1.939686499	0.75	5+4	Primary
+PROS10448-SUTC.01115089-SM-4JC6T		Prostate Cancer	Prostate Adenocarcinoma	0.32	PCF_SU2C				1.2	36	PRAD	4.70106956	0.3		Metastasis
+TCGA-G9-6363-01	64	Prostate Cancer	Prostate Adenocarcinoma	0.09	TCGA	ERG FUSION	7		1.27	38	PRAD	2.015050484	0.75	4+3	Primary
+PRAD-01115349-SM-6VZ7M	69	Prostate Cancer	Prostate Adenocarcinoma	0.06	PCF_SU2C			Bone	0.1	3	PRAD	2	0.2		Metastasis
+PM78	78	Prostate Cancer	Prostate Adenocarcinoma	0.27	PCF_SU2C				2.1	63	PRAD	2.374519097	0.53		Metastasis
+MO_1124	66	Prostate Cancer	Prostate Adenocarcinoma	0.4	PCF_SU2C	ERG FUSION		Bladder	2.53	76	PRAD	1.93429961	0.94		Metastasis
+MO_1105	61	Prostate Cancer	Prostate Adenocarcinoma	0.05	PCF_SU2C			Lymph Node	6.93	208	PRAD	1.281166154	0.38		Metastasis
+TCGA-ZG-A9LM-01	72	Prostate Cancer	Prostate Adenocarcinoma	0.34	TCGA		>=8		0.9	27	PRAD	3.628416275	0.48	5+4	Primary
+TCGA-EJ-A46G-01	71	Prostate Cancer	Prostate Adenocarcinoma	0.2	TCGA		7		1.4	42	PRAD	2.306009	0.67	4+3	Primary
+TCGA-G9-6353-01	58	Prostate Cancer	Prostate Adenocarcinoma	0	TCGA	ERG FUSION	6		0.3	9	PRAD	2	0.2	3+3	Primary
+PRAD-DFCI.11-104.15-SM-3S2HH		Prostate Cancer	Prostate Adenocarcinoma	0.27	PCF_SU2C			Prostate	0.63	19	PRAD	3.103948562	0.61		Metastasis
+TCGA-QU-A6IO-01	53	Prostate Cancer	Prostate Adenocarcinoma	0.06	TCGA		6		0.77	23	PRAD	1.995736	0.6	3+3	Primary
+PM2	73	Prostate Cancer	Prostate Adenocarcinoma	0.57	PCF_SU2C				1.47	44	PRAD	2.664926136	0.38		Metastasis
+TCGA-HC-A6AO-01	52	Prostate Cancer	Prostate Adenocarcinoma	0.1	TCGA		7		0.73	22	PRAD	2.002415	0.75	4+3	Primary
+PRAD-6115399.0-SM-7LGUL	61	Prostate Cancer	Prostate Adenocarcinoma	0.47	PCF_SU2C				3.7	111	PRAD	4.179714536	0.42		Metastasis
+01-120A1_LIVER		Prostate Cancer	Prostate Adenocarcinoma	0.01	Nelson			Liver	2.4	72	PRAD	2.407595488	0.74		Metastasis
+TCGA-CH-5740-01	57	Prostate Cancer	Prostate Adenocarcinoma	0.09	TCGA	ERG FUSION	>=8		0.97	29	PRAD	1.961586479	0.63	4+4	Primary
+TCGA-KK-A59Z-01	66	Prostate Cancer	Prostate Adenocarcinoma	0.41	TCGA		7		1.47	44	PRAD	2.074046	0.85	4+3	Primary
+P06-3676	59	Prostate Cancer	Prostate Adenocarcinoma	0.01	Broad/Cornell_2012	ERG FUSION	7		0.6	18	PRAD	2	0.2	3+4	Primary
+TCGA-HC-7742-01	58	Prostate Cancer	Prostate Adenocarcinoma	0.15	TCGA		>=8		0.9	27	PRAD	2.041863213	0.57	4+4	Primary
+TCGA-ZG-A9LB-01	72	Prostate Cancer	Prostate Adenocarcinoma	0.51	TCGA		>=8		1.4	42	PRAD	3.239594726	0.49	5+4	Primary
+PM9	64	Prostate Cancer	Prostate Adenocarcinoma	0.24	PCF_SU2C				0.8	24	PRAD	3.204160625	0.26		Metastasis
+MO_1337	62	Prostate Cancer	Prostate Adenocarcinoma	0.29	PCF_SU2C	ERG FUSION		Liver	1.5	45	PRAD	1.833457127	0.84		Metastasis
+TCGA-HC-A48F-01	47	Prostate Cancer	Prostate Adenocarcinoma	0.2	TCGA	ERG FUSION	7		0.5	15	PRAD	1.802744342	0.85	4+3	Primary
+MO_1339	78	Prostate Cancer	Prostate Adenocarcinoma	0.68	PCF_SU2C			Lymph node	2	60	PRAD	3.124165988	0.79		Metastasis
+TCGA-CH-5739-01	65	Prostate Cancer	Prostate Adenocarcinoma	0.11	TCGA	ERG FUSION	7		1	30	PRAD	2.054418359	0.66	4+3	Primary
+PROS12319B-SU2C-06115121-SM-4W2NG	55	Prostate Cancer	Prostate Adenocarcinoma	0.63	PCF_SU2C				1.87	56	PRAD	4.285394659	0.59		Metastasis
+AAPC-STID0000021588-Tumor-SM-2XU25	56	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	2.065464157	0.39	4+3	Primary
+PM90	62	Prostate Cancer	Prostate Adenocarcinoma	0.2	PCF_SU2C				1.17	35	PRAD	1.977702065	0.3		Metastasis
+TCGA-XK-AAIR-01	75	Prostate Cancer	Prostate Adenocarcinoma	0.06	TCGA		>=8		0.67	20	PRAD	1.942996738	0.34	4+4	Primary
+TCGA-XK-AAJ3-01	56	Prostate Cancer	Prostate Adenocarcinoma	0.11	TCGA		>=8		1.53	46	PRAD	2.019039384	0.73	4+4	Primary
+TCGA-EJ-5515-01	60	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA		7		0.83	25	PRAD	2.264139	0.23	4+3	Primary
+TCGA-EJ-7327-01	61	Prostate Cancer	Prostate Adenocarcinoma	0.02	TCGA	ERG FUSION	7		0.57	17	PRAD	2.21180212	0.17	4+3	Primary
+TCGA-V1-A9Z7-01	54	Prostate Cancer	Prostate Adenocarcinoma	0.13	TCGA		>=8		0.83	25	PRAD	1.922527779	0.21	5+4	Primary
+TCGA-FC-A5OB-01	53	Prostate Cancer	Prostate Adenocarcinoma	0.04	TCGA		>=8		0.93	28	PRAD	1.991546	0.76	4+5	Primary
+TCGA-CH-5762-01	60	Prostate Cancer	Prostate Adenocarcinoma	0.15	TCGA	ETV4 FUSION	7		2.97	89	PRAD	2.080047945	0.33	4+3	Primary
+TCGA-HC-7210-01	74	Prostate Cancer	Prostate Adenocarcinoma	0.07	TCGA		>=8		0.87	26	PRAD	1.930935	0.45	4+4	Primary
+AAPC-STID0000013388-Tumor-SM-2XU1Q	68	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	2.3185844	0.32	4+3	Primary
+P07-5036	52	Prostate Cancer	Prostate Adenocarcinoma	0.03	Broad/Cornell_2012	ERG FUSION	7		0.87	26	PRAD	1.986873086	0.39	3+4	Primary
+AAPC-STID0000007180-Tumor-SM-2XU14	72	Prostate Cancer	Prostate Adenocarcinoma		AAPC		>=8				PRAD	1.308547355	0.18	4+5	Primary
+SC_9158	73	Prostate Cancer	Prostate Adenocarcinoma	0.66	PCF_SU2C			Bone	1.8	54	PRAD	3.516910629	0.62		Metastasis
+SC_9156	60	Prostate Cancer	Prostate Adenocarcinoma	0.63	PCF_SU2C			Pertioneum	2.83	85	PRAD	4.407364504	0.65		Metastasis
+AAPC-STID0000011949-Tumor-SM-2XU1I	46	Prostate Cancer	Prostate Adenocarcinoma		AAPC		>=8				PRAD	2.072928738	0.49	5+4	Primary
+SC_9153	72	Prostate Cancer	Prostate Adenocarcinoma	0.55	PCF_SU2C			Liver	1.83	55	PRAD	3.012035754	0.76		Metastasis
+SC_9151	58	Prostate Cancer	Prostate Adenocarcinoma	0.2	PCF_SU2C			Bone	1.83	55	PRAD	3.685055004	0.3		Metastasis
+SC_9150	55	Prostate Cancer	Prostate Adenocarcinoma	0.31	PCF_SU2C			Bone	4.7	141	PRAD	4.125226708	0.8		Metastasis
+PROS01448-1115161-SM-5SGU1	67	Prostate Cancer	Prostate Adenocarcinoma	0.31	PCF_SU2C			Lymph node	2.23	67	PRAD	2.455710858	0.81		Metastasis
+TCGA-J4-A67O-01	59	Prostate Cancer	Prostate Adenocarcinoma	0	TCGA	ERG FUSION	7		0.57	17	PRAD	2.097411	0.21	3+4	Primary
+TCGA-J4-A6G1-01	68	Prostate Cancer	Prostate Adenocarcinoma	0	TCGA	ERG FUSION	7		0.47	14	PRAD	2	0.2	4+3	Primary
+PROS01448-DFCI.10-448.P31-SM-5CQ5A	72	Prostate Cancer	Prostate Adenocarcinoma	0.13	PCF_SU2C				2.3	69	PRAD	2.846451312	0.45		Metastasis
+TCGA-CH-5746-01	57	Prostate Cancer	Prostate Adenocarcinoma	0.02	TCGA	ERG FUSION	6		0.8	24	PRAD	1.98852914	0.3	3+3	Primary
+TCGA-HC-7737-01	55	Prostate Cancer	Prostate Adenocarcinoma	0.05	TCGA		7		0.63	19	PRAD	2.06093	0.32	3+4	Primary
+TCGA-XQ-A8TB-01		Prostate Cancer	Prostate Adenocarcinoma	0.07	TCGA	ERG FUSION	7		0.7	21	PRAD	2.069394298	0.61	3+4	Primary
+TCGA-EJ-5531-01	62	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA		7		1	30	PRAD	1.997022	0.63	3+4	Primary
+TCGA-X4-A8KS-01	61	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA		7		0.63	19	PRAD	2.105480237	0.25	3+4	Primary
+PR-2740	58	Prostate Cancer	Prostate Adenocarcinoma	0.01	Broad/Cornell_2012		6		0.57	17	PRAD	2	0.2	3+3	Primary
+TCGA-SU-A7E7-01		Prostate Cancer	Prostate Adenocarcinoma	0.03	TCGA	ETV1 FUSION	7		0.7	21	PRAD	1.983978988	0.27	3+4	Primary
+PROS01448-6115237-SM-67ERZ	81	Prostate Cancer	Prostate Adenocarcinoma	0.58	PCF_SU2C				2.9	87	PRAD	3.369158179	0.84		Metastasis
+TCGA-HC-8261-01	48	Prostate Cancer	Prostate Adenocarcinoma	0.09	TCGA		7		0.77	23	PRAD	2.015025566	0.66	4+3	Primary
+PRAD-A0001-Tumor-SM-3VG6Y		Prostate Cancer	Prostate Adenocarcinoma	0.77	NEPC				1.83	55	PRAD	3.871619836	0.77		Metastasis
+TCGA-EJ-7782-01	71	Prostate Cancer	Prostate Adenocarcinoma	0.12	TCGA		>=8		10.6	318	PRAD	1.977027982	0.7	4+5	Primary
+TCGA-J9-A8CM-01		Prostate Cancer	Prostate Adenocarcinoma	0.16	TCGA	ERG FUSION	7		1.47	44	PRAD	2.094133	0.6	3+4	Primary
+SC_9165	67	Prostate Cancer	Prostate Adenocarcinoma	0.04	PCF_SU2C			Lymph node	5	150	PRAD	1.988010462	0.62		Metastasis
+AAPC-STID0000010901-Tumor-SM-2XU1D	70	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	1.946988805	0.66	3+4	Primary
+PROS11496-6115286-SM-6CNPY		Prostate Cancer	Prostate Adenocarcinoma	0.17	PCF_SU2C				3.77	113	PRAD	2.002006105	0.29		Metastasis
+SC_9163	70	Prostate Cancer	Prostate Adenocarcinoma	0.12	PCF_SU2C			Lymph node	36.33	1090	PRAD	3.556187957	0.62		Metastasis
+SC_9162	76	Prostate Cancer	Prostate Adenocarcinoma	0.62	PCF_SU2C			Liver	2.2	66	PRAD	3.516910629	0.45		Metastasis
+PR-02-169	65	Prostate Cancer	Prostate Adenocarcinoma	0.01	Broad/Cornell_2012	ERG FUSION	7		0.47	14	PRAD	2	0.2	3+4	Primary
+P09-1372	73	Prostate Cancer	Prostate Adenocarcinoma	0.03	Broad/Cornell_2012	ERG FUSION	7		0.73	22	PRAD	2.004711282	0.31	3+4	Primary
+TCGA-G9-6367-01	60	Prostate Cancer	Prostate Adenocarcinoma	0	TCGA		7		0.1	3	PRAD	2	0.2	4+3	Primary
+PROS11496-6115323-SM-6CNQ8		Prostate Cancer	Prostate Adenocarcinoma	0.22	PCF_SU2C				1.33	40	PRAD	3.671683036	0.28		Metastasis
+PROS12319B-SU2C-06115117-SM-4W2NC	67	Prostate Cancer	Prostate Adenocarcinoma	0.2	PCF_SU2C	ERG FUSION			1.8	54	PRAD	2.243355288	0.37		Metastasis
+TCGA-YL-A8SB-01	62	Prostate Cancer	Prostate Adenocarcinoma	0.09	TCGA		7		0.77	23	PRAD	1.940618409	0.45	4+3	Primary
+AAPC-IP_LG-067-Tumor-SM-3NC6Z	67	Prostate Cancer	Prostate Adenocarcinoma		AAPC		>=8				PRAD	1.958757613	0.57	4+4	Primary
+SC_9139		Prostate Cancer	Prostate Adenocarcinoma	0.01	PCF_SU2C			Groin	3.2	96	PRAD	2.174222983	0.3		Metastasis
+PROS12319B-SU2C-06115120-SM-4W2NF	65	Prostate Cancer	Prostate Adenocarcinoma	0.6	PCF_SU2C				3.47	104	PRAD	2.063912298	0.37		Metastasis
+SC_9138	52	Prostate Cancer	Prostate Adenocarcinoma	0	PCF_SU2C			Lymph node	4.13	124	PRAD	2.033708287	0.3		Metastasis
+SC_9137	70	Prostate Cancer	Prostate Adenocarcinoma	0.24	PCF_SU2C			Bone	6.5	195	PRAD	1.995227013	0.71		Metastasis
+SC_9136	79	Prostate Cancer	Prostate Adenocarcinoma	0.21	PCF_SU2C			Bone	5.9	177	PRAD	3.378655984	0.45		Metastasis
+TCGA-HC-7749-01	70	Prostate Cancer	Prostate Adenocarcinoma	0.05	TCGA	ETV4 FUSION	7		1.73	52	PRAD	4.105626	0.38	3+4	Primary
+SC_9134	79	Prostate Cancer	Prostate Adenocarcinoma	0.01	PCF_SU2C			Bone	1	30	PRAD	2.278173604	0.32		Metastasis
+TCGA-YL-A9WK-01	63	Prostate Cancer	Prostate Adenocarcinoma	0.26	TCGA		>=8		1	30	PRAD	1.91998288	0.5	4+5	Primary
+P03-1906	75	Prostate Cancer	Prostate Adenocarcinoma	0.07	Broad/Cornell_2012	ERG FUSION	7		1.27	38	PRAD	2.031672601	0.28	3+4	Primary
+SC_9132	66	Prostate Cancer	Prostate Adenocarcinoma	0.58	PCF_SU2C			Lymph node	4.63	139	PRAD	3.191138798	0.2		Metastasis
+SC_9130	69	Prostate Cancer	Prostate Adenocarcinoma	0.01	PCF_SU2C			Pelvic Mass	31.53	946	PRAD	2	0.2		Metastasis
+PRAD-6115393.0-SM-7LGUF	69	Prostate Cancer	Prostate Adenocarcinoma	0.2	PCF_SU2C				1.43	43	PRAD	1.929452515	0.78		Metastasis
+P09-1580	62	Prostate Cancer	Prostate Adenocarcinoma	0.05	Broad/Cornell_2012	ERG FUSION	7		1.07	32	PRAD	1.972148729	0.67	3+4	Primary
+P05-2212	66	Prostate Cancer	Prostate Adenocarcinoma	0.04	Broad/Cornell_2012		7		1.07	32	PRAD	2	0.2	3+4	Primary
+TCGA-EJ-5508-01	65	Prostate Cancer	Prostate Adenocarcinoma	0.02	TCGA	ERG FUSION	7		0.97	29	PRAD	2.057335	0.33	3+4	Primary
+TCGA-V1-A9OL-01	65	Prostate Cancer	Prostate Adenocarcinoma	0.27	TCGA		>=8		0.7	21	PRAD	1.858374152	0.4	5+4	Primary
+P08-2516	75	Prostate Cancer	Prostate Adenocarcinoma	0.04	Broad/Cornell_2012		>=8		1.83	55	PRAD	2.015891538	0.3	4+4	Primary
+TCGA-G9-6343-01	62	Prostate Cancer	Prostate Adenocarcinoma	0.03	TCGA		7		0.7	21	PRAD	2.008815	0.28	4+3	Primary
+PR-02-2480	69	Prostate Cancer	Prostate Adenocarcinoma	0.01	Broad/Cornell_2012	ERG FUSION	7		0.67	20	PRAD	2	0.2	3+4	Primary
+AAPC-STID0000012329-Tumor-SM-2XU1L	55	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	2.001004262	0.52	4+3	Primary
+TCGA-G9-6379-01	68	Prostate Cancer	Prostate Adenocarcinoma	0.07	TCGA		7		0.67	20	PRAD	1.931884	0.34	4+3	Primary
+TCGA-HC-7209-01	60	Prostate Cancer	Prostate Adenocarcinoma	0.05	TCGA	ERG FUSION	7		0.53	16	PRAD	1.978863	0.53	3+4	Primary
+AAPC-STID0000021600-Tumor-SM-3RVWL		Prostate Cancer	Prostate Adenocarcinoma		AAPC						PRAD	1.98815962	0.24		Primary
+SC_9148	83	Prostate Cancer	Prostate Adenocarcinoma	0.34	PCF_SU2C			Lymph node	2.7	81	PRAD	3.474005821	0.34		Metastasis
+TCGA-EJ-7218-01	71	Prostate Cancer	Prostate Adenocarcinoma	0.05	TCGA		6		0.93	28	PRAD	1.977868009	0.43	3+3	Primary
+SC_9145	75	Prostate Cancer	Prostate Adenocarcinoma	0.3	PCF_SU2C			Liver	4.87	146	PRAD	2.014505991	0.92		Metastasis
+SC_9144	69	Prostate Cancer	Prostate Adenocarcinoma	0.25	PCF_SU2C			Bone	3.77	113	PRAD	2.164385403	0.53		Metastasis
+TCGA-FC-7961-01	62	Prostate Cancer	Prostate Adenocarcinoma	0.21	TCGA		>=8		1.7	51	PRAD	1.953788098	0.5	4+5	Primary
+SC_9142	60	Prostate Cancer	Prostate Adenocarcinoma	0.01	PCF_SU2C			Lymph node	4.9	147	PRAD	2.042491176	0.3		Metastasis
+SC_9141		Prostate Cancer	Prostate Adenocarcinoma	0.43	PCF_SU2C			Lymph node	3.93	118	PRAD	3.687520864	0.8		Metastasis
+AAPC-IP_LG-073-Tumor-SM-3NC74	54	Prostate Cancer	Prostate Adenocarcinoma		AAPC		>=8				PRAD	1.993938957	0.38	3+5	Primary
+SC_9140		Prostate Cancer	Prostate Adenocarcinoma	0.4	PCF_SU2C			Liver	8.37	251	PRAD	3.599298445	0.38		Metastasis
+TCGA-V1-A9OA-01	61	Prostate Cancer	Prostate Adenocarcinoma	0.17	TCGA		>=8		0.47	14	PRAD	2.010101097	0.57	5+4	Primary
+PRAD-6115395.0-SM-7LGUH	61	Prostate Cancer	Prostate Adenocarcinoma	0.32	PCF_SU2C				1.6	48	PRAD	3.406256091	0.47		Metastasis
+PRAD-01115265-SM-6WZFB	78	Prostate Cancer	Prostate Adenocarcinoma	0.17	PCF_SU2C			Bone	1.1	33	PRAD	1.934646283	0.43		Metastasis
+AAPC-STID0000021550-Tumor-SM-2XTYM	67	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	1.981786713	0.58	3+4	Primary
+TCGA-EJ-5496-01	59	Prostate Cancer	Prostate Adenocarcinoma	0.08	TCGA	ERG FUSION	6		1.37	41	PRAD	2.010557	0.52	3+3	Primary
+AAPC-IP_LG-059-Tumor-SM-3NC6V	66	Prostate Cancer	Prostate Adenocarcinoma		AAPC		>=8				PRAD	2	0.2	4+4	Primary
+TCGA-EJ-A46I-01	57	Prostate Cancer	Prostate Adenocarcinoma	0	TCGA		6		0.17	5	PRAD	2	0.2	3+3	Primary
+TCGA-V1-A8MG-01		Prostate Cancer	Prostate Adenocarcinoma	0.18	TCGA		7		0.67	20	PRAD	2.016503532	0.37	4+3	Primary
+TCGA-J4-8200-01	47	Prostate Cancer	Prostate Adenocarcinoma	0.03	TCGA		7		0.5	15	PRAD	2.016785	0.52	3+4	Primary
+P09-2497	62	Prostate Cancer	Prostate Adenocarcinoma	0.03	Broad/Cornell_2012	ERG FUSION	6		0.4	12	PRAD	2.07853275	0.4	3+3	Primary
+TCGA-CH-5771-01	63	Prostate Cancer	Prostate Adenocarcinoma	0.03	TCGA	ETV4 FUSION	>=8		0.83	25	PRAD	2.004349967	0.27	5+4	Primary
+TCGA-V1-A8WS-01		Prostate Cancer	Prostate Adenocarcinoma	0.06	TCGA	ERG FUSION	7		0.73	22	PRAD	1.819514982	0.28	4+3	Primary
+TCGA-EJ-5506-01	67	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA	ERG FUSION	7		0.37	11	PRAD	2.030494	0.97	4+3	Primary
+AAPC-STID0000021596-Tumor-SM-2XTZL	64	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	2.246908672	0.3	3+4	Primary
+TCGA-2A-A8VX-01	70	Prostate Cancer	Prostate Adenocarcinoma	0.08	TCGA		>=8		0.93	28	PRAD	2.021002443	0.89	4+4	Primary
+MO_1410	66	Prostate Cancer	Prostate Adenocarcinoma	0.5	PCF_SU2C	ERG FUSION		Liver	3.8	114	PRAD	3.267348601	0.44		Metastasis
+01-087MM_BONE		Prostate Cancer	Prostate Adenocarcinoma	0.16	Nelson			Bone	1.63	49	PRAD	1.871227842	0.66		Metastasis
+PROS12319B-SU2C-06115116-SM-4W2NB	83	Prostate Cancer	Prostate Adenocarcinoma	0.1	PCF_SU2C				2.47	74	PRAD	4.337346617	0.57		Metastasis
+TCGA-G9-6377-01	61	Prostate Cancer	Prostate Adenocarcinoma	0.11	TCGA	ERG FUSION	7		0.9	27	PRAD	1.935745	0.67	3+4	Primary
+TCGA-HC-7232-01	66	Prostate Cancer	Prostate Adenocarcinoma	0.12	TCGA	ERG FUSION	7		0.97	29	PRAD	2.063661	0.58	3+4	Primary
+TCGA-EJ-5518-01	66	Prostate Cancer	Prostate Adenocarcinoma	0.21	TCGA		>=8		1.3	39	PRAD	2.020007	0.51	4+5	Primary
+PRAD-6115398.0-SM-7LGUK	84	Prostate Cancer	Prostate Adenocarcinoma	0.63	PCF_SU2C				2.57	77	PRAD	3.920943973	0.66		Metastasis
+TCGA-HC-7750-01	50	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA		6		0.87	26	PRAD	2.888968	0.28	3+3	Primary
+TCGA-EJ-A7NH-01	56	Prostate Cancer	Prostate Adenocarcinoma	0.08	TCGA	ETV1 FUSION	7		0.6	18	PRAD	2.041986	0.36	3+4	Primary
+TCGA-HC-8216-01	58	Prostate Cancer	Prostate Adenocarcinoma	0.17	TCGA		7		3.43	103	PRAD	1.854789726	0.21	4+3	Primary
+AAPC-IP_LG-009-Tumor-SM-3NC5W	67	Prostate Cancer	Prostate Adenocarcinoma		AAPC		>=8				PRAD	2	0.2	5+4	Primary
+AAPC-STID0000021613-Tumor-SM-2XU1K	63	Prostate Cancer	Prostate Adenocarcinoma		AAPC		6				PRAD	1.917774408	0.26	3+3	Primary
+TCGA-EJ-5498-01	56	Prostate Cancer	Prostate Adenocarcinoma	0.02	TCGA	ERG FUSION	7		0.97	29	PRAD	2.089293	0.31	3+4	Primary
+AAPC-STID0000010902-Tumor-SM-2XU1E	52	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	2.024461196	0.47	3+4	Primary
+TCGA-YL-A8HJ-01	58	Prostate Cancer	Prostate Adenocarcinoma	0.02	TCGA	ERG FUSION	7		0.8	24	PRAD	2.020621035	0.31	4+3	Primary
+TCGA-ZG-A8QW-01	72	Prostate Cancer	Prostate Adenocarcinoma	0.05	TCGA		7		0.8	24	PRAD	1.980512431	0.36	3+4	Primary
+TCGA-KK-A5A1-01	72	Prostate Cancer	Prostate Adenocarcinoma	0.41	TCGA		>=8		2.93	88	PRAD	4.280332394	0.71	4+5	Primary
+TCGA-KK-A8IC-01		Prostate Cancer	Prostate Adenocarcinoma	0.12	TCGA	ERG FUSION	7		0.43	13	PRAD	1.944788092	0.36	4+3	Primary
+TCGA-EJ-7794-01	67	Prostate Cancer	Prostate Adenocarcinoma	0.07	TCGA		7		0.47	14	PRAD	2.022522401	0.37	3+4	Primary
+SC_9173	73	Prostate Cancer	Prostate Adenocarcinoma	0.5	PCF_SU2C			Bone	1.7	51	PRAD	3.582054674	0.57		Metastasis
+TCGA-KK-A6DY-01	50	Prostate Cancer	Prostate Adenocarcinoma	0.1	TCGA	ERG FUSION	7		0.9	27	PRAD	1.965989	0.43	3+4	Primary
+SC_9172	68	Prostate Cancer	Prostate Adenocarcinoma	0.25	PCF_SU2C			Bone	2.1	63	PRAD	4.048808177	0.57		Metastasis
+TCGA-J4-A67Q-01	77	Prostate Cancer	Prostate Adenocarcinoma	0.03	TCGA		6		0.67	20	PRAD	2.021535	0.29	3+3	Primary
+AAPC-STID0000021571-Tumor-SM-3RVWD	59	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	1.941591909	0.5	3+4	Primary
+SC_9171	72	Prostate Cancer	Prostate Adenocarcinoma	0.21	PCF_SU2C			Bone	1.4	42	PRAD	1.82817291	0.36		Metastasis
+PROS01448-DFCI.10-448.P27-SM-5CQ5J		Prostate Cancer	Prostate Adenocarcinoma	0.47	PCF_SU2C				1.93	58	PRAD	1.980191786	0.28		Metastasis
+TCGA-J4-A6G3-01	57	Prostate Cancer	Prostate Adenocarcinoma	0	TCGA		>=8		0.63	19	PRAD	2.017663	0.25	4+5	Primary
+TCGA-HC-A4ZV-01	56	Prostate Cancer	Prostate Adenocarcinoma	0.31	TCGA		>=8		2.1	63	PRAD	2.061322611	0.68	4+5	Primary
+05-011G4_LUNG		Prostate Cancer	Prostate Adenocarcinoma	0	Nelson			Lung	4.07	122	PRAD	2.101863971	0.79		Metastasis
+P09-649	71	Prostate Cancer	Prostate Adenocarcinoma	0.01	Broad/Cornell_2012		7		0.77	23	PRAD	2.004136412	0.24	4+3	Primary
+08-006H1_LN		Prostate Cancer	Prostate Adenocarcinoma	0.02	Nelson			Lymph Node	1.13	34	PRAD	1.873338013	0.51		Metastasis
+P02-2035	63	Prostate Cancer	Prostate Adenocarcinoma	0.02	Broad/Cornell_2012	ERG FUSION	7		0.87	26	PRAD	1.966624245	0.39	3+4	Primary
+PRAD-01115245-SM-6WZF3	60	Prostate Cancer	Prostate Adenocarcinoma	0.16	PCF_SU2C			Bone	1.8	54	PRAD	2.014279335	0.42		Metastasis
+05-217L3_LUNG		Prostate Cancer	Prostate Adenocarcinoma	0.08	Nelson			Lung	1.13	34	PRAD	2.292594878	0.3		Metastasis
+AAPC-STID0000021574-Tumor-SM-3RVWF	61	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	2.071136318	0.54	4+3	Primary
+PR-2761	56	Prostate Cancer	Prostate Adenocarcinoma	0.04	Broad/Cornell_2012		6		1.03	31	PRAD	1.994414735	0.4	3+3	Primary
+TCGA-KK-A7AU-01		Prostate Cancer	Prostate Adenocarcinoma	0.12	TCGA	ERG FUSION	7		0.63	19	PRAD	2.011669	0.83	4+3	Primary
+TCGA-CH-5748-01	64	Prostate Cancer	Prostate Adenocarcinoma	0.02	TCGA	ETV1 FUSION	7		1.03	31	PRAD	1.84720146	0.25	3+4	Primary
+PR-2762	68	Prostate Cancer	Prostate Adenocarcinoma	0.05	Broad/Cornell_2012		7		1.57	47	PRAD	2.044744422	0.5	3+4	Primary
+TCGA-ZG-A9L5-01	58	Prostate Cancer	Prostate Adenocarcinoma	0.52	TCGA		>=8		1.4	42	PRAD	3.763692197	0.85	5+4	Primary
+TCGA-G9-6333-01	66	Prostate Cancer	Prostate Adenocarcinoma	0.05	TCGA		7		0.9	27	PRAD	1.985149772	0.44	4+3	Primary
+TCGA-G9-7519-01	58	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA		6		1.13	34	PRAD	2.069123239	0.28	3+3	Primary
+TCGA-KK-A8I8-01		Prostate Cancer	Prostate Adenocarcinoma	0.1	TCGA	ERG FUSION	7		0.43	13	PRAD	2.015768404	0.69	3+4	Primary
+TCGA-V1-A8WW-01		Prostate Cancer	Prostate Adenocarcinoma	0.2	TCGA	ERG FUSION	>=8		1.03	31	PRAD	1.956661388	0.8	4+5	Primary
+AAPC-STID0000021551-Tumor-SM-2XTYN	60	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	1.971988549	0.21	3+4	Primary
+PR-09-5702	68	Prostate Cancer	Prostate Adenocarcinoma	0.11	Broad/Cornell_2012	ERG FUSION	7		1.77	53	PRAD	2.015844275	0.64	3+4	Primary
+PR-09-5700	60	Prostate Cancer	Prostate Adenocarcinoma	0.06	Broad/Cornell_2012	ERG FUSION	7		1.43	43	PRAD	2.030028343	0.52	3+4	Primary
+TCGA-EJ-7115-01	65	Prostate Cancer	Prostate Adenocarcinoma	0.07	TCGA		>=8		1.23	37	PRAD	2.006166782	0.43	4+4	Primary
+AAPC-IP_LG-075-Tumor-SM-3NC76		Prostate Cancer	Prostate Adenocarcinoma		AAPC						PRAD	2	0.2		Primary
+PROS11496-6115319-SM-6CNQ3		Prostate Cancer	Prostate Adenocarcinoma	0.53	PCF_SU2C				2.3	69	PRAD	3.882810453	0.57		Metastasis
+TCGA-EJ-7125-01	44	Prostate Cancer	Prostate Adenocarcinoma	0.06	TCGA		6		0.77	23	PRAD	2.260455363	0.18	3+3	Primary
+PRAD-01115249-SM-6VZ7K	75	Prostate Cancer	Prostate Adenocarcinoma	0.56	PCF_SU2C			Bone	2.47	74	PRAD	4.352784547	0.5		Metastasis
+TCGA-M7-A71Z-01	62	Prostate Cancer	Prostate Adenocarcinoma	0.06	TCGA	ERG FUSION	7		0.77	23	PRAD	1.952361	0.81	4+3	Primary
+AAPC-STID0000021586-Tumor-SM-2XU24	59	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	2	0.2	3+4	Primary
+08-093J1_LN		Prostate Cancer	Prostate Adenocarcinoma	0.17	Nelson			Lymph Node	1.27	38	PRAD	1.847052171	0.72		Metastasis
+PROS10448-1115154-SM-5EEBM	49	Prostate Cancer	Prostate Adenocarcinoma	0.58	PCF_SU2C	ERG FUSION		Lymph node	1.33	40	PRAD	3.631251331	0.76		Metastasis
+TCGA-XJ-A83G-01	51	Prostate Cancer	Prostate Adenocarcinoma	0.09	TCGA		7		0.77	23	PRAD	1.9451	0.53	3+4	Primary
+PR-00-160	60	Prostate Cancer	Prostate Adenocarcinoma	0.08	Broad/Cornell_2012		7		1.07	32	PRAD	1.942498756	0.71	3+4	Primary
+P02-1562	67	Prostate Cancer	Prostate Adenocarcinoma	0.07	Broad/Cornell_2012		7		1.07	32	PRAD	1.970079904	0.55	4+3	Primary
+TCGA-KK-A6E1-01	57	Prostate Cancer	Prostate Adenocarcinoma	0.18	TCGA	ERG FUSION	>=8		0.8	24	PRAD	1.836205	0.73	4+5	Primary
+TCGA-ZG-A9N3-01	73	Prostate Cancer	Prostate Adenocarcinoma	0.6	TCGA	ERG FUSION	>=8		1.43	43	PRAD	3.316920365	0.47	5+4	Primary
+AAPC-STID0000002869-Tumor-SM-2XU51	52	Prostate Cancer	Prostate Adenocarcinoma		AAPC		6				PRAD	2.128470425	0.15	3+3	Primary
+P03-595	58	Prostate Cancer	Prostate Adenocarcinoma	0.01	Broad/Cornell_2012	ERG FUSION	>=8		0.87	26	PRAD	1.979414085	0.3	4+5	Primary
+PR-04-639	61	Prostate Cancer	Prostate Adenocarcinoma	0.08	Broad/Cornell_2012		7		1.03	31	PRAD	2.047449097	0.5	3+4	Primary
+TCGA-KC-A4BL-01		Prostate Cancer	Prostate Adenocarcinoma	0	TCGA		6		0.73	22	PRAD	2	0.2	3+3	Primary
+TCGA-EJ-5494-01	50	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA		7		0.93	28	PRAD	2.023492	0.56	3+4	Primary
+TCGA-HC-8258-01	56	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA		6		0.4	12	PRAD	2.228761242	0.39	3+3	Primary
+TCGA-KC-A7F5-01	54	Prostate Cancer	Prostate Adenocarcinoma	0.09	TCGA		7		1	30	PRAD	2.029059	0.91	4+3	Primary
+TCGA-M7-A720-01	53	Prostate Cancer	Prostate Adenocarcinoma	0.02	TCGA	ERG FUSION	6		0.3	9	PRAD	2	0.2	3+3	Primary
+AAPC-STID0000002909-Tumor-SM-2XTZ4		Prostate Cancer	Prostate Adenocarcinoma		AAPC						PRAD	2.017675696	0.59		Primary
+TCGA-V1-A8WL-01		Prostate Cancer	Prostate Adenocarcinoma	0.04	TCGA		7		0.73	22	PRAD	1.994700822	0.66	3+4	Primary
+PRAD-6115381.0-SM-7LGU3	60	Prostate Cancer	Prostate Adenocarcinoma	0.59	PCF_SU2C				1.43	43	PRAD	3.298610683	0.87		Metastasis
+TCGA-G9-6370-01	52	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA		7		0.13	4	PRAD	2	0.2	3+4	Primary
+PRAD-6115390.0-SM-7LGUC	68	Prostate Cancer	Prostate Adenocarcinoma	0.41	PCF_SU2C				4.03	121	PRAD	1.879334413	0.86		Metastasis
+PROS01448-DFCI.10-448.P40-SM-5CQ53		Prostate Cancer	Prostate Adenocarcinoma	0.83	PCF_SU2C				0.93	28	PRAD	3.792090966	0.29		Metastasis
+PR-02-2072	54	Prostate Cancer	Prostate Adenocarcinoma	0.1	Broad/Cornell_2012	ERG FUSION	7		1.17	35	PRAD	1.996377119	0.41	4+3	Primary
+TCGA-VP-A875-01	67	Prostate Cancer	Prostate Adenocarcinoma	0.24	TCGA	ERG FUSION	7		0.9	27	PRAD	5.046389	0.23	4+3	Primary
+TCGA-EJ-A65J-01	62	Prostate Cancer	Prostate Adenocarcinoma	0.1	TCGA		7		0.9	27	PRAD	2.038946	0.81	3+4	Primary
+TCGA-H9-A6BX-01	60	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA		6		0.17	5	PRAD	2	0.2	3+3	Primary
+AAPC-STID0000021595-Tumor-SM-2XTZK	66	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	2.08695884	0.74	3+4	Primary
+TCGA-HC-7212-01	56	Prostate Cancer	Prostate Adenocarcinoma	0.09	TCGA	ERG FUSION	>=8		1.03	31	PRAD	1.948725	0.76	4+4	Primary
+TCGA-J4-A67M-01	55	Prostate Cancer	Prostate Adenocarcinoma	0.07	TCGA	ETV4 FUSION	7		0.93	28	PRAD	2.020256	0.36	4+3	Primary
+TCGA-X4-A8KQ-01	65	Prostate Cancer	Prostate Adenocarcinoma	0.17	TCGA	ERG FUSION	>=8		1.1	33	PRAD	1.986618326	0.55	4+5	Primary
+03-139E3_RETROPERITONEAL		Prostate Cancer	Prostate Adenocarcinoma	0.13	Nelson			Retroperitoneal	1.17	35	PRAD	1.990020258	0.73		Metastasis
+AAPC-IP_LG-069-Tumor-SM-3NC72	73	Prostate Cancer	Prostate Adenocarcinoma		AAPC		>=8				PRAD	1.998576055	0.47	3+5	Primary
+PROS01448-DFCI.10-448.P30-SM-5CQ4V		Prostate Cancer	Prostate Adenocarcinoma	0.84	PCF_SU2C				2.1	63	PRAD	4.328679289	0.3		Metastasis
+AAPC-STID0000011640-Tumor-SM-2XU1H	40	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	2.024372522	0.22	3+4	Primary
+TCGA-CH-5744-01	64	Prostate Cancer	Prostate Adenocarcinoma	0.07	TCGA	ERG FUSION	>=8		0.87	26	PRAD	1.973753602	0.56	4+4	Primary
+TCGA-TP-A8TV-01	62	Prostate Cancer	Prostate Adenocarcinoma	0.15	TCGA		7		1	30	PRAD	1.977832295	0.87	4+3	Primary
+TCGA-ZG-A9L1-01	66	Prostate Cancer	Prostate Adenocarcinoma	0.33	TCGA	ERG FUSION	>=8		0.67	20	PRAD	2.274328056	0.7	5+5	Primary
+TCGA-ZG-A9NI-01	73	Prostate Cancer	Prostate Adenocarcinoma	0.24	TCGA		>=8		2.33	70	PRAD	2.252887992	0.56	5+5	Primary
+PM6-Halo-TM		Prostate Cancer	Prostate Adenocarcinoma	0.78	PCF_SU2C				1.67	50	PRAD	3.788439151	0.72		Metastasis
+PRAD-STID0000004240-Tumor-SM-S932		Prostate Cancer	Prostate Adenocarcinoma	0.39	NEPC				3.2	96	PRAD	2.386923953	0.61		Metastasis
+AAPC-STID0000021593-Tumor-SM-2XTZH	61	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	2.102075905	0.41	3+4	Primary
+TCGA-J9-A52D-01	71	Prostate Cancer	Prostate Adenocarcinoma	0.11	TCGA		>=8		1.13	34	PRAD	1.944232	0.9	4+5	Primary
+PR-01-2554	69	Prostate Cancer	Prostate Adenocarcinoma	0.09	Broad/Cornell_2012	ERG FUSION	7		1.97	59	PRAD	1.982117327	0.74	4+3	Primary
+PR-09-3566		Prostate Cancer	Prostate Adenocarcinoma	0.08	Broad/Cornell_2013				1.03	31	PRAD	2.228855255	0.3		Primary
+TCGA-EJ-8469-01	46	Prostate Cancer	Prostate Adenocarcinoma	0.18	TCGA	ERG FUSION	>=8		1.17	35	PRAD	2.148488	0.75	4+5	Primary
+AAPC-STID0000021564-Tumor-SM-3RVWC	77	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	2.014358576	0.62	3+4	Primary
+TCGA-EJ-5511-01	55	Prostate Cancer	Prostate Adenocarcinoma	0.16	TCGA	ETV4 FUSION	7		1.13	34	PRAD	1.942239	0.72	4+3	Primary
+TCGA-XK-AAIV-01	63	Prostate Cancer	Prostate Adenocarcinoma	0.29	TCGA		>=8		1.37	41	PRAD	3.496631768	0.25	5+5	Primary
+TCGA-EJ-7784-01	63	Prostate Cancer	Prostate Adenocarcinoma	0.25	TCGA	ERG FUSION	7		1.43	43	PRAD	2.32473049	0.53	4+3	Primary
+TCGA-CH-5766-01	55	Prostate Cancer	Prostate Adenocarcinoma	0.07	TCGA	ERG FUSION	7		1	30	PRAD	1.886279909	0.51	4+3	Primary
+TCGA-V1-A9OY-01	57	Prostate Cancer	Prostate Adenocarcinoma	0.03	TCGA	ERG FUSION	>=8		0.53	16	PRAD	2.01283827	0.51	5+3	Primary
+TCGA-HC-7747-01	52	Prostate Cancer	Prostate Adenocarcinoma	0.07	TCGA	ERG FUSION	7		1.3	39	PRAD	2.151080752	0.35	3+4	Primary
+TCGA-EJ-5521-01	63	Prostate Cancer	Prostate Adenocarcinoma	0.14	TCGA	ERG FUSION	>=8		1.43	43	PRAD	1.927858	0.4	4+4	Primary
+TCGA-YL-A8HL-01	58	Prostate Cancer	Prostate Adenocarcinoma	0.07	TCGA	ERG FUSION	>=8		0.47	14	PRAD	1.922404609	0.79	4+4	Primary
+AAPC-STID0000021587-Tumor-SM-2XTZD	60	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	1.973433756	0.56	3+4	Primary
+TCGA-VN-A88R-01	53	Prostate Cancer	Prostate Adenocarcinoma	0.12	TCGA		>=8		0.6	18	PRAD	1.978708743	0.74	4+4	Primary
+AAPC-IP_LG-091-Tumor-SM-3NC7I	63	Prostate Cancer	Prostate Adenocarcinoma		AAPC		>=8				PRAD	1.912061885	0.45	4+5	Primary
+TCGA-G9-7510-01	66	Prostate Cancer	Prostate Adenocarcinoma	0.06	TCGA		7		1	30	PRAD	1.817332739	0.3	3+4	Primary
+TCGA-KK-A8IA-01		Prostate Cancer	Prostate Adenocarcinoma	0.29	TCGA	ERG FUSION	>=8		0.9	27	PRAD	1.881953851	0.83	4+4	Primary
+P04-2740	71	Prostate Cancer	Prostate Adenocarcinoma	0.06	Broad/Cornell_2012	ERG FUSION	7		1.07	32	PRAD	1.950275845	0.47	4+3	Primary
+2746		Prostate Cancer	Prostate Adenocarcinoma	0.06	NEPC				0.97	29	PRAD	1.778540274	0.3		Primary
+05-165O_ADRENAL		Prostate Cancer	Prostate Adenocarcinoma	0.11	Nelson			Adrenal	31.43	943	PRAD	2.071867165	0.98		Metastasis
+PROS01448-6115234-SM-67ERX	66	Prostate Cancer	Prostate Adenocarcinoma	0.37	PCF_SU2C	ERG FUSION			1.77	53	PRAD	3.448048039	0.42		Metastasis
+TCGA-KK-A8I6-01		Prostate Cancer	Prostate Adenocarcinoma	0.07	TCGA	ERG FUSION	7		0.87	26	PRAD	1.93858533	0.46	4+3	Primary
+TCGA-YL-A9WX-01	68	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA	ERG FUSION	>=8		0.17	5	PRAD	1.973353224	0.17	5+4	Primary
+TCGA-EJ-8470-01	58	Prostate Cancer	Prostate Adenocarcinoma	0.09	TCGA		6		0.67	20	PRAD	1.914891159	0.45	3+3	Primary
+24290		Prostate Cancer	Prostate Adenocarcinoma	0.4	NEPC			Prostate	2.87	86	PRAD	1.88722469	0.86		Metastasis
+PROS10448-1115157-SM-5EEBO	71	Prostate Cancer	Prostate Adenocarcinoma	0.39	PCF_SU2C	ERG FUSION		Bond	1.97	59	PRAD	3.108856733	0.59		Metastasis
+TCGA-TP-A8TT-01	64	Prostate Cancer	Prostate Adenocarcinoma	0.08	TCGA	ERG FUSION	7		0.73	22	PRAD	2.003881212	0.55	4+3	Primary
+TCGA-CH-5791-01	72	Prostate Cancer	Prostate Adenocarcinoma	0.23	TCGA	ERG FUSION	7		1.27	38	PRAD	1.908352	0.77	4+3	Primary
+AAPC-STID0000021614-Tumor-SM-2XU1O	59	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	2	0.2	3+4	Primary
+P04-1421	54	Prostate Cancer	Prostate Adenocarcinoma	0.03	Broad/Cornell_2012	ERG FUSION	7		1	30	PRAD	2.000616027	0.3	3+4	Primary
+PROS01448-DFCI.10-448.P05-SM-581SL	63	Prostate Cancer	Prostate Adenocarcinoma	0.26	PCF_SU2C				1.3	39	PRAD	3.602045575	0.83		Metastasis
+TCGA-HC-7818-01	66	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA	ERG FUSION	6		0.77	23	PRAD	1.990279	0.24	3+3	Primary
+TCGA-J9-A52B-01	62	Prostate Cancer	Prostate Adenocarcinoma	0.11	TCGA	ERG FUSION	>=8		0.83	25	PRAD	1.763186	0.65	4+5	Primary
+TCGA-CH-5768-01	72	Prostate Cancer	Prostate Adenocarcinoma	0.05	TCGA	ERG FUSION	6		1.53	46	PRAD	1.991446893	0.65	3+3	Primary
+PROS01448-6115224-SM-67ERT	79	Prostate Cancer	Prostate Adenocarcinoma	0.22	PCF_SU2C	ETV4 FUSION			2.4	72	PRAD	1.693097606	0.19		Metastasis
+AAPC-IP_LG-031-Tumor-SM-3NC69	58	Prostate Cancer	Prostate Adenocarcinoma		AAPC		>=8				PRAD	2.111412437	0.31	4+4	Primary
+PR-1043	59	Prostate Cancer	Prostate Adenocarcinoma	0.01	Broad/Cornell_2012	ERG FUSION	6		1.1	33	PRAD	2	0.2	3+3	Primary
+TCGA-EJ-7786-01	62	Prostate Cancer	Prostate Adenocarcinoma	0.08	TCGA		6		0.97	29	PRAD	1.980486523	0.54	3+3	Primary
+TCGA-YL-A8SO-01	64	Prostate Cancer	Prostate Adenocarcinoma	0.22	TCGA		7		0.87	26	PRAD	2.051251052	0.5	4+3	Primary
+TCGA-2A-A8VO-01	57	Prostate Cancer	Prostate Adenocarcinoma	0.03	TCGA		6		0.83	25	PRAD	2.027539737	0.53	3+3	Primary
+AAPC-IP_LG-083-Tumor-SM-3NC7C	58	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	1.975769976	0.33	4+3	Primary
+TCGA-G9-7522-01	49	Prostate Cancer	Prostate Adenocarcinoma	0.01	TCGA	ERG FUSION	7		0.47	14	PRAD	1.798912	0.13	3+4	Primary
+TCGA-EJ-7123-01	59	Prostate Cancer	Prostate Adenocarcinoma	0.14	TCGA		7		1.27	38	PRAD	2.085246659	0.34	3+4	Primary
+TCGA-KK-A8IJ-01		Prostate Cancer	Prostate Adenocarcinoma	0.04	TCGA		6		0.77	23	PRAD	1.997087	0.55	3+3	Primary
+AAPC-STID0000021534-Tumor-SM-2XTYJ	63	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	2.127330005	0.64	4+3	Primary
+PR-04-3222	66	Prostate Cancer	Prostate Adenocarcinoma	0.21	Broad/Cornell_2012		7		0.9	27	PRAD	2.032771565	0.6	3+4	Primary
+AAPC-STID0000007540-Tumor-SM-2XU15		Prostate Cancer	Prostate Adenocarcinoma		AAPC						PRAD	1.981131598	0.25		Primary
+P04-594	66	Prostate Cancer	Prostate Adenocarcinoma	0.03	Broad/Cornell_2012		7		1.07	32	PRAD	1.98408498	0.44	3+4	Primary
+TCGA-G9-6347-01	59	Prostate Cancer	Prostate Adenocarcinoma	0	TCGA		6		0.5	15	PRAD	2	0.2	3+3	Primary
+P04-47	55	Prostate Cancer	Prostate Adenocarcinoma	0.03	Broad/Cornell_2012		7		0.33	10	PRAD	1.963336277	0.4	4+3	Primary
+AAPC-STID0000001044-Tumor-SM-2XU23	68	Prostate Cancer	Prostate Adenocarcinoma		AAPC		7				PRAD	1.975636811	0.62	4+3	Primary
+AAPC-STID0000021557-Tumor-SM-3RVWA	63	Prostate Cancer	Prostate Adenocarcinoma		AAPC		>=8				PRAD	1.859683943	0.26	5+4	Primary
+PR-05-839	69	Prostate Cancer	Prostate Adenocarcinoma	0.13	Broad/Cornell_2012		7		1.27	38	PRAD	1.903123051	0.3	3+4	Primary
+03-192B_LUNG		Prostate Cancer	Prostate Adenocarcinoma	0.04	Nelson			Lung	2.57	77	PRAD	2.197296274	0.78		Metastasis
+TCGA-KC-A7F3-01		Prostate Cancer	Prostate Adenocarcinoma	0.06	TCGA		6		0.8	24	PRAD	1.988451	0.49	3+3	Primary
+TCGA-M7-A722-01	65	Prostate Cancer	Prostate Adenocarcinoma	0.05	TCGA		>=8		1	30	PRAD	1.988493712	0.81	4+4	Primary
+TCGA-XA-A8JR-01	68	Prostate Cancer	Prostate Adenocarcinoma	0.04	TCGA		6		0.63	19	PRAD	2.032523635	0.36	3+3	Primary
+TCGA-YL-A8S9-01	63	Prostate Cancer	Prostate Adenocarcinoma	0.11	TCGA		7		0.7	21	PRAD	2.066327334	0.91	4+3	Primary
+TCGA-G9-6369-01	55	Prostate Cancer	Prostate Adenocarcinoma	0.09	TCGA		7		1.03	31	PRAD	1.949783	0.83	4+3	Primary
+PR-1024	73	Prostate Cancer	Prostate Adenocarcinoma	0.14	Broad/Cornell_2012		7		1.83	55	PRAD	1.631069969	0.44	3+4	Primary
