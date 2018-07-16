@@ -20,9 +20,10 @@ import requests as req
 
 url = "http://ferna11i.myweb.cs.uwindsor.ca/CBioPortal/Services/init.php";
 
-response = req.get(url);
+response = req.get(url)
 
-print(response.content);
+data = response.json()
+print(data)
 
-for value in dict.items(response.content):
-    print("{} ".format(value))
+for value in data:
+    print("{} {}".format(value['ID'], value['Name']))

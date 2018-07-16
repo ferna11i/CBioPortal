@@ -30,5 +30,6 @@ $conn = new mysqli($hostname, $username , $password, $database);
 	$rows[] = $row;  
   }	  
   
+  header('Content-type: application/json'); //To ensure that a json object is delivered
   echo json_encode($rows);	
 ?>
