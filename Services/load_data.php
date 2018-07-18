@@ -18,10 +18,10 @@ if(!$result){
  
  $data = json_decode($json,true);
  
- foreach($data as $item){
+ foreach($data as $item){ //row
 	//echo $item['CASE_ID'] . " " . $item['CLINICAL_GLEASON']. "<br>"; 
 	
-	foreach($item as $key => $val){
+	foreach($item as $key => $val){ //column
 		echo $val . "  " ;
 	}	
 	echo "<br>";
