@@ -17,12 +17,6 @@ if(!$result){
 $json = $result->fetch_assoc()['data'];
 $data = json_decode($json,true); #json table
 
-
-$query2 = "DESCRIBE data_objects";
-$result2 = $conn->query($query);
-if(!$result){
-	die($conn->error);
-}
       echo '<table>';
 
 
@@ -45,7 +39,6 @@ if(!$result){
  }	 
       echo '</table>';
       $result->close();
-      $result2->close();
       $conn->close();
 
 ?>
