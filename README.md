@@ -1,3 +1,7 @@
+#CBioportal extraction programs:
+
+By Julia Zheng and Johan Fernandes 
+
 # FetchCbioportal
 -------------------------------------------------------------------------------------------------------------------------------
 This script allows you to get data from cbioportal using the same query format as cbioportal's web API in a tab delimited .txt file in you current directory
