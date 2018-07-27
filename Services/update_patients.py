@@ -48,10 +48,10 @@ for row in rows:
     del rows2[0]                    #delete header row
     del rows2[-1]                   #delete last blank row
 
-    #3a) table studyinfo (studyid[id_all], patientid). 
+    #3a) table studyinfo (studyid[id], patientid). 
     for r2 in rows2: 
         col = str(r2).split('\t')  #1 to n-1
-        query = 'INSERT INTO studyinfo (studyid, patientid) VALUES ("' + key2+ '", "' + col[0] + '");'
+        query = 'INSERT INTO studyinfo (studyid, patientid) VALUES ("' + key + '", "' + col[0] + '");'
         r = rq.post(url_db, data=json.dumps(query))
 
     #3b.1) create table for each study -> 'patientinfo_studyid'
