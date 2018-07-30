@@ -6,5 +6,8 @@ import LoadClinicalData as lcd
 #3. Save the studies data to database : in progress
 
 data_dict = dq.getStudies()
+
+# for data in data_dict:
+#     print(data[5:])
 data = lcd.processStudies(data_dict)
 dq.updateGleasonScore(data)

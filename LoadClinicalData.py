@@ -2,15 +2,17 @@ import pandas as pd
 import requests as rq
 
 def getColumnHeaders(header):         #To get the data frame of column headers. [Index, Column Name]
-    columns = []
-    indices = []
+    columns = []                                        #Col 1: Study, Col 2: Case ID, Col n .. Gleason
 
-    for i,col in enumerate(header):
+    columns.append([-1, 'STUDY'])                       #adding a study column. Not to be extracted hence -1 as index
+    for i, col in enumerate(header):
         if 'GLEASON' in col or 'CASE_ID' in col:        #extract the columns with names GLEASON or CASE ID
-            columns.append(col)
-            indices.append(i)
+            columns.append([i, col])
 
-    df = pd.DataFrame(data=columns, index=indices, columns=['Names'])   #Create a new DF for each study
+    if len(columns) > 2:                                #Create DF if Gleason column exists
+        df = pd.DataFrame(data=columns, columns=['Extract_Index', 'Names'])   #Create a new DF for each study
+    else:
+        df = None                                   #Pass none as no df is required
 
     return df
 
@@ -47,25 +49,30 @@ def processStudies(data_dict):
 
         header_df = getColumnHeaders(header)                     #Get column headers for each study
 
-        # create df for data and put it in dictonary of studies
-        data_dict[study] = pd.DataFrame(columns=list(header_df['Names']))
+        if header_df is not None:                                #If there is a DF only then fill DF
 
-        for sentence in rows:
-            row = str(sentence).split("\t")                      #get each cell
-            data = []                                            #list for each row of data
-            counter = len(data_dict[study])
-            for index in header_df.index:
-                data.append(row[index])                          #put each row in the list
+            # create df for data and put it in dictonary of studies
+            data_dict[study] = pd.DataFrame(columns=list(header_df['Names']))
 
-            data_dict[study].loc[counter] = data
+            for sentence in rows:
+                row = str(sentence).split("\t")                      #get each cell
+                data = []                                            #list for each row of data
+                data.append(study[5:])                               #adding study id to each row. Removing prad_ .
+                counter = len(data_dict[study])
 
-        if len(final_table) != 0:
-            merge_col = getCommonColumns(final_table, data_dict[study])
-            final_table = pd.merge(final_table, data_dict[study], how='outer', on=merge_col) #on=", ".join(merge_col)
-        else:
-            final_table = data_dict[study]
+                for index in header_df['Extract_Index']:             #Loop over the Extract Index column
+                    if index != -1:
+                        data.append(row[index])                      #put each row in the list
+
+                data_dict[study].loc[counter] = data
+
+            if len(final_table) != 0:
+                merge_col = getCommonColumns(final_table, data_dict[study])
+                final_table = pd.merge(final_table, data_dict[study], how='outer', on=merge_col) #on=", ".join(merge_col)
+            else:
+                final_table = data_dict[study]
 
 
     json_data = final_table.to_json(orient='index')
-#    print(json_data)
+    print(json_data)
     return json_data
