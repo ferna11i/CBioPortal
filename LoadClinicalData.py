@@ -67,4 +67,5 @@ def processStudies(data_dict):
 
 
     json_data = final_table.to_json(orient='index')
-    print(json_data)
+#    print(json_data)
+    return json_data
