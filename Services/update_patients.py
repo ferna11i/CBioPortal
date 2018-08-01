@@ -55,7 +55,7 @@ for row in rows:
         r = rq.post(url_db, data=json.dumps(query))
 
     #3b.1) create table for each study -> 'patientinfo_studyid'
-    create_table = 'CREATE TABLE patientinfo_'+key2 +' (patientid VARCHAR(100) NOT NULL, PRIMARY KEY (patientid)'
+    create_table = 'CREATE TABLE patientinfo_'+key +' (patientid VARCHAR(100) NOT NULL, PRIMARY KEY (patientid)'
     for attributes in columns:
         create_table += ', ' +attributes.lower() + ' TEXT' 
     create_table += ');'
@@ -64,7 +64,7 @@ for row in rows:
     #3b.2) populate tables for each study
     for r2 in rows2: 
         col = str(r2).split('\t')  #1 to n-1
-        query = 'INSERT INTO patientinfo_'+key2+' VALUES (';
+        query = 'INSERT INTO patientinfo_'+key+' VALUES (';
         query += '"'+col[0]+'"'
         for c in col[1:]: 
             query += ', "'+c+'"'                           #populate the table with rows of patient data
