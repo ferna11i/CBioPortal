@@ -69,6 +69,6 @@ for row in rows:
         for c in col[1:]: 
             query += ', "'+c+'"'                           #populate the table with rows of patient data
         query += ');'
-    r = rq.post(url_db, data=json.dumps(query))
-    print(r.text)
+        r = rq.post(url_db, data=json.dumps(query))
+
 
