@@ -15,6 +15,8 @@
 	if($data['cmd'] == 'getData') $response = getData($conn,$data['query']);
 	
 	else if($data['cmd'] == 'updateData') $response = updateData($conn,$data['query']);
+	
+	else if($data['cmd'] == 'insertStudyInfoData') $response = insertStudyInfoData($conn,$data['query']);
 
 	header('Content-type: application/json');	
 	echo $response;
@@ -44,6 +46,16 @@
 		if(!$result) die($conn->error);
 		
 		return $result;
+	}
+
+	function insertStudyInfoData($conn, $query){
+
+		echo "Here !";
+		
+		$result = $conn->multi_query($query);
+		
+		if(!$result) die($conn->error);
+		
+		return $result;		
 	}	
-	
 ?>

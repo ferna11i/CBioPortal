@@ -1,43 +1,10 @@
 import pandas as pd
 import requests as rq
 
-def getColumnHeaders(header):         #To get the data frame of column headers. [Index, Column Name]
-    columns = []                                        #Col 1: Study, Col 2: Case ID, Col n .. Gleason
-
-    columns.append([-1, 'STUDY'])                       #adding a study column. Not to be extracted hence -1 as index
-    for i, col in enumerate(header):
-        if 'GLEASON' in col or 'CASE_ID' in col:        #extract the columns with names GLEASON or CASE ID
-            columns.append([i, col])
-
-    if len(columns) > 2:                                #Create DF if Gleason column exists
-        df = pd.DataFrame(data=columns, columns=['Extract_Index', 'Names'])   #Create a new DF for each study
-    else:
-        df = None                                   #Pass none as no df is required
-
-    return df
-
-def getCommonColumns(fn_table, new_df):
-
-    column_list = []
-
-    for table_col in fn_table.columns.values:   #loop over final table column
-        for df_col in new_df.columns.values:    #loop over new DF's columns
-            if df_col in table_col:             #see which column of new DF is missing from final column
-                column_list.append(df_col)      #Add the new column into a list
-
-    return column_list
-
-
 def processStudies(data_dict):
     url = "http://www.cbioportal.org/webservice.do?"
     command = "cmd=getClinicalData&case_set_id={}_all" #Provides placeholder for study name
-
-
-    #data_dict = {}                   #dictionary of studies , #prad_mskcc_2014_all , prad_tcga_pub_all
-    # data_dict["prad_broad_2013"] = ""
-    # data_dict["prad_eururol_2017"] = ""
     final_table = pd.DataFrame()
-    merge_col = []
 
     for study in data_dict:
         response = rq.get(url + command.format(study))    #put the study name in command & hit the web service
@@ -73,6 +40,52 @@ def processStudies(data_dict):
                 final_table = data_dict[study]
 
 
+    #cleanData(final_table)
+    print(len(final_table))
     json_data = final_table.to_json(orient='index')
-    print(json_data)
+    #print(json_data)
     return json_data
+
+#------------------------- Get the column headers for extraction into DF ----------------------
+#----------------------------------------------------------------------------------------------
+
+def getColumnHeaders(header):         #To get the data frame of column headers. [Index, Column Name]
+    columns = []                                        #Col 1: Study, Col 2: Case ID, Col n .. Gleason
+
+    columns.append([-1, 'STUDY'])                       #adding a study column. Not to be extracted hence -1 as index
+    for i, col in enumerate(header):
+        if 'GLEASON' in col or 'CASE_ID' in col:        #extract the columns with names GLEASON or CASE ID
+            columns.append([i, col])
+
+    if len(columns) > 2:                                #Create DF if Gleason column exists
+        df = pd.DataFrame(data=columns, columns=['Extract_Index', 'Names'])   #Create a new DF for each study
+    else:
+        df = None                                   #Pass none as no df is required
+
+    return df
+
+#------------------------- Get the common columsn amoung the DF -------------------------------
+#----------------------------------------------------------------------------------------------
+
+def getCommonColumns(fn_table, new_df):
+
+    column_list = []
+
+    for table_col in fn_table.columns.values:   #loop over final table column
+        for df_col in new_df.columns.values:    #loop over new DF's columns
+            if df_col in table_col:             #see which column of new DF is missing from final column
+                column_list.append(df_col)      #Add the new column into a list
+
+    return column_list
+
+#------------------------- Clean the data based on certain conditions --------------------------
+#-----------------------------------------------------------------------------------------------
+
+def cleanData(table):
+
+    # for gleason_score in table['GLEASON_SCORE']:
+    #     if ";" in gleason_score:
+    #         gleason_score = str(gleason_score).split(";")[0]
+    #
+    # return table
+    print(table['GLEASON_SCORE'].dtype)

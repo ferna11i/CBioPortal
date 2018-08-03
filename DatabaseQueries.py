@@ -25,6 +25,14 @@ def updateGleasonScore(jsonData):
 
     print(response.content)
 
+def getClinicalData():
+
+    data = {"query" : "Select data from data_objects where tag = 'gleason';",
+            "cmd" : "getData"}
+
+    response = req.post(url=url, data=json.dumps(data))
+
+    return response.content
 
 url = "http://ferna11i.myweb.cs.uwindsor.ca/CBioPortal/Services/ClinicalData.php";
 
