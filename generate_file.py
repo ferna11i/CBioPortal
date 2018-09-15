@@ -14,7 +14,7 @@ table_names = json.loads(result.text)				#the json array in php is parsed into a
 
 #2. make the 2D array
 arr = []
-arr.append(['CASE_ID', 'AGE', 'Prostate Specific Antigen(NG/DL)'])	#desirable column attributes
+arr.append(['CASE_ID', 'AGE', 'PSA(NG/DL)'])	#desirable column attributes
 
 #3. query the prostate cancer studies and add to the 2D array
 for n in table_names:
@@ -23,13 +23,9 @@ for n in table_names:
 	result = rq.post(url_db, data=json.dumps(query)) #send in requests
 	column_name = json.loads(result.text)				#the json array in php is parsed into a python list
 	
-#################################
-#################################
-###########CHANGE THIS PART ONCE THE DB IS UPDATED WITH ALL PROSTATE CANCER STUDIES
-#################################
-#################################
-	#query = 'SELECT patientid as CASE_ID, AGE,'+column_name[0]+' as Prostate_Specific_Antigen(NG/DL) FROM `' + n + '`'
-	query = 'SELECT patientid as CASE_ID, AGE FROM `patientinfo_acyc_mda_2015`'
+	query = 'SELECT patientid as CASE_ID, AGE,'+column_name[0]+' as PSA(NG/DL) FROM `' + n + '`'
+	#query = 'SELECT patientid as CASE_ID, AGE FROM `patientinfo_acyc_mda_2015`'
+	print(query)
 	result = rq.post(url_db2, data=json.dumps(query)) #send in requests
 	rows = json.loads(result.text)				#the json array in php is parsed into a python list
 	#append results to 2D array
