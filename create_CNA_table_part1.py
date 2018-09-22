@@ -109,7 +109,7 @@ df = pd.DataFrame(myarray)		#convert 2D array into dictionary for easy table mer
 df.drop_duplicates(inplace=True)	#delete duplicate rows of genes thanks to some studies (data_CNA_prad_mskcc_2014.txt)
 df.to_csv('cna_compiled_genes.csv', header=False, index=False, mode='w')
 ####
-#3. merge tables see part2 of create_CNA_table_part2.py
+#3. merge tables. see part2 of create_CNA_table_part2.py
 ####
 
 
